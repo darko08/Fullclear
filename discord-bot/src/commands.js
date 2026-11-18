@@ -6,7 +6,6 @@ const commands = [
   new SlashCommandBuilder()
     .setName('submit')
     .setDescription('Submit your own clip or screenshot of a find')
-    .addAttachmentOption((o) => o.setName('clip').setDescription('Your video or screenshot').setRequired(true))
     .addStringOption((o) => o.setName('category').setDescription('What is it?').setRequired(true)
       .addChoices(...CATEGORIES.map((c) => ({ name: c, value: c }))))
     .addStringOption((o) => o.setName('location').setDescription('Where is it? (area, landmark, nearest road)')
@@ -16,6 +15,9 @@ const commands = [
     .addBooleanOption((o) => o.setName('consent')
       .setDescription('True = I recorded this myself and agree to the Full Clear clip licence (see #rules)')
       .setRequired(true))
+    .addAttachmentOption((o) => o.setName('clip').setDescription('Your video or screenshot (max 10 MB on Discord). Or use link'))
+    .addStringOption((o) => o.setName('link').setDescription('Too big? Link to your own upload: YouTube, TikTok, Google Drive…')
+      .setMaxLength(300))
     .addStringOption((o) => o.setName('credit').setDescription('Name to credit in videos (default: your username)')
       .setMaxLength(40)),
 

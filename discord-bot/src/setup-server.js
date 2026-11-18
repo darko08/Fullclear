@@ -66,7 +66,7 @@ const MESSAGES = {
     `# Earn points & get featured 🎬\n` +
     `1. Record the find. **PS5:** Create button → *Save recent gameplay*. **Xbox:** Xbox button → *Capture*.\n` +
     `2. Send it to your phone with the PlayStation App or Xbox App. Keep it **under 60 seconds**.\n` +
-    `3. In <#submit-here> type \`/submit\`, attach the clip, pick the category, write where it is.\n` +
+    `3. In <#submit-here> type \`/submit\`, attach the clip (max 10 MB) **or** paste a \`link\` to your own upload (YouTube, TikTok, Google Drive…), pick the category, write where it is.\n` +
     `4. Set \`consent\` to **True** (it's your own clip, see <#rules>).\n\n` +
     `✅ Approved = **+${POINTS.approved} pts**  ·  🎬 Featured in a video = **+${POINTS.featured} more** and your name on screen\n` +
     `**Ranks:** ${RANKS.map((r) => r.points ? `${r.role} (${r.points})` : r.role).join(' → ')}\n` +

@@ -18,6 +18,16 @@ test('validation', () => {
   assert.match(validateSubmission({ ...ok, contentType: 'application/zip' }), /Only video/);
   assert.match(validateSubmission({ ...ok, sizeBytes: 500e6 }), /too big/);
   assert.match(validateSubmission({ ...ok, submittedToday: 10 }), /limit/);
+  const link = { consent: true, link: 'https://youtu.be/abc123', submittedToday: 0 };
+  assert.equal(validateSubmission(link), null);
+  assert.equal(validateSubmission({ ...link, link: 'https://www.tiktok.com/@me/video/1' }), null);
+  assert.equal(validateSubmission({ ...link, link: 'https://drive.google.com/file/d/x/view' }), null);
+  assert.match(validateSubmission({ ...link, link: 'http://youtu.be/abc' }), /isn't accepted/);
+  assert.match(validateSubmission({ ...link, link: 'https://evil.com/youtube.com' }), /isn't accepted/);
+  assert.match(validateSubmission({ ...link, link: 'https://youtube.com.evil.com/x' }), /isn't accepted/);
+  assert.match(validateSubmission({ consent: true, submittedToday: 0 }), /Attach your clip/);
+  assert.match(validateSubmission({ ...ok, link: 'https://youtu.be/a' }), /not both/);
+  assert.match(validateSubmission({ ...link, consent: false }), /licence/);
 });
 
 test('file names and csv', () => {

@@ -10,7 +10,7 @@ const {
 } = require('discord.js');
 const { env, POINTS, RANKS, LICENSE_TEXT } = require('./config');
 const { openDb } = require('./db');
-const { rankFor, validateSubmission, safeFileName, toCsv } = require('./logic');
+const { rankFor, validateSubmission, parseClipLink, safeFileName, toCsv } = require('./logic');
 
 const TOKEN = env('DISCORD_TOKEN');
 const REVIEW_CHANNEL_ID = env('REVIEW_CHANNEL_ID');   // private, moderators only
@@ -53,16 +53,19 @@ client.on(Events.InteractionCreate, async (i) => {
 });
 
 async function handleSubmit(i) {
-  const clip = i.options.getAttachment('clip', true);
+  const clip = i.options.getAttachment('clip');
+  const link = i.options.getString('link');
   const error = validateSubmission({
     consent: i.options.getBoolean('consent', true),
-    contentType: clip.contentType,
-    sizeBytes: clip.size,
+    contentType: clip ? clip.contentType : undefined,
+    sizeBytes: clip ? clip.size : undefined,
+    link,
     submittedToday: db.pendingToday(i.user.id),
   });
   if (error) return i.reply({ content: `❌ ${error}\n\n**Licence:** ${LICENSE_TEXT}`, ...EPHEMERAL });
 
   await i.deferReply(EPHEMERAL);
+  const sourceUrl = clip ? clip.url : parseClipLink(link);
 
   const id = db.addSubmission({
     userId: i.user.id,
@@ -71,21 +74,23 @@ async function handleSubmit(i) {
     location: i.options.getString('location', true),
     description: i.options.getString('description', true),
     creditName: i.options.getString('credit') || i.user.username,
-    sourceUrl: clip.url,
+    sourceUrl,
   });
 
-  // Discord CDN links expire, so keep our own copy immediately.
-  const fileName = safeFileName(id, clip.name);
-  const filePath = path.join(CLIPS_DIR, fileName);
-  const res = await fetch(clip.url);
-  if (!res.ok) throw new Error(`Download failed for submission ${id}: ${res.status}`);
-  await pipeline(Readable.fromWeb(res.body), fs.createWriteStream(filePath));
-  db.raw.prepare('UPDATE submissions SET file_path = ? WHERE id = ?').run(filePath, id);
+  if (clip) {
+    // Discord CDN links expire, so keep our own copy immediately.
+    const fileName = safeFileName(id, clip.name);
+    const filePath = path.join(CLIPS_DIR, fileName);
+    const res = await fetch(clip.url);
+    if (!res.ok) throw new Error(`Download failed for submission ${id}: ${res.status}`);
+    await pipeline(Readable.fromWeb(res.body), fs.createWriteStream(filePath));
+    db.raw.prepare('UPDATE submissions SET file_path = ? WHERE id = ?').run(filePath, id);
+  }
 
   const s = db.getSubmission(id);
   const review = await client.channels.fetch(REVIEW_CHANNEL_ID);
   await review.send({
-    content: `New submission #${id} from <@${i.user.id}>\n${clip.url}`,
+    content: `New submission #${id} from <@${i.user.id}>${clip ? '' : ' (🔗 link, not a file: the editor downloads it from the creator\'s own upload)'}\n${sourceUrl}`,
     embeds: [submissionEmbed(s, 0xf5a623)],
     components: [reviewButtons(id)],
   });
