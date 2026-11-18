@@ -96,3 +96,7 @@ Status: 🟢 ready · 🟡 needs approval · ⏳ after launch
 **22. 🟡 Site feature: Radio Station Tracker** (6 known stations, grows with finds).
 **23. 🟡 Site page: Launch Day Help** (212 GB, pre-load FAQ link, status page).
 **24. 🟡 Crew Shorts using YouTube's "Visit Vice City" effect** (check it only uses YouTube-provided backgrounds).
+
+## From run 4
+**25. 🟡 Discord: copy Rockstar's spoiler-channel model (spoiler tags, story-only channels).**
+**26. 🟡 Rolling-midnight tracker posts per region (AU 13:00 UTC, JP, EU 23:00 UTC, US).**

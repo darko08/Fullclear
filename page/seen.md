@@ -15,3 +15,4 @@
 - Run 3 (09:00 UTC): nothing official new; reviews not out (check 12:15 UTC scheduled); map not live; avoid: region trick, fake review scores (Metacritic 6.5 / PSN 4.88), unofficial patch notes, Sensor Tower estimate (unofficial), Game Awards noms (unverified)
 - NZ unlock check 11:12 UTC: map/poster not live on /VI/media; no launch Newswire post yet. Next checks: newsroom 12:48 UTC + reviews 12:15 UTC
 - 12:20 UTC: reviews out, Metascore 99/146 verified on Metacritic (posted X + news 03). Individual outlet scores not verified directly (IGN blocked).
+- Run 4 (13:00 UTC): PS5 14.23 required (posted), 30fps quote (scheduled), map still not live, no Newswire launch post, TGA noms unverified (Cloudflare), Rockstar Discord spoiler rules (copy for our Discord), Twitch drops (unverified), avoid NZ trick/VPN/leaked soundtrack/multiplayer strings

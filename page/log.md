@@ -20,3 +20,6 @@
 | scheduled 2026-11-18 13:00 | IG, TikTok, X (+YT 13:30) | News 02 (Dev): fake GTA 6 downloads warning | fullclear-news-02.mp4 | Malwarebytes | cmwlnav0q0oz2oc07v50lx1nh / cmwlnav5b0b7omp07u605xvgj / cmwlnavhn0b7pmp07sgwug3i3 / cmwlnavlj0b7qmp07r0h7k3y6 |
 | 2026-11-18 ~12:25 | X | Reviews are in: Metascore 99 | text | @metacritic | cmwm3ddh907hoqu07i9e7u0o3 |
 | 2026-11-18 ~12:30 | IG, TikTok, YouTube | News 03 (Mei): Metascore 99 | fullclear-news-03.mp4 | Metacritic | see Postiz |
+| 2026-11-18 ~13:05 | X | PS5 update 14.23 required | text | @AskPlayStation | cmwm4q4bq08xwl807vr3qpula |
+| scheduled 2026-11-18 16:15 | X | No 60 FPS on PS5 Pro (Kotaku quote) | text | @Kotaku | cmwm4pv7m092nqu072a2zcbij |
+| 2026-11-18 ~13:10 | IG, TikTok, YouTube | News 04 (Scout): PS5 update required | fullclear-news-04.mp4 | PlayStation Support | see Postiz |

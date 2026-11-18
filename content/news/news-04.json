@@ -1,0 +1,14 @@
+{
+  "host": "Scout",
+  "headline": "PS5 players: do this before you play",
+  "image": "page/media/official/postcards/Mount_Kalaga_National_Park_16x9.jpg",
+  "image_credit": "© Rockstar Games",
+  "bullets": [
+    "Sony: PS5 system update 14.23 is required to play GTA 6",
+    "Download it before midnight",
+    "Make sure the game is fully installed (up to 212 GB)"
+  ],
+  "source": "Sources: PlayStation Support · Rockstar Newswire",
+  "voiceover": "videos/news/news-04-scout.mp3",
+  "output": "videos/news/fullclear-news-04.mp4"
+}

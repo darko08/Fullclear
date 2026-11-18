@@ -40,8 +40,12 @@ Checked = date we read the official page.
 
 | **Metascore 99** (PS5), based on 146 critic reviews; 100% positive, 0 mixed, 0 negative (read 2026-11-18 12:25 UTC); user score tbd | [Metacritic](https://www.metacritic.com/game/grand-theft-auto-vi/) | 2026-11-18 |
 
+| PS5 system software **26.07-14.23.00** ("security fixes"); PlayStation Support US: "Sony Interactive has issued a PS5 system software update that is required before playing Grand Theft Auto VI." (reposted by @RockstarGames) | [PlayStation system software page](https://www.playstation.com/en-us/support/hardware/ps5/system-software-info/), quote via [IGN](https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement) | 2026-11-18 |
+| Rockstar (Marc Chambers) to Kotaku: PS5 Pro CPU "is not powerful enough to run the game's complex simulation at higher frame rates" → no 60/40 fps mode | [Kotaku](https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979) | 2026-11-18 |
+
 ## Not yet verified from an official page (do NOT post as fact)
 - Xbox **installed** game unlock time (only cloud 1am ET is official). Rockstar Support pages were down (503) on 2026-11-18.
 - Multiplayer / GTA Online for VI: no official date found.
 - Prices outside the US Microsoft Store; PS Store price.
+- Xbox: no system update needed (PCMag only)
 - Game Awards nominations for GTA VI (Xbox Wire page lists them, but the GTA VI entry didn't render): check thegameawards.com.
