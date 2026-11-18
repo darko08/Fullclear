@@ -28,6 +28,7 @@ PlayStation Blog, Xbox Wire, Take-Two IR. Report every GTA VI item published or 
 title, date, URL, the exact official sentences that matter. Rockstar pages need a real browser (Playwright: `require('playwright')`, chromium.launch()).
 
 ## Scout B: community and trends
+First run `python3 tools/yt_trends.py --hours 4` (YouTube Data API; key injected by the proxy) and read `page/yt-trends.md`: top videos, outliers (views ≫ subs = the topic won), CC BY candidates. Report 3 formats/hooks that are winning right now.
 Check: r/GTA6, r/GTA, r/GTAVI (new + top of the day), search results for "GTA 6" news from the last few hours, our Discord questions.
 Report: the 5 most-asked questions (→ HOW TO ideas), trending moments or topics, and any claim that is spreading,
 with whether it has an official source. Flag leaks/rumours as such; never copy wording.

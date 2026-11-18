@@ -26,3 +26,11 @@
 - Monetisation with Rockstar footage is a grey area → our money should come from our own content (crew videos, map/tracker data, community), not from Rockstar footage.
 - Briefs must state times correctly: NZ unlock = 11:00 UTC Nov 18 (scout B corrected the boss). Anything 'NZ gameplay' before that is fake/leak.
 - YouTube rate-limits this machine (429) on watch pages after a few runs → space out scout D checks; tonight's Leonida Daily may need the host-only fallback.
+
+## 2026-11-18 18:00 UTC: YouTube trends (tools/yt_trends.py, last 24 h, 100 GTA 6 videos)
+- **Relatable POV/skit Shorts win launch eve** (17–38 s): "Players before GTA 6 releases", "Never call in sick for GTA 6", "The night of GTA 6", "When GTA 6 finally drops" (1.5–2.4M). → our crew/Keys & Neon can do short relatable bits with official screens.
+- **Region-timing questions are big outliers:** "Mexico will be the last country to play GTA 6" (1.2M, 31× subs). → "Where does it unlock last?" only with verified local-midnight facts (PS Blog: each country at its midnight).
+- **"Day 1 checklist"** = outlier (13.9×). → Morning Drive Nov 19 = our verified Day 1 checklist (update 14.23, 212 GB, unlock, map tracker).
+- **Psychology/"the truth" angle** ("GTA 6 is changing your brain", 6.9×). **Long info dumps** still pull (11–15 min, 0.25–1.1M) → weekly podcast with B-roll.
+- Avoid: "NZ trick" content (outlier, but promotes a region workaround → our no-"play early" rule).
+- Shorts median views in top-100 sample: ~443k; half of the top 100 are long videos/streams.
