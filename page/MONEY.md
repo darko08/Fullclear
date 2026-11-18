@@ -5,6 +5,7 @@
 - **Every social post** that points to affiliate links ("link in bio" included) needs **#ad** or "(paid link)" in the post itself. Disclosure in the bio as well.
   A host who recommends a product on camera says "we earn a commission" out loud.
 - **Account review:** 3 qualified sales within 180 days or the account closes. fullclearmap.com and every social profile must be listed under Sites in the Associates account.
+- 2026-11-18: owner added fullclearmap.com + IG, TikTok, YouTube, X profiles under Sites in the Associates account.
 - **No prices** typed by hand (only via Amazon's API/widgets) → write "check today's price".
 - Use amzn.to or full links. No cloaking. No links in private messages without opt-in. Never buy through our own links. No "Amazon" in our names.
 - Cookie: 24 h (items added to the cart in 24 h count if bought within 89 days).
