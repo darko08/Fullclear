@@ -1,0 +1,14 @@
+{
+  "host": "Dev",
+  "headline": "Warning: fake GTA 6 downloads",
+  "image": "page/media/official/postcards/Port_Gellhorn_16x9.jpg",
+  "image_credit": "© Rockstar Games",
+  "bullets": [
+    "Fake GTA 6 PC downloads, demos and early access offers are spreading",
+    "Security researchers found some install password-stealing malware",
+    "No PC version announced, no demo: only PS5 and Xbox Series X|S"
+  ],
+  "source": "Sources: Malwarebytes · Rockstar Newswire",
+  "voiceover": "videos/news/news-02-dev.mp3",
+  "output": "videos/news/fullclear-news-02.mp4"
+}

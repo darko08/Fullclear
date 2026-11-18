@@ -36,6 +36,8 @@ Checked = date we read the official page.
 | Official media downloads ("download and share"): videos, 138 screenshots, artwork & wallpapers incl. 6 region postcards | rockstargames.com/VI/media (scout C) | 2026-11-18 |
 | GTA VI: The Album, **Nov 19, 34 tracks** (Atlantic Records); 6 radio stations announced so far + in-game podcasts (first time) | rockstargames.com/VI/music, Newswire Oct 8 (scout C) | 2026-11-18 |
 
+| Fake GTA 6 demo/"Official Download" sites deliver an infostealer; "Rockstar has not announced or released a demo of Grand Theft Auto VI"; "there is no legitimate GTA 6 demo or PC build to download" | [Malwarebytes](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer) | 2026-11-18 |
+
 ## Not yet verified from an official page (do NOT post as fact)
 - Xbox **installed** game unlock time (only cloud 1am ET is official). Rockstar Support pages were down (503) on 2026-11-18.
 - Multiplayer / GTA Online for VI: no official date found.
