@@ -45,3 +45,13 @@ no follow/unfollow, no fake engagement, no spam comments**, and no spending mone
 | Day 21 | 1,000 on TikTok |
 | Day 30–45 | 1,000 on every network |
 | Then | 5,000 |
+
+## Be unique: what only Full Clear can do (owner, 2026-11-18: "think outside what any AI would do by default")
+Test for every post: *could any other GTA page post this exact thing today?* If yes, change the angle or drop it.
+1. **Crew with a life:** Scout, Nia, Mei and Dev have personalities, running jokes and a rivalry (weekly scoreboard of whose videos did best, announced by the crew). Fans pick a favourite host.
+2. **Our own data:** things we measure ourselves (travel times, map coverage, community finds count, "Leonida Index" weekly stats from Discord /submit). Nobody else has these numbers.
+3. **Community as the star:** "Found by @user" shorts from Discord submissions (with licence), the finder's name big on screen → they share it.
+4. **Comment-reply videos:** a host answers a real comment on screen (TikTok/IG reply-with-video).
+5. **Fans decide:** polls choose the next route, the next guide, which host hosts Leonida Daily.
+6. **Honest contrarian:** "don't buy this", "you don't need that": trust beats hype.
+7. **Real Florida vs Leonida** using our own or CC-licensed real-world photos (never Rockstar content in AI).
