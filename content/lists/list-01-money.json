@@ -1,0 +1,87 @@
+{
+  "host": "Nia",
+  "title": "5 WAYS LEONIDA",
+  "accent": "EATS YOUR MONEY",
+  "hook": "Hold on to your wallet",
+  "hook_image": {
+    "image": "page/media/raw/official/shots/Places/Vice City/Vice_City_01.jpg"
+  },
+  "voiceover": "videos/lists/list-01-nia.mp3",
+  "timings": [
+    4.2,
+    4.3,
+    10.7,
+    16.6,
+    21.4,
+    25.7,
+    32.9
+  ],
+  "points": [
+    {
+      "title": "No cash, no mission",
+      "key": "no mission",
+      "image": "page/media/raw/official/shots/Places/Vice City/Vice_City_14.jpg",
+      "graphic": {
+        "type": "flow",
+        "items": [
+          "EARN",
+          "UNLOCK",
+          "MISSION"
+        ]
+      },
+      "source": "Rockstar's Rob Nelson via GamesRadar / IGN"
+    },
+    {
+      "title": "Loot isn't money yet",
+      "key": "isn't money",
+      "image": "page/media/raw/official/shots/Places/Vice City/Vice_City_20.jpg",
+      "graphic": {
+        "type": "flow",
+        "items": [
+          "LOOT",
+          "FENCE",
+          "CASH"
+        ]
+      },
+      "source": "PC Gamer, Nov 18: fences unlock in missions"
+    },
+    {
+      "title": "Die or get busted: cash gone",
+      "key": "cash gone",
+      "image": "page/media/raw/official/shots/Places/Vice City/Vice_City_06.jpg",
+      "graphic": {
+        "type": "checklist",
+        "items": [
+          "Wasted: pocket cash gone",
+          "Busted: pocket cash gone"
+        ]
+      },
+      "source": "VGC beginner's guide, Nov 18"
+    },
+    {
+      "title": "Fast travel isn't free",
+      "key": "isn't free",
+      "image": "page/media/raw/official/shots/Places/Vice City/Vice_City_09.jpg",
+      "graphic": {
+        "type": "stat",
+        "big": "$100",
+        "small": "per fast-travel taxi ride"
+      },
+      "source": "Kotaku, 32 spoiler-free tips, Nov 18"
+    },
+    {
+      "title": "Your cars cost you",
+      "key": "cost you",
+      "image": "page/media/raw/official/shots/Places/Vice City/Vice_City_24.jpg",
+      "graphic": {
+        "type": "stat",
+        "big": "$12,500",
+        "small": "premium car service (+ repairs, impound)"
+      },
+      "source": "Kotaku, 32 spoiler-free tips, Nov 18"
+    }
+  ],
+  "outro": "Bank your cash. Which one hurts you most?",
+  "cta": "Free map & tracker: link in bio",
+  "output": "videos/lists/fullclear-list-01-money.mp4"
+}

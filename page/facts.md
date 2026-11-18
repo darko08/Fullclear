@@ -59,3 +59,12 @@ Checked = date we read the official page.
 - Press quote (credit GamesRadar+, Nov 18): Sam Houser: "We are incredibly grateful… look forward to many more years of sharing these experiences with you." Not on Rockstar's channels.
 - NOT VERIFIED: GTA 6 cheat code lists (circulating carousels: "61 cheats", unlock requirements) → wait until verified in-game/official; "no first-person at launch" (press report only, plus a first-person leak → drop leak); PS Store AU unlock 13:00 UTC (snippet only); Sensor Tower $1.54B pre-orders; Newzoo projections; online in 2027 (Twitch CEO claim); 34-track list (vinyl leak → drop).
 - Still: Leonida map download not live; Rockstar Support 502; no patch notes for 1.002.000 / 01.002.001.
+
+## Money in Leonida (verified 2026-11-18 via press; used in list short #1)
+| Fact | Source |
+|---|---|
+| Need money to advance the story ("need to make money to advance the mission flow", Rob Nelson, Rockstar) | [GamesRadar 2026-10-07, citing IGN](https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-we-have-made-money-matter-more-in-this-story-than-in-previous-grand-theft-auto-games/) |
+| Fences buy loot; "Each fence unlocks during a different one of the GTA 6 missions" | [PC Gamer 2026-11-18](https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/) |
+| "if you die, or are arrested, you'll lose the cash you have on you"; bank account (BuckMe) after a story mission | [VGC 2026-11-18](https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/) |
+| Fast travel (taxi, RydeMe) "for $100"; repairs at gas pumps for a fee; Scooter Bros impound "ain't cheap", premium "costs $12,500" | [Kotaku 2026-11-18](https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016) |
+| NOT VERIFIED: blowing a safe damages loot; police keep your cash; vehicle bag limits (GameSpot excerpt only) | — |

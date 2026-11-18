@@ -37,3 +37,4 @@
 | scheduled 2026-11-18 22:30 UTC | TikTok, IG, YouTube, X | Keys & Neon #1 (Rosa & Jay, AI characters): launch eve recap | fullclear-keys-neon-01.clip1-13.mp4 | NZ Herald, Remote/Beebom, Gematsu, PS Blog, IBTimes | see Postiz |
 | 2026-11-18 ~17:50 | all | Re-scheduled podcast #0 + Keys & Neon #1 with in-game B-roll (official screenshots © Rockstar Games + LunarGaming CC BY gameplay) | | | see Postiz |
 | 2026-11-18 18:23 UTC | Instagram | Leonida Daily #1 re-posted (first try failed: 96 kHz audio) | leonida-daily-01.mp4 | | TikTok published 18:20 |
+| scheduled 2026-11-19 11:00 UTC | TikTok, IG, YouTube, X | List #1 (Nia): 5 ways Leonida eats your money | fullclear-list-01-money.mp4 | GamesRadar/IGN, PC Gamer, VGC, Kotaku | see Postiz |
