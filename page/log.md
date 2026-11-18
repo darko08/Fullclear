@@ -40,3 +40,4 @@
 | scheduled 2026-11-19 11:00 UTC | TikTok, IG, YouTube, X | List #1 (Nia): 5 ways Leonida eats your money | fullclear-list-01-money.mp4 | GamesRadar/IGN, PC Gamer, VGC, Kotaku | see Postiz |
 | 2026-11-18 ~21:00 UTC | X | Sony checklist: won't start / restore licenses / bonuses per chapter / Vintage pack deadline | text | PlayStation Support | see Postiz |
 | scheduled 2026-11-18 22:50 UTC (YT 22:55) | TikTok, IG, YouTube | News 07 (Mei): GTA 6 won't start? Sony's checklist | fullclear-news-07.mp4 | PlayStation Support | see Postiz |
+| scheduled 2026-11-18 23:15 UTC | TikTok, IG, YouTube, X | Leonida Daily #2 (Dev): cruise ship heli heist | leonida-daily-02.mp4 | LunarGaming CC BY OnWC__OxyTk | see Postiz |

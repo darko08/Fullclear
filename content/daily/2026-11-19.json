@@ -1,0 +1,38 @@
+{
+  "host": "Dev",
+  "title": "LEONIDA DAILY #2",
+  "hook": "He found a cruise ship. It did not end well.",
+  "clips": [
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_On_The_Cruise_Ship_[OnWC__OxyTk].mp4",
+      "start": 76.0,
+      "end": 83.0,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Step 1: steal the helicopter"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_On_The_Cruise_Ship_[OnWC__OxyTk].mp4",
+      "start": 121.0,
+      "end": 125.0,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Step 2: land by the pool. Gently."
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_On_The_Cruise_Ship_[OnWC__OxyTk].mp4",
+      "start": 150.0,
+      "end": 154.1,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Step 3: everyone is upset"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_On_The_Cruise_Ship_[OnWC__OxyTk].mp4",
+      "start": 228.0,
+      "end": 243.0,
+      "credit": "LunarGaming (CC BY)",
+      "line": "The pirate exit"
+    }
+  ],
+  "voiceover": "videos/daily/leonida-daily-02-dev.mp3",
+  "clip_volume": 0.35,
+  "output": "videos/daily/leonida-daily-02.mp4"
+}
