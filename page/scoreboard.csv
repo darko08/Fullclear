@@ -1,1 +1,5 @@
 post_id,date,time,platform,pillar,format,hook,length_sec,credit,views_12h,views_24h,views_72h,likes,reposts_or_shares,replies_or_comments,saves_or_bookmarks,followers_at_read,test_name,notes
+day0-baseline,2026-11-18,08:49,X,,,,,,22 impressions (7d),,,0,0,0,0,,baseline,first posts 00:48 + 08:00
+day0-baseline,2026-11-18,08:49,Instagram,,,,,,reach 17 / views 20,,,0,0,0,0,,baseline,video 01
+day0-baseline,2026-11-18,08:49,TikTok,,,,,,0 views,,,0,0,0,,,baseline,video 01 (new account; check delay)
+day0-baseline,2026-11-18,08:49,YouTube,,,,,,0,,,0,,0,,,baseline,nothing published yet
