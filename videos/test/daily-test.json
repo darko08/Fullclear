@@ -1,0 +1,11 @@
+{
+  "host": "Mei",
+  "title": "LEONIDA DAILY #0",
+  "hook": "Test run: our own clips as stand-ins",
+  "clips": [
+    {"file": "videos/02-launch/crew-clip.mp4", "start": 0.5, "end": 3.5, "credit": "@fullclearmap", "line": "Chapter 1: the rooftop"},
+    {"file": "videos/01-who-is-scout/clip.mp4", "start": 0.5, "end": 3.0, "credit": "@fullclearmap", "line": "Chapter 2: the drone"}
+  ],
+  "voiceover": null,
+  "output": "videos/test/daily-test.mp4"
+}

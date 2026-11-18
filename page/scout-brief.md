@@ -6,7 +6,7 @@ The mission: 1,000 followers on every network, then 5,000.
 
 ## Each run
 1. Read `facts.md`, `idea-bank.md`, the last 30 lines of `log.md`, and `seen.md` (already-handled items, so nothing is reported twice).
-2. Launch 3 scouts **in parallel** (Agent tool, background), each with its brief below + the list of already-seen items.
+2. Launch 4 scouts **in parallel** (A, B, C, D) (Agent tool, background), each with its brief below + the list of already-seen items.
 3. When they report: **verify every item yourself** on the official page (render Rockstar pages with Playwright; they load client-side).
    Unverified items go to the bottom of `facts.md` as "not verified", never into a post.
 4. Decide per item:
@@ -37,6 +37,19 @@ Look for things our page can use or offer: official free downloads (maps, wallpa
 galleries, events and livestreams, launch-day patches/updates, official support articles (unlock times, known issues, pre-load help),
 tools or data we could turn into content (e.g. map size, travel times), creators who explicitly allow reposts with credit.
 Report each with URL, why it's useful, and the suggested content.
+
+## Scout D: clip hunter (for "Leonida Daily")
+Find the funniest GTA VI player moments and fails since the last run (crashes, ragdolls, police chaos, NPC reactions, wildlife, failed stunts)
+**only from permitted sources** in `page/permissions.md`, plus new candidates. For each clip: URL, creator, timestamp range, what happens (one line),
+funniness 1–5, and the permission status (PERMITTED with proof / NEEDS PERMISSION). Never download clips without permission.
+Suggest new creators who publicly allow clipping (quote + link) → boss adds them to permissions.md after checking the proof.
+Drop story spoilers and cutscenes.
+
+## Shows (hosts rotate at random, never twice in a row, fixed voices from content/CREW.md)
+- **GTA 6 News** (`tools/news_short.py`): every real news item → a short, as many times a day as there is news (target 2–3/day).
+- **Leonida Daily** (`tools/daily_story.py`): once a day (daily task at 19:20 CET): 3–6 permitted clips of funny moments and fails,
+  told as one story by a host ("Today in Leonida…"), each clip credited on screen, hook in the first second, 25–45 s.
+  Download permitted clips with `yt-dlp` into `page/media/raw/` and note the source link in `log.md`.
 
 ## Hard rules for everyone
 - Official sources beat everything. No leaks, insiders, datamines, pirated material, "play early" tricks.
