@@ -1,6 +1,6 @@
 # Newsroom: how the scout team works (read this at the start of every run)
 
-The **boss** (main Claude session) runs this every 2 hours. The owner gave the boss authority to decide what gets published,
+The **boss** (main Claude session) runs this every 4 hours. The owner gave the boss authority to decide what gets published,
 within `playbook.md` (credit rules, no leaks, verified facts only).
 
 ## Each run
@@ -14,7 +14,9 @@ within `playbook.md` (credit rules, no leaks, verified facts only).
    - **Schedule** (useful but not urgent: HOW TO from official facts, events, questions trending in the community): put it into the next free daily slot.
    - **Draft only** (needs our own video, a creator's permission, or the owner's approval: rumours, creator clips, anything that could read as official, any paid/sponsored thing): add to `idea-bank.md` and list it in the report.
    - **Drop** (leaks, insider claims, datamines, piracy, "play early", exploits, drama).
-5. Update `facts.md`, `idea-bank.md`, `log.md`, `seen.md`.
+5. Update `facts.md`, `idea-bank.md`, `log.md`, `seen.md`, then save to GitHub:
+   `cd /home/user/fullclear && git add -A && git commit -m "Newsroom run <date>" && git -c push.negotiate=true push`.
+   If /home/user/fullclear is missing (container reset): `git clone https://github.com/darko08/fullclear /home/user/fullclear` first.
 6. Report to the owner in Croatian, max ~8 lines: what was found, what was published/scheduled, what needs their yes.
    If nothing new: one line, "Ništa novo."
 
@@ -39,3 +41,4 @@ Report each with URL, why it's useful, and the suggested content.
 - Never invent numbers, dates or quotes. If unsure → "not verified".
 - Never post links on X (Postiz strips them); say "link in bio".
 - Never pay, sign up or upgrade anything.
+- Never put Rockstar content (screenshots, footage, maps, music) into AI tools. See learning.md (Rockstar ToS).
