@@ -81,7 +81,13 @@
       <div>Your progress</div>
       <b id="pct">0%</b> <span style="color:var(--muted)" id="pctDetail">0 / 0 found</span>
       <div class="bar"><i id="pctBar"></i></div>
-      <div style="color:var(--muted);font-size:12px;margin-top:8px">Saved on this device.</div>
+      <div style="color:var(--muted);font-size:12px;margin-top:8px">Saved in this browser. Back it up so you never lose it:</div>
+      <div style="display:flex;gap:8px;margin-top:8px;flex-wrap:wrap">
+        <button class="btn" id="backupBtn" type="button">💾 Back up</button>
+        <button class="btn" id="restoreBtn" type="button">↩️ Restore</button>
+        <input type="file" id="restoreFile" accept=".json,application/json" hidden>
+      </div>
+      <div id="backupMsg" style="font-size:12px;color:var(--teal);margin-top:6px" role="status"></div>
     </div>
     <input type="search" id="q" placeholder="Search finds, places…" aria-label="Search finds">
     <div class="toggles">
@@ -227,6 +233,35 @@
     var open = $('panel').classList.toggle('open');
     this.setAttribute('aria-expanded', open); this.firstChild.textContent = open ? '▼ ' : '▲ ';
   });
+
+  // Backup / restore progress (file download + copyable code), so nothing is lost when switching devices.
+  function msg(t) { $('backupMsg').textContent = t; }
+  $('backupBtn').addEventListener('click', function () {
+    var data = JSON.stringify({ app: 'fullclear', v: 1, found: found, savedAt: new Date().toISOString() });
+    try {
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob([data], { type: 'application/json' }));
+      a.download = 'fullclear-progress.json'; document.body.appendChild(a); a.click(); a.remove();
+    } catch (e) {}
+    var code = btoa(unescape(encodeURIComponent(JSON.stringify(found))));
+    if (navigator.clipboard) navigator.clipboard.writeText(code).then(function () { msg('Saved! File downloaded and backup code copied.'); }, function () { msg('File downloaded.'); });
+    else msg('File downloaded.');
+  });
+  $('restoreBtn').addEventListener('click', function () {
+    var code = window.prompt('Paste your backup code, or press Cancel to choose a backup file:');
+    if (code) {
+      try { applyRestore(JSON.parse(decodeURIComponent(escape(atob(code.trim()))))); } catch (e) { msg('That code didn\'t work.'); }
+    } else { $('restoreFile').click(); }
+  });
+  $('restoreFile').addEventListener('change', function (e) {
+    var f = e.target.files[0]; if (!f) return;
+    f.text().then(function (t) { try { var d = JSON.parse(t); applyRestore(d.found || d); } catch (err) { msg('That file didn\'t work.'); } });
+  });
+  function applyRestore(obj) {
+    if (!obj || typeof obj !== 'object') { msg('Nothing to restore.'); return; }
+    var n = 0; Object.keys(obj).forEach(function (k) { if (obj[k]) { found[k] = 1; n++; } });
+    save('fc-found', found); render(); msg('Restored ' + n + ' finds ✔');
+  }
 
   render();
   fetch(API + '/api/finds').then(function (r) { return r.json(); }).then(function (d) { finds = d.finds || []; render(); })

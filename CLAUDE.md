@@ -39,9 +39,11 @@ The owner sends screenshots/videos/links of other creators as **inspiration, not
 what we don't in `page/inspiration.md`, adapt it to our rules (no copying others' content, no Rockstar content in AI), and use it only if it fits.
 
 ## Money
-- Amazon Associates US tag: `nightshiftnor-20` (owner's account). Every affiliate page carries "As an Amazon Associate we earn from qualifying purchases."
-  Links use `rel="sponsored"`; no prices shown (Amazon rule); only products that meet official console requirements.
-- Affiliate pages: `site/storage/` (212 GB guide). Social posts point to our pages ("link in bio"), never straight to Amazon.
+- Amazon Associates US tag: `nightshiftnor-20` (owner's account). Every affiliate page carries exactly "As an Amazon Associate I earn from qualifying purchases."
+  Links use `rel="sponsored"`; no prices typed by hand (Amazon rule); only products that meet official console requirements.
+- **Every social post pointing to affiliate links (also "link in bio") includes #ad.** Hosts recommending a product say "we earn a commission".
+- Affiliate pages: `site/storage/` (212 GB guide). Social posts point to our pages, never straight to Amazon. Full rules + research: `page/MONEY.md`.
+- Map progress is stored in the browser (localStorage); Back up / Restore buttons on the map. Cloud sync = future premium feature.
 - Revenue plan: affiliate now → display ads when traffic grows → premium tracker → creator funds → sponsors (see page/GROWTH.md).
 
 ## Platform gotchas

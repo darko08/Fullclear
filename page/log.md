@@ -26,3 +26,5 @@
 | 2026-11-18 16:30 | site | /storage/ guide live (6 Amazon links, tag nightshiftnor-20) | page | PlayStation Support | https://fullclearmap.com/storage/ |
 | 2026-11-18 ~16:33 | X | 212 GB storage tips (link in bio) | text | own | cmwmc7rxl064qmy067ucb9rfl |
 | scheduled 2026-11-18 19:30 | IG, TikTok, YouTube | News 05 (Nia): 212 GB storage tips → /storage/ | fullclear-news-05.mp4 | PlayStation Support | see Postiz |
+| 2026-11-18 ~17:00 | IG, TikTok, YouTube | News 05 re-posted with #ad (19:30 UTC) | fullclear-news-05.mp4 | | cmwmcfcg3069fmy06dwg7rja7 / cmwmcfcly0605p5079nr4xfv5 / cmwmcfcrt0606p507xy9ph8ck |
+| 2026-11-18 ~17:00 | site | Map: progress Back up / Restore; /storage/: exact Amazon disclosure + Sony SSD specs | | | |
