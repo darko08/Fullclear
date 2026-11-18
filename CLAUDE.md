@@ -10,6 +10,8 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 - Hosts: the Full Clear crew (Scout, Nia, Mei, Dev), AI-voiced animated characters, rotated at random, never twice in a row.
   Fixed voices in `content/CREW.md`. Hosts explain the news and the day's most interesting moments, **several times a day**.
 - Daily show **"Leonida Daily"**: funny moments and fails of players, told as a story by a host, from clips we are allowed to use.
+- **Be unique (owner's rule):** think differently from what any AI or GTA page would do by default. Before every post ask
+  "could any other page post this exact thing today?" If yes, change the angle or drop it. Angles only we have: `page/GROWTH.md` → "Be unique".
 
 ## Hard rules (never break, even with full authority)
 - Only verified facts (official sources, logged in `page/facts.md`). No leaks, insiders, datamines, piracy, "play early", exploits.
