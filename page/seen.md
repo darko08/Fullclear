@@ -8,3 +8,4 @@
 - Scout B 2026-11-18: unlock-time questions, NZ region trick (unconfirmed, don't promote), 212 GB/Series S/USB, pre-load padlock FAQ, update 01.002.001 (no notes), editions $79.99/$99.99 + code-in-box (verify on Support), L3 sprint (preview only), reviews embargo (insider claim), OnlyInDade clip (needs permission), hotel-room post, leaks (drop)
 - Scout A 2026-11-18: PS Blog Nov 10 (record + rolling midnight), Xbox Wire Nov 10 (cloud 1am ET, prices, bonus deadline), Xbox Wire Nov 17 Game Awards (unverified for VI), map download not live yet (check Nov 19)
 - Scout C 2026-11-18: media downloads, launch gallery, regions/characters, album/score/radio, YouTube 24h stream (posted 22:30 CET), festival, PS features page, Rockstar ToS + mod guidelines + copyright policy (support page down)
+- Scout D 2026-11-18: permission research (xQc statement, 3 free-gameplay channels, ~20 CC BY videos, platform rules), DM template
