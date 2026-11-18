@@ -51,3 +51,11 @@ Checked = date we read the official page.
 - Prices outside the US Microsoft Store; PS Store price.
 - Xbox: no system update needed (PCMag only)
 - Game Awards nominations for GTA VI (Xbox Wire page lists them, but the GTA VI entry didn't render): check thegameawards.com.
+
+## 2026-11-18 run 5 (17:00 UTC)
+- VERIFIED (PlayStation Blog, Nov 18 08:00 PST, https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/):
+  "for the first time ever, Grand Theft Auto VI introduces a series of on-demand podcasts…", radio + podcasts "on foot through newly introduced headphones and earbuds connected to their smartphones";
+  stations incl. Classic Rock, Modern Hip-Hop, Pop, Metal, Dance, Latin, '80s, Electronic, Blues, Ballads, Talk Radio; six regions: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, Mount Kalaga.
+- Press quote (credit GamesRadar+, Nov 18): Sam Houser: "We are incredibly grateful… look forward to many more years of sharing these experiences with you." Not on Rockstar's channels.
+- NOT VERIFIED: GTA 6 cheat code lists (circulating carousels: "61 cheats", unlock requirements) → wait until verified in-game/official; "no first-person at launch" (press report only, plus a first-person leak → drop leak); PS Store AU unlock 13:00 UTC (snippet only); Sensor Tower $1.54B pre-orders; Newzoo projections; online in 2027 (Twitch CEO claim); 34-track list (vinyl leak → drop).
+- Still: Leonida map download not live; Rockstar Support 502; no patch notes for 1.002.000 / 01.002.001.

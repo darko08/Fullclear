@@ -100,3 +100,10 @@ Status: 🟢 ready · 🟡 needs approval · ⏳ after launch
 ## From run 4
 **25. 🟡 Discord: copy Rockstar's spoiler-channel model (spoiler tags, story-only channels).**
 **26. 🟡 Rolling-midnight tracker posts per region (AU 13:00 UTC, JP, EU 23:00 UTC, US).**
+
+## From run 5 (2026-11-18 17:00 UTC)
+- **HOW TO #2: "Game says you don't own it / padlock / stuck loading"**: only official Sony + Microsoft support steps (Restore Licenses, check order, sign in with buying account). Verify on playstation.com / support.xbox.com first. High demand on launch night.
+- **"Is it down?"**: when Rockstar Service Status works, a quick status explainer (never claim an outage without the official page).
+- **Cheat codes carousel (IG, 4 slides)**: only after codes are verified in-game by us/Discord or an official source. Our angle: "cheats that DON'T disable trophies?" or "tested on stream" with proof.
+- **Sam Houser quote** for a launch-day crew video (credit GamesRadar+).
+- **Leonida Daily:** 2 CC BY clips verified (H4Community parkour/police J4bFvtn-WHY; LunarGaming tank & jet PwhDKUx5lLY), but YouTube blocks downloads from this server ("sign in to confirm you're not a bot"). Options: owner downloads on his PC and drops into Discord/repo, or use Discord /submit clips.

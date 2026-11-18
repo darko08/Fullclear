@@ -29,3 +29,5 @@
 | 2026-11-18 ~17:00 | IG, TikTok, YouTube | News 05 re-posted with #ad (19:30 UTC) | fullclear-news-05.mp4 | | cmwmcfcg3069fmy06dwg7rja7 / cmwmcfcly0605p5079nr4xfv5 / cmwmcfcrt0606p507xy9ph8ck |
 | 2026-11-18 ~17:00 | site | Map: progress Back up / Restore; /storage/: exact Amazon disclosure + Sony SSD specs | | | |
 | scheduled 2026-11-19 15:00 UTC | IG, TikTok, YouTube, X | HOW TO #1 (Dev): PS5 SSD install, 8 steps → /storage/ (#ad, YT description has Amazon disclosure) | fullclear-howto-01-ps5-ssd.mp4 | PlayStation Support | see Postiz |
+| 2026-11-18 ~17:00 | X | First time in GTA: podcasts + earbuds | text | PlayStation Blog | cmwmd1kv906i2p507124emghu |
+| scheduled 2026-11-18 17:30 (YT 17:35) | IG, TikTok, YouTube | News 06 (Mei): podcasts + earbuds | fullclear-news-06.mp4 | PlayStation Blog | see Postiz |

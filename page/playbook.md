@@ -69,3 +69,12 @@ Log every post in `log.md` + `scoreboard.csv` (12 h / 24 h / 72 h reads from Pos
 
 ## 10. Check-ins with the owner
 Daily short report (what posted, top post with numbers, one lesson, tomorrow's test). Approvals in one message with exact caption + media so the owner can reply "yes". Flag takedowns, wrong posts and failed uploads immediately.
+
+## 10. Craft tactics (from owner's inspiration "Faceless GTA 6 Clipping Page", page 1–2, taken 2026-11-18)
+- **Payoff before second 8.** Clips 7–20 s; first frame = one line of hook text on screen.
+- **Loop endings:** last frame leads back into the first (rewatches).
+- **Same clip, different first line per platform** → we learn twice as fast; log which line won in learning.md.
+- **Answer the first 10 comments within the hour** of every post (owner's Discord excluded; never spam).
+- **Hook bank** (adapt, never copy): "Nobody noticed this in [PLACE]", "I tested [MYTH] so you don't have to", "[N] seconds of pure chaos", "Tell me this isn't real life", "The fastest way to [GOAL]". Two hooks tested on the same clip.
+- **Read the numbers:** watch % → reuse hook · rewatches → same ending · saves → more tips · shares → make a series · follows → pin it. Compare only with our own average.
+- **Week 2+ series:** "Day N in Leonida", "Every car ranked", "Secrets part N".
