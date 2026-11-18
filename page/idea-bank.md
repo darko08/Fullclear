@@ -115,3 +115,6 @@ Status: 🟢 ready · 🟡 needs approval · ⏳ after launch
 - **Keys & Neon tomorrow:** most-watched game ever (trackers), E11EVEN→NINE1NINE, Heat Vice City night recap.
 - **Leonida Daily candidates (CC, check webcam/overlay + owner downloads):** Gosoi 3LS2kk6SF7g (military base escape), Brenzzo W9CagOxbNs4 (day-one glitches, check it's all his footage), Nippton vM0y9b1pzao (4-star jet escape, b-roll).
 - **Vintage Vice City Pack last call** (deadline 11:59:59 PM local Nov 19) → X post Nov 19 afternoon.
+
+## Leonida Daily #2 plan (Nov 19, clip: LunarGaming OnWC__OxyTk, CC BY, file page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_On_The_Cruise_Ship_[OnWC__OxyTk].mp4)
+Story "He snuck onto a cruise ship… and left by sea": 25–45 s → steal the helicopter on the ship's helipad (~70–90 s), take off over Vice City (~95–105), smoky landing on the deck by the pool (~108–130), runs across the deck (~150–175), jumps overboard (~226–242). Skip the gunfight parts (~185–200, ~222–228). Host: not Mei/Nia (used last); Scout or Dev.
