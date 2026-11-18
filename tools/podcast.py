@@ -213,7 +213,7 @@ def build(ep, first, last, vertical):
     if not fl: fl, last_lbl = ['[0:v]null[vv]'], 'vv'
     ins += ['-i', wav]; ka = n_in
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', *ins, '-filter_complex', ';'.join(fl), '-map', f'[{last_lbl}]', '-map', f'{ka}:a',
-                    '-c:v', 'libx264', '-preset', 'medium', '-crf', '21', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k',
+                    '-c:v', 'libx264', '-preset', 'medium', '-crf', '21', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000',
                     '-t', f'{total:.2f}', '-movflags', '+faststart', out], check=True)
     if not vertical:
         subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', wav, '-c:a', 'aac', '-b:a', '160k', out.replace('.mp4', '.m4a')], check=True)

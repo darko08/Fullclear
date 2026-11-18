@@ -138,7 +138,7 @@ def render(ep):
     if vo:  # narration starts after the intro card, clip audio stays underneath
         run(['ffmpeg', '-loglevel', 'error', '-y', '-i', f'{tmp}/joined.mp4', '-i', p(vo), '-filter_complex',
              f'[1:a]adelay={int(INTRO * 1000)}|{int(INTRO * 1000)},volume=1.0[n];[0:a][n]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[a]',
-             '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', out])
+             '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-movflags', '+faststart', out])
     else:
         run(['ffmpeg', '-loglevel', 'error', '-y', '-i', f'{tmp}/joined.mp4', '-c', 'copy', '-movflags', '+faststart', out])
     print(out)

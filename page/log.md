@@ -36,3 +36,4 @@
 | scheduled 2026-11-18 18:20 UTC (YT 18:25, X 18:30) | TikTok, IG, YouTube, X | Leonida Daily #1 (Scout): tank heist fail | leonida-daily-01.mp4 | LunarGaming, CC BY (licence verified 17:00 UTC via YouTube metadata) https://www.youtube.com/watch?v=PwhDKUx5lLY | see Postiz |
 | scheduled 2026-11-18 22:30 UTC | TikTok, IG, YouTube, X | Keys & Neon #1 (Rosa & Jay, AI characters): launch eve recap | fullclear-keys-neon-01.clip1-13.mp4 | NZ Herald, Remote/Beebom, Gematsu, PS Blog, IBTimes | see Postiz |
 | 2026-11-18 ~17:50 | all | Re-scheduled podcast #0 + Keys & Neon #1 with in-game B-roll (official screenshots © Rockstar Games + LunarGaming CC BY gameplay) | | | see Postiz |
+| 2026-11-18 18:23 UTC | Instagram | Leonida Daily #1 re-posted (first try failed: 96 kHz audio) | leonida-daily-01.mp4 | | TikTok published 18:20 |

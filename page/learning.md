@@ -34,3 +34,4 @@
 - **Psychology/"the truth" angle** ("GTA 6 is changing your brain", 6.9×). **Long info dumps** still pull (11–15 min, 0.25–1.1M) → weekly podcast with B-roll.
 - Avoid: "NZ trick" content (outlier, but promotes a region workaround → our no-"play early" rule).
 - Shorts median views in top-100 sample: ~443k; half of the top 100 are long videos/streams.
+- **Instagram rejects 96 kHz audio** ("could not process the media"): Leonida Daily #1 and podcast renders had 96 kHz (loudnorm upsamples). Fixed: all tools now force `-ar 48000`; re-posted IG.
