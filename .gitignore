@@ -6,3 +6,6 @@ discord-bot/data/
 videos/**/pingpong.mp4
 videos/**/crew-pingpong.mp4
 videos/**/*.silent.mp4
+
+# scout scratch files
+/*.txt
