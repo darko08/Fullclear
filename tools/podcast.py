@@ -18,8 +18,6 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 F = '/usr/share/fonts/opentype/inter/'
 FPS, GAP, LEAD, TAIL = 30, 0.35, 0.6, 1.2
 PINK, TEAL, WHITE, MUTED, BG1, BG2 = (255, 62, 165), (54, 241, 225), (246, 239, 250), (185, 166, 201), (20, 8, 31), (58, 18, 85)
-CREW = ['Scout', 'Nia', 'Mei', 'Dev']
-
 
 def p(x): return x if os.path.isabs(x) else os.path.join(ROOT, x)
 def font(n, s): return ImageFont.truetype(F + n, s)
@@ -37,6 +35,9 @@ def wrap(d, text, fnt, width):
 
 
 def build(ep, first, last, vertical):
+    CREW = list(ep['cast']) if ep.get('cast') else ['Scout', 'Nia', 'Mei', 'Dev']
+    img_of = lambda c: p(ep['cast'][c]['image']) if ep.get('cast') else p(f'brand/crew-{c.lower()}.png')
+    n = len(CREW)
     W, H = (1080, 1920) if vertical else (1920, 1080)
     adir = p(ep['audio_dir'])
     lines = ep['lines'][first - 1:last]
@@ -58,12 +59,14 @@ def build(ep, first, last, vertical):
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', *inputs, '-filter_complex', ';'.join(filt), '-map', '[out]', '-ac', '2', wav], check=True)
 
     # tile layout
-    if vertical:
-        ts = 440; pos = {CREW[i]: (70 + (i % 2) * 500, 500 + (i // 2) * 500) for i in range(4)}
+    if vertical and n > 2:
+        ts = 440; pos = {CREW[i]: (70 + (i % 2) * 500, 500 + (i // 2) * 500) for i in range(n)}
+    elif vertical:
+        ts = 460; pos = {CREW[i]: (60 + i * 500, 640) for i in range(n)}
     else:
-        ts = 360; gap = 60; x0 = (W - (4 * ts + 3 * gap)) // 2
-        pos = {c: (x0 + i * (ts + gap), 260) for i, c in enumerate(CREW)}
-    portraits = {c: Image.open(p(f'brand/crew-{c.lower()}.png')).convert('RGB').resize((ts, ts), Image.LANCZOS) for c in CREW}
+        ts = 360 if n > 2 else 470; gap = 60 if n > 2 else 160; x0 = (W - (n * ts + (n - 1) * gap)) // 2
+        pos = {c: (x0 + i * (ts + gap), 240 if n > 2 else 220) for i, c in enumerate(CREW)}
+    portraits = {c: Image.open(img_of(c)).convert('RGB').resize((ts, ts), Image.LANCZOS) for c in CREW}
     dim = {c: ImageEnhance.Brightness(im).enhance(0.38) for c, im in portraits.items()}
     mask = Image.new('L', (ts, ts), 0); ImageDraw.Draw(mask).rounded_rectangle([0, 0, ts - 1, ts - 1], 34, fill=255)
 
@@ -147,13 +150,14 @@ def build(ep, first, last, vertical):
     for j, c in enumerate(CREW):
         spans = [(x['a'] - 0.15, x['b']) for x in timeline if x['host'] == c]
         loop = p(f'brand/hosts/{c.lower()}.mp4')
-        if not spans or not os.path.exists(loop): continue
+        if not spans or ep.get('cast') or not os.path.exists(loop): continue
         ins += ['-stream_loop', '-1', '-i', loop, '-loop', '1', '-i', m]; k, km = n_in, n_in + 1; n_in += 2
         en = '+'.join(f'between(t,{a:.2f},{b:.2f})' for a, b in spans)
         x, y = pos[c]
         fl.append(f'[{k}:v]scale={ts}:{ts},fps={FPS},format=rgba[h{j}];[{km}:v]format=gray,scale={ts}:{ts}[m{j}];[h{j}][m{j}]alphamerge[hm{j}]')
         fl.append(f"[{last_lbl}][hm{j}]overlay={x}:{y}:enable='{en}':shortest=1[v{j}]"); last_lbl = f'v{j}'
     ins += ['-i', wav]; ka = n_in
+    if not fl: fl, last_lbl = ['[0:v]null[vv]'], 'vv'
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', *ins, '-filter_complex', ';'.join(fl), '-map', f'[{last_lbl}]', '-map', f'{ka}:a',
                     '-c:v', 'libx264', '-preset', 'medium', '-crf', '21', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k',
                     '-t', f'{total:.2f}', '-movflags', '+faststart', out], check=True)

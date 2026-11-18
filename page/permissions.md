@@ -52,3 +52,8 @@ Never: leaked footage ("2015 build" etc.), "concept gameplay" fakes, "early acce
 - YouTube reused-content policy: compilations "with little or no narrative" aren't monetizable, even with permission → **Leonida Daily always has host narration/commentary or a ranking**.
 - Mute or cut in-game radio music in clips (Content ID).
 - Proof per clip: dated screenshot of the permission + archive.org snapshot + clip URL, in this file.
+
+## 2026-11-18 CC BY checks (boss)
+- ✅ LunarGaming "Trying To Steal A Tank & Jet From The Military Base" PwhDKUx5lLY: YouTube licence field = "Creative Commons Attribution license (reuse allowed)" (checked 17:00 UTC). Used in Leonida Daily #1, credited on screen + caption. Owner downloaded the file (YouTube blocks this server).
+- ❌ H4Community "PARKOUR CHALLENGE" J4bFvtn-WHY: marked CC BY, but the footage has a **streamer webcam overlay** (someone else's stream; channel says "Best Streamer Clips & Reactions"). Uploader likely doesn't own it → CC BY not trustworthy → do not use H4Community.
+- Leonida Daily note: when the Leonida Daily trigger fires today, #1 is already scheduled (18:20 UTC) → skip.

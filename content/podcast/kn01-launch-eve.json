@@ -1,0 +1,26 @@
+{
+  "id": "kn01",
+  "show": "KEYS & NEON",
+  "title": "Launch eve recap",
+  "episode": "Ep. 1 · Nov 18, 2026",
+  "cast": {"Jay": {"image": "brand/guests/jay.png", "voice": "Malachi"}, "Rosa": {"image": "brand/guests/rosa.png", "voice": "Mabel"}},
+  "segments": {"1": "LAUNCH EVE RECAP", "13": "YOUR TURN"},
+  "sources": {"3": "NZ Herald, Nov 18", "5": "Remote (HR firm) via Beebom", "7": "Miami Heat via Gematsu", "9": "PlayStation Blog, Nov 18", "11": "IBTimes UK (Rockstar press demo)"},
+  "lines": [
+    ["Jay", "[confident] Keys and Neon. The launch eve recap. [pause] I'm Jay."],
+    ["Rosa", "[confident] And I'm Rosa. Forty years fishing the Keys, and nobody asked me."],
+    ["Jay", "[confident] Rosa, New Zealand is already playing. A Kiwi footballer set an alarm just to start on New Zealand time."],
+    ["Rosa", "[smug] In my day, we set alarms for the tide."],
+    ["Jay", "[confident] An HR company says time-off requests for tomorrow are up thirty-two percent worldwide."],
+    ["Rosa", "[smug] So the whole planet caught the same flu. [pause] Interesting."],
+    ["Jay", "[confident] And tonight the Miami Heat play as Vice City. Custom court and everything."],
+    ["Rosa", "[confident] Basketball in neon. [pause] Fine. I'll watch the fourth quarter."],
+    ["Jay", "[confident] Sony says the game has podcasts now. You can listen on foot, with earbuds."],
+    ["Rosa", "[smug] Finally, something for me. [pause] Is there a fishing show?"],
+    ["Jay", "[confident] Not confirmed. But Rockstar showed a birdwatching logbook, with more than sixty species."],
+    ["Rosa", "[confident] Now you're talking. I'm going to the Keys, with binoculars. [pause] You can keep your neon."],
+    ["Jay", "[excited] Deal. Team Keys or Team Neon? Tell us in the comments. [pause] This was Keys and Neon, by Full Clear."]
+  ],
+  "audio_dir": "videos/podcast/kn01",
+  "output": "videos/podcast/fullclear-keys-neon-01.mp4"
+}

@@ -9,3 +9,4 @@ videos/**/*.silent.mp4
 
 # scout scratch files
 /*.txt
+page/media/raw/

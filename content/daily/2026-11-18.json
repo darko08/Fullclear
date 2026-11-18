@@ -1,0 +1,31 @@
+{
+  "host": "Scout",
+  "title": "LEONIDA DAILY #1",
+  "hook": "He stole a tank. Then he got greedy.",
+  "clips": [
+    {
+      "file": "page/media/raw/drive1/lunar-tank-PwhDKUx5lLY.mp4",
+      "start": 104.0,
+      "end": 111.6,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Step 1: get shot at, climb in anyway"
+    },
+    {
+      "file": "page/media/raw/drive1/lunar-tank-PwhDKUx5lLY.mp4",
+      "start": 134.0,
+      "end": 137.2,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Step 2: it's actually working"
+    },
+    {
+      "file": "page/media/raw/drive1/lunar-tank-PwhDKUx5lLY.mp4",
+      "start": 194.0,
+      "end": 211.5,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Step 3: jump out for the jet"
+    }
+  ],
+  "voiceover": "videos/daily/leonida-daily-01-scout.mp3",
+  "clip_volume": 0.35,
+  "output": "videos/daily/leonida-daily-01.mp4"
+}

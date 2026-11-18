@@ -33,3 +33,4 @@
 | scheduled 2026-11-18 17:30 (YT 17:35) | IG, TikTok, YouTube | News 06 (Mei): podcasts + earbuds | fullclear-news-06.mp4 | PlayStation Blog | see Postiz |
 | scheduled 2026-11-18 18:40 UTC | YouTube (long) | Podcast "Leonida After Hours" #0 pilot (1:51) | fullclear-podcast-ep00.mp4 | PS Blog, PS Support, Newswire | see Postiz |
 | scheduled 2026-11-18 18:45 / 21:00 UTC | X / TikTok, IG | Podcast #0 clip "a podcast about a game that has podcasts" | fullclear-podcast-ep00.clip8-10.mp4 | own | see Postiz |
+| scheduled 2026-11-18 18:20 UTC (YT 18:25, X 18:30) | TikTok, IG, YouTube, X | Leonida Daily #1 (Scout): tank heist fail | leonida-daily-01.mp4 | LunarGaming, CC BY (licence verified 17:00 UTC via YouTube metadata) https://www.youtube.com/watch?v=PwhDKUx5lLY | see Postiz |
