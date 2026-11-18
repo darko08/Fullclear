@@ -57,7 +57,7 @@ Unconfirmed events (online mode, DLC, Game Awards results) only after an officia
 4. **Edit:** `tools/podcast.py` stitches lines with natural gaps, adds our own intro sting + music bed (Runway generate_music, our own, never Rockstar music), loudness -16 LUFS (podcast) / -14 (social).
 5. **Video:** 16:9 "studio" with the 4 crew portraits, the speaker lights up and talks (host loops), subtitles, segment cards, sources on screen → YouTube full episode.
 6. **Clips:** 3 vertical 9:16 cuts of the best moments → TikTok/IG/Shorts/X.
-7. **Audio feed:** Spotify for Creators (free; needs owner's account signup) → also Apple Podcasts via its RSS.
+7. **Distribution (owner, 2026-11-18): YouTube only for now** (full episodes) + clips on TikTok/IG/Shorts/X. Spotify/Apple later, only if full-episode listening proves demand. Note: our podcast is *about* the game; it cannot be inside GTA (in-game podcasts are Rockstar's; no console mods).
 8. **Log** in `page/log.md`; numbers in `scoreboard.csv`; learnings in `learning.md`.
 
 ## 6. Scouts for the podcast (see page/scout-brief.md)
