@@ -35,3 +35,9 @@
 - Avoid: "NZ trick" content (outlier, but promotes a region workaround → our no-"play early" rule).
 - Shorts median views in top-100 sample: ~443k; half of the top 100 are long videos/streams.
 - **Instagram rejects 96 kHz audio** ("could not process the media"): Leonida Daily #1 and podcast renders had 96 kHz (loudnorm upsamples). Fixed: all tools now force `-ar 48000`; re-posted IG.
+
+## 2026-11-18 end of day 1
+- **X account suspended** (~20:00 UTC). Likely cause: brand-new account + ~16 scheduled automated posts on day 1 + many hashtags + same text style → spam/automation filter. Lesson: new accounts warm up slowly (2–3 posts/day week 1, replies and real interaction, no bursts). Appeal by the owner.
+- **YouTube: only 4 of 11 uploads went through** (Postiz shared daily quota). Lesson: max 4 YouTube uploads/day, prioritise long-form podcast + best Shorts.
+- **Instagram rejects 96 kHz audio** (fixed in tools).
+- Numbers day 1 (23:30 UTC): YouTube 4 Shorts, 99 views total (Metascore 99: 46, PS5 update: 37, fake downloads: 16, pre-orders: 0), 0 subs. TikTok platform views 4 (analytics lag). IG reach 17 (analytics lag, data to Nov 17).
