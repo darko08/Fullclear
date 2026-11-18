@@ -10,3 +10,4 @@
 - Scout C 2026-11-18: media downloads, launch gallery, regions/characters, album/score/radio, YouTube 24h stream (posted 22:30 CET), festival, PS features page, Rockstar ToS + mod guidelines + copyright policy (support page down)
 - Scout D 2026-11-18: permission research (xQc statement, 3 free-gameplay channels, ~20 CC BY videos, platform rules), DM template
 - Scout B run 2 (05:00 UTC): no one playing yet (NZ unlocks 11:00 UTC), reviews embargo rumour ~11:01 UTC (unverified), scam warnings (posted as news 02), cyberleek leak (avoid)
+- Scout A run 2 (05:00 UTC): nothing new; map not live yet (re-check 11:10 UTC scheduled); Support still down
