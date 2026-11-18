@@ -1,0 +1,32 @@
+{
+  "host": "Dev",
+  "title": "Add an SSD to your PS5",
+  "subtitle": "PS5 Slim & Pro \u00b7 8 steps",
+  "image": "brand/howto/ssd.png",
+  "image_credit": "Illustration",
+  "steps": [
+    "Turn it off, unplug it, touch metal to remove static",
+    "Remove the cover",
+    "Unscrew the expansion slot cover",
+    "Move the spacer to your SSD's length",
+    "Slide the SSD in at an angle",
+    "Press it down and screw it in",
+    "Put the covers back on",
+    "Turn it on and format the SSD"
+  ],
+  "outro": "Only a supported PCIe Gen4 M.2 SSD with a heatsink. Original PS5? Steps differ: see Sony's guide.",
+  "source": "Steps: PlayStation Support",
+  "voiceover": "videos/howto/howto-01-dev.mp3",
+  "output": "videos/howto/fullclear-howto-01-ps5-ssd.mp4",
+  "timings": [
+    6.68,
+    11.81,
+    14.07,
+    17.31,
+    20.99,
+    23.93,
+    26.98,
+    29.57,
+    33.0
+  ]
+}

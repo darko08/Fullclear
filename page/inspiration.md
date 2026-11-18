@@ -12,4 +12,4 @@ For each: what it is, what we take, what we don't (rules: no reposting others' c
 
 ## Ideas queue from inspiration
 1. **Beat-cut hype shorts** from official trailers ("LEONIDA", "VICE CITY", "OUT NOW"): build `tools/beat_cut.py` (detect beats in a licensed/platform track, cut official clips on beats, giant captions).
-2. **SSD install explainer**: host + our own step illustrations, steps from Sony's official page, link to Sony's official video + our /storage/ guide.
+2. ~~SSD install explainer~~ done: HOW TO #1 (tools/howto_short.py), scheduled Nov 19 15:00 UTC.
