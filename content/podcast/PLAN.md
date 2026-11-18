@@ -22,6 +22,9 @@ Nobody else has a crew; everybody else has one faceless narrator.
 - Topics: daily recap, pros vs cons of reviews, myth or fact (e.g. viral cheat lists that contradict each other), real Florida vs Leonida.
 - Tool: `python3 tools/podcast.py content/podcast/knNN-*.json --clip 1 <last>` (vertical). Cadence: daily in launch weeks (evening US time).
 
+**Rule (owner, 2026-11-18): no talking heads alone.** Every episode has a B-roll panel with in-game material that matches each line
+(official screenshots by region in `page/media/raw/official/shots/`, official clips, permitted gameplay). Hosts sit in small tiles under it.
+
 ## 2. Segments (pick 4–6 per weekly episode)
 1. **Breaking Leonida**: verified news of the week, with source on screen (facts.md only).
 2. **Found By…**: community finds from Discord /submit, finder credited by name (they share it → new listeners).

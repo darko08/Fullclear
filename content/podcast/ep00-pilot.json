@@ -2,28 +2,146 @@
   "id": "ep00",
   "show": "LEONIDA AFTER HOURS",
   "title": "Launch eve: GTA has podcasts now",
-  "episode": "Pilot · Nov 18, 2026",
-  "segments": {"1": "WELCOME", "5": "BREAKING LEONIDA", "8": "PODCAST NEWS", "11": "CREW DEBATE", "15": "YOUR TURN"},
-  "sources": {"5": "PlayStation Blog, Nov 10", "6": "PlayStation Support · Rockstar Newswire", "8": "PlayStation Blog, Nov 18"},
+  "episode": "Pilot \u00b7 Nov 18, 2026",
+  "segments": {
+    "1": "WELCOME",
+    "5": "BREAKING LEONIDA",
+    "8": "PODCAST NEWS",
+    "11": "CREW DEBATE",
+    "15": "YOUR TURN"
+  },
+  "sources": {
+    "5": "PlayStation Blog, Nov 10",
+    "6": "PlayStation Support \u00b7 Rockstar Newswire",
+    "8": "PlayStation Blog, Nov 18"
+  },
   "lines": [
-    ["Scout", "[confident] Welcome to Leonida After Hours, the Full Clear podcast. [pause] I'm Scout, and the whole crew is here."],
-    ["Nia", "[confident] Nia here. With the map, obviously."],
-    ["Mei", "[confident] Mei. With binoculars."],
-    ["Dev", "[confident] And Dev. [pause] I brought pins."],
-    ["Scout", "[confident] Tonight is launch eve. [pause] On PlayStation, the game unlocks at midnight, country by country. And New Zealand went first."],
-    ["Nia", "[confident] Before anyone plays: PS5 needs system update 14.23. Sony says it's required. [pause] Plus up to 212 gigabytes of space."],
-    ["Dev", "[smug] Which is why my notebook says: delete one old game. [pause] Maybe two."],
-    ["Mei", "[confident] Now my favourite news today. [pause] Sony confirmed GTA has on-demand podcasts, for the first time ever. [pause] And you can listen on foot, with earbuds."],
-    ["Scout", "[confident] So technically, [pause] we're a podcast about a game that has podcasts."],
-    ["Mei", "[smug] Podcast inception. [pause] I'll review the in-game shows as soon as I've heard them."],
-    ["Nia", "[confident] Quick debate. [pause] First thing you do in Leonida? I'm driving straight to the Keys for the sunset."],
-    ["Dev", "[confident] Wrong. [pause] Vice City, first night, neon, zero plans."],
-    ["Mei", "[confident] I'm finding wildlife in Grassrivers. Through the binoculars. From a safe distance."],
-    ["Scout", "[smug] And I'm filming all of you failing. [pause] For Leonida Daily."],
-    ["Nia", "[confident] Your turn: the Keys, Vice City, or Grassrivers? Tell us in the comments."],
-    ["Dev", "[confident] And send your best moments to our Discord. If we use one, your name goes on screen."],
-    ["Scout", "[excited] This was Leonida After Hours. [pause] See you on the other side of midnight."]
+    [
+      "Scout",
+      "[confident] Welcome to Leonida After Hours, the Full Clear podcast. [pause] I'm Scout, and the whole crew is here."
+    ],
+    [
+      "Nia",
+      "[confident] Nia here. With the map, obviously."
+    ],
+    [
+      "Mei",
+      "[confident] Mei. With binoculars."
+    ],
+    [
+      "Dev",
+      "[confident] And Dev. [pause] I brought pins."
+    ],
+    [
+      "Scout",
+      "[confident] Tonight is launch eve. [pause] On PlayStation, the game unlocks at midnight, country by country. And New Zealand went first."
+    ],
+    [
+      "Nia",
+      "[confident] Before anyone plays: PS5 needs system update 14.23. Sony says it's required. [pause] Plus up to 212 gigabytes of space."
+    ],
+    [
+      "Dev",
+      "[smug] Which is why my notebook says: delete one old game. [pause] Maybe two."
+    ],
+    [
+      "Mei",
+      "[confident] Now my favourite news today. [pause] Sony confirmed GTA has on-demand podcasts, for the first time ever. [pause] And you can listen on foot, with earbuds."
+    ],
+    [
+      "Scout",
+      "[confident] So technically, [pause] we're a podcast about a game that has podcasts."
+    ],
+    [
+      "Mei",
+      "[smug] Podcast inception. [pause] I'll review the in-game shows as soon as I've heard them."
+    ],
+    [
+      "Nia",
+      "[confident] Quick debate. [pause] First thing you do in Leonida? I'm driving straight to the Keys for the sunset."
+    ],
+    [
+      "Dev",
+      "[confident] Wrong. [pause] Vice City, first night, neon, zero plans."
+    ],
+    [
+      "Mei",
+      "[confident] I'm finding wildlife in Grassrivers. Through the binoculars. From a safe distance."
+    ],
+    [
+      "Scout",
+      "[smug] And I'm filming all of you failing. [pause] For Leonida Daily."
+    ],
+    [
+      "Nia",
+      "[confident] Your turn: the Keys, Vice City, or Grassrivers? Tell us in the comments."
+    ],
+    [
+      "Dev",
+      "[confident] And send your best moments to our Discord. If we use one, your name goes on screen."
+    ],
+    [
+      "Scout",
+      "[excited] This was Leonida After Hours. [pause] See you on the other side of midnight."
+    ]
   ],
   "audio_dir": "videos/podcast/ep00",
-  "output": "videos/podcast/fullclear-podcast-ep00.mp4"
+  "output": "videos/podcast/fullclear-podcast-ep00.mp4",
+  "broll": {
+    "1": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_01.jpg"
+    },
+    "2": {
+      "file": "page/media/raw/official/shots/Places/Grassrivers/Grassrivers_05.jpg"
+    },
+    "3": {
+      "file": "page/media/raw/official/shots/Places/Leonida Keys/Leonida_Keys_06.jpg"
+    },
+    "4": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_09.jpg"
+    },
+    "5": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_27.jpg"
+    },
+    "6": {
+      "file": "page/media/raw/drive1/lunar-tank-PwhDKUx5lLY.mp4",
+      "start": 0,
+      "credit": "Gameplay: LunarGaming (CC BY)"
+    },
+    "7": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_26.jpg"
+    },
+    "8": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_24.jpg"
+    },
+    "9": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_22.jpg"
+    },
+    "10": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_13.jpg"
+    },
+    "11": {
+      "file": "page/media/raw/official/shots/Places/Leonida Keys/Leonida_Keys_01.jpg"
+    },
+    "12": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_08.jpg"
+    },
+    "13": {
+      "file": "page/media/raw/official/shots/Places/Grassrivers/Grassrivers_04.jpg"
+    },
+    "14": {
+      "file": "page/media/raw/drive1/lunar-tank-PwhDKUx5lLY.mp4",
+      "start": 194,
+      "credit": "Gameplay: LunarGaming (CC BY)"
+    },
+    "15": {
+      "file": "page/media/raw/official/shots/Places/Leonida Keys/Leonida_Keys_02.jpg"
+    },
+    "16": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_05.jpg"
+    },
+    "17": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_17.jpg"
+    }
+  }
 }

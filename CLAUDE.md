@@ -12,6 +12,8 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 - Daily show **"Leonida Daily"**: funny moments and fails of players, told as a story by a host, from clips we are allowed to use.
 - **Be unique (owner's rule):** think differently from what any AI or GTA page would do by default. Before every post ask
   "could any other page post this exact thing today?" If yes, change the angle or drop it. Angles only we have: `page/GROWTH.md` → "Be unique".
+- **Never only talking heads (owner, 2026-11-18):** every podcast/host video shows in-game material behind the talk
+  (official Rockstar screenshots/clips unmodified + "© Rockstar Games", or permitted gameplay, credited), matched to what is being said. `tools/podcast.py` does this via `broll`.
 
 ## Hard rules (never break, even with full authority)
 - Only verified facts (official sources, logged in `page/facts.md`). No leaks, insiders, datamines, piracy, "play early", exploits.
