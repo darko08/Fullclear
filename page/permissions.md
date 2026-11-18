@@ -33,6 +33,12 @@ Never use (fake/leak/impossible before launch): Beardy Gamer oJRUjctQtNs · Born
 ZONAGAME qhxy7zFV0uE · SKizzle 2Sp9_1ex_E4 leak segments · "Early Access" titles (Reaper Exodia OWgrIAZ-A6c, Shirty Yyi96iH6jQ8) unless proven normal NZ launch.
 Note: YouTube rate-limits watch pages from this machine (429) after many requests → spread checks out.
 
+## Launch-day candidates (search said CC + uploaded today; NOT yet confirmed on the watch page; YouTube 429 from this machine)
+Check first: CHOWH1 ujn6LZp_-2Y ("30 mins of GTA 6 gameplay") · JoeyRahmz datTZvKUagA (NZ+AU stream VOD, gameplay after 11:00 UTC only) · How to Everything 8KivA-3nTYg ·
+Patife fM4UfU6-iC8, 08k8C6UTI7w · Tonhão da Silva t54zN8Cc8lU · Vandal iQlqF0_zDJQ / Gamekult -rG3AyIVYKg (press footage: extra caution)
+Live streams to re-check later: MiOTwGY3VZM, K9EHT37wIc4, t5nWWMrYSEI, MAfPHnQK1b4, fWcBqOFegyQ, -PTrRy0nFyU (uses NZ region trick: skip)
+Excluded: story/mission streams (H0O0C42-px0, p0fHsdDMBI8, q6g4NPN8YMY, UZnmRbjPRaI), restream OicnezZ3klk, suspicious Amo Jonez HDJCBfyWjJQ/IRYIZAV0Quo, ohnepixel w35B3eBC99A ("early access", not CC)
+
 ## NOT permitted (no public statement → DM first)
 Kai Cenat, IShowSpeed, Jynxzi, CaseOh, Asmongold, Hasan, Ludwig, Jerma, summit1g, Sodapoppin, Northernlion, penguinz0, Sidemen, GTA RP streamers (Buddha, Koil, Ssaab, Ramee, Penta, Lord Kebun).
 Never: leaked footage ("2015 build" etc.), "concept gameplay" fakes, "early access" footage of unclear origin.

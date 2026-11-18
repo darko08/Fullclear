@@ -16,3 +16,4 @@
 - NZ unlock check 11:12 UTC: map/poster not live on /VI/media; no launch Newswire post yet. Next checks: newsroom 12:48 UTC + reviews 12:15 UTC
 - 12:20 UTC: reviews out, Metascore 99/146 verified on Metacritic (posted X + news 03). Individual outlet scores not verified directly (IGN blocked).
 - Run 4 (13:00 UTC): PS5 14.23 required (posted), 30fps quote (scheduled), map still not live, no Newswire launch post, TGA noms unverified (Cloudflare), Rockstar Discord spoiler rules (copy for our Discord), Twitch drops (unverified), avoid NZ trick/VPN/leaked soundtrack/multiplayer strings
+- Scout D run 4 (13:00 UTC): 0 confirmed clips, YouTube watch pages 429 from this IP; candidates logged in permissions.md; real funny clips expected 15:00–18:00 UTC

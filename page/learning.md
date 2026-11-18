@@ -25,3 +25,4 @@
 - Fan-video policy (support page, unverified text): non-commercial fan use tolerated; no story spoilers, isolated cutscenes, in-game TV/radio segments, leaks, cheat promotion.
 - Monetisation with Rockstar footage is a grey area → our money should come from our own content (crew videos, map/tracker data, community), not from Rockstar footage.
 - Briefs must state times correctly: NZ unlock = 11:00 UTC Nov 18 (scout B corrected the boss). Anything 'NZ gameplay' before that is fake/leak.
+- YouTube rate-limits this machine (429) on watch pages after a few runs → space out scout D checks; tonight's Leonida Daily may need the host-only fallback.
