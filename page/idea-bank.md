@@ -107,3 +107,11 @@ Status: 🟢 ready · 🟡 needs approval · ⏳ after launch
 - **Cheat codes carousel (IG, 4 slides)**: only after codes are verified in-game by us/Discord or an official source. Our angle: "cheats that DON'T disable trophies?" or "tested on stream" with proof.
 - **Sam Houser quote** for a launch-day crew video (credit GamesRadar+).
 - **Leonida Daily:** 2 CC BY clips verified (H4Community parkour/police J4bFvtn-WHY; LunarGaming tank & jet PwhDKUx5lLY), but YouTube blocks downloads from this server ("sign in to confirm you're not a bot"). Options: owner downloads on his PC and drops into Discord/repo, or use Discord /submit clips.
+
+## From run 6 (2026-11-18 20:50 UTC)
+- **Map: "Fences" layer** (PC Gamer fence locations, 5 fences + 2 vehicle dealers by area, credited; no mission names) → verify in game via Discord, then add pins. Pairs with "5 ways Leonida eats your money".
+- **Tracker categories** from in-game Map > Progress (PowerPyx says ~3,000 entries: cards 480/18 sets, cocaine flamingos 125, hoops 100, stunt jumps 130, underwater 33) → verify counts in game before publishing.
+- **"Where is X?" map shorts** (YouTube outlier: location guides 40× subs) → once pins verified.
+- **Keys & Neon tomorrow:** most-watched game ever (trackers), E11EVEN→NINE1NINE, Heat Vice City night recap.
+- **Leonida Daily candidates (CC, check webcam/overlay + owner downloads):** Gosoi 3LS2kk6SF7g (military base escape), Brenzzo W9CagOxbNs4 (day-one glitches, check it's all his footage), Nippton vM0y9b1pzao (4-star jet escape, b-roll).
+- **Vintage Vice City Pack last call** (deadline 11:59:59 PM local Nov 19) → X post Nov 19 afternoon.

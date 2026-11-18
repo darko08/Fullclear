@@ -1,0 +1,14 @@
+{
+  "host": "Mei",
+  "headline": "GTA 6 won't start? Sony's checklist",
+  "image": "page/media/raw/official/shots/Places/Vice City/Vice_City_27.jpg",
+  "image_credit": "© Rockstar Games",
+  "bullets": [
+    "Is it out in your region yet? Right PSN account?",
+    "Download failed: Settings → Restore Licenses",
+    "Missing bonuses? They unlock chapter by chapter"
+  ],
+  "source": "Source: PlayStation Support",
+  "voiceover": "videos/news/news-07-mei.mp3",
+  "output": "videos/news/fullclear-news-07.mp4"
+}

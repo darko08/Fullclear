@@ -68,3 +68,8 @@ Checked = date we read the official page.
 | "if you die, or are arrested, you'll lose the cash you have on you"; bank account (BuckMe) after a story mission | [VGC 2026-11-18](https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/) |
 | Fast travel (taxi, RydeMe) "for $100"; repairs at gas pumps for a fee; Scooter Bros impound "ain't cheap", premium "costs $12,500" | [Kotaku 2026-11-18](https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016) |
 | NOT VERIFIED: blowing a safe damages loot; police keep your cash; vehicle bag limits (GameSpot excerpt only) | — |
+
+## 2026-11-18 run 6 (20:50 UTC)
+- VERIFIED (PlayStation Support, https://www.playstation.com/en-us/support/games/gta-vi-game/, read 21:05 UTC): troubleshooting = released in your region? correct account? download failed → "Try to restore your licenses"; "Ultimate Edition bonuses are available throughout Jason and Lucia's story, with new bonuses available in each chapter."; "The Vintage Vice City Pack is included with all digital purchases of Grand Theft Auto VI made before 11:59:59 PM local time on November 19, 2026."
+- Still: no Newswire launch post, no map download, Rockstar Support 502.
+- NOT VERIFIED: base-PS5 "20 fps" (French YouTube tests only); PSN outage (Downdetector + press, no Sony status confirmation); Twitch "record" 3.3M/6.4M (trackers disagree, say "trackers say"); AU/JP "censored" build (datamine → drop); PowerPyx ~3,000 progress-database entries (unofficial guide, verify in game).
