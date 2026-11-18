@@ -34,6 +34,10 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 | Content plans | `content/` (CREW.md, crew.json, series-how-long/, news/, daily/) |
 | Page ops files | `page/` (playbook, facts, idea-bank, watchlist, log, scoreboard.csv, learning, takedowns, permissions, seen, GROWTH) |
 
+## Owner's inspiration
+The owner sends screenshots/videos/links of other creators as **inspiration, not orders**. For each: analyse it, log what we take and
+what we don't in `page/inspiration.md`, adapt it to our rules (no copying others' content, no Rockstar content in AI), and use it only if it fits.
+
 ## Money
 - Amazon Associates US tag: `nightshiftnor-20` (owner's account). Every affiliate page carries "As an Amazon Associate we earn from qualifying purchases."
   Links use `rel="sponsored"`; no prices shown (Amazon rule); only products that meet official console requirements.
