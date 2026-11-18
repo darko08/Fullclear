@@ -54,6 +54,9 @@ Sources: Reddit, X, YouTube, TikTok, news sites, our Discord. For each: URL, who
 spoiler risk, and for guests: why them + public contact. Never contact anyone yourself. Flag leaks/rumours. Never copy wording.
 Output also goes to `content/podcast/stories.md` (boss adds it) and guest ideas to `content/podcast/guests.md`.
 
+## Owner's Drive folder (checked hourly with the rapid alert)
+The owner downloads permitted clips on his PC (YouTube blocks our server) into a shared Drive folder. `python3 tools/check_drive.py` downloads only new files to `page/media/raw/drive/`; then check licence + overlays and log in permissions.md.
+
 ## Rapid alert (hourly, owner's order 2026-11-18)
 News players need RIGHT NOW (required updates, patches, outages, unlock problems, free downloads, launch posts) goes out
 immediately: `tools/watch_official.js` runs every hour; on a change → verify → X within 10 min → News short. Being first matters.
