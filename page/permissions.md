@@ -25,6 +25,14 @@ LunarGaming 5Up_BRKHKe8 · SKizzle 2Sp9_1ex_E4 · Street Level Intel TzhIW7DlnNM
 Daily CC search: https://www.youtube.com/results?search_query=GTA+6+funny&sp=EgQIAjAB (uploaded today + Creative Commons); also "GTA 6 fails", "GTA 6 glitch", "GTA 6 ragdoll", "GTA 6 police", "GTA 6 engraçado".
 Credit format: on screen "@channel"; description: "Clip: '<title>' by <channel>, <URL>, licensed CC BY".
 
+## Launch-stream watchlist (CC filter hit; re-check the licence on each watch page AFTER the stream)
+Conservancy PG7IUhur72M · GCM Gaming i23MEjhYpsM · Redline Pulse WLdqbW-HSVA · Circle Of Chaos 8CSuN6a_btk · IcyDeluxe zZZ0_0Q9qNM ·
+IncredibleInkTv VjBH6P0_aDo · Gabriel Frags IJyMnBrlt8g · Tonhão da Silva t54zN8Cc8lU · BaraGames05 RD-KbKoQgpY · Goden Sama X4xqpHx51-I ·
+Uv jYYUeycIPdI · KNIGHTLY zokCcHaQ1cc
+Never use (fake/leak/impossible before launch): Beardy Gamer oJRUjctQtNs · BornInGame 1_l1zsPEtSE, XBKsBgX8Wks · Retro Cogs D2AkWIevwb8 ·
+ZONAGAME qhxy7zFV0uE · SKizzle 2Sp9_1ex_E4 leak segments · "Early Access" titles (Reaper Exodia OWgrIAZ-A6c, Shirty Yyi96iH6jQ8) unless proven normal NZ launch.
+Note: YouTube rate-limits watch pages from this machine (429) after many requests → spread checks out.
+
 ## NOT permitted (no public statement → DM first)
 Kai Cenat, IShowSpeed, Jynxzi, CaseOh, Asmongold, Hasan, Ludwig, Jerma, summit1g, Sodapoppin, Northernlion, penguinz0, Sidemen, GTA RP streamers (Buddha, Koil, Ssaab, Ramee, Penta, Lord Kebun).
 Never: leaked footage ("2015 build" etc.), "concept gameplay" fakes, "early access" footage of unclear origin.
