@@ -28,12 +28,13 @@ def main():
     ap.add_argument('--hours', type=int, default=24)
     ap.add_argument('--query', default='GTA 6')
     ap.add_argument('--out', default='page/yt-trends.md')
+    ap.add_argument('--cc', action='store_true', help='only Creative Commons videos (clip candidates)')
     a = ap.parse_args()
     since = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=a.hours)).strftime('%Y-%m-%dT%H:%M:%SZ')
     ids = []
     for dur in ('short', 'medium'):   # short = under 4 min (Shorts live here), medium = 4-20 min
         r = get('search', part='id', q=a.query, type='video', order='viewCount', publishedAfter=since,
-                videoDuration=dur, maxResults=50, relevanceLanguage='en')
+                videoDuration=dur, maxResults=50, relevanceLanguage='en', **({'videoLicense': 'creativeCommon'} if a.cc else {}))
         ids += [i['id']['videoId'] for i in r.get('items', [])]
     vids = []
     for k in range(0, len(ids), 50):
@@ -49,7 +50,7 @@ def main():
         s, st = v['snippet'], v['statistics']
         views = int(st.get('viewCount', 0)); subs = chans.get(s['channelId'], 0)
         rows.append(dict(id=v['id'], title=s['title'], channel=s['channelTitle'], views=views, likes=int(st.get('likes', st.get('likeCount', 0)) or 0),
-                         comments=int(st.get('commentCount', 0) or 0), subs=subs, ratio=views / max(subs, 100), secs=secs(v['contentDetails']['duration']),
+                         comments=int(st.get('commentCount', 0) or 0), subs=subs, ratio=views / max(subs, 100), secs=secs(v.get('contentDetails', {}).get('duration')),
                          cc=v['status'].get('license') == 'creativeCommon', published=s['publishedAt']))
     rows.sort(key=lambda r: -r['views'])
     out = [f"# YouTube trends: \"{a.query}\", last {a.hours} h (generated {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M} UTC)\n",
