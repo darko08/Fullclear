@@ -43,6 +43,8 @@ Checked = date we read the official page.
 | PS5 system software **26.07-14.23.00** ("security fixes"); PlayStation Support US: "Sony Interactive has issued a PS5 system software update that is required before playing Grand Theft Auto VI." (reposted by @RockstarGames) | [PlayStation system software page](https://www.playstation.com/en-us/support/hardware/ps5/system-software-info/), quote via [IGN](https://www.ign.com/articles/sony-issues-official-ps5-firmware-update-warning-confirms-gta-6-requirement) | 2026-11-18 |
 | Rockstar (Marc Chambers) to Kotaku: PS5 Pro CPU "is not powerful enough to run the game's complex simulation at higher frame rates" → no 60/40 fps mode | [Kotaku](https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979) | 2026-11-18 |
 
+| PS Blog Nov 18: "Grand Theft Auto VI arrives on PlayStation 5 Thursday, November 19"; Leonida's six regions: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, Mount Kalaga (with official region descriptions); radio genres incl. Classic Rock, Modern Hip-Hop, Pop, Metal, Dance, Latin, '80s, Electronic, Blues, Ballads, Talk Radio; on-demand podcasts, headphones/earbuds | [PlayStation Blog](https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/) | 2026-11-18 |
+
 ## Not yet verified from an official page (do NOT post as fact)
 - Xbox **installed** game unlock time (only cloud 1am ET is official). Rockstar Support pages were down (503) on 2026-11-18.
 - Multiplayer / GTA Online for VI: no official date found.

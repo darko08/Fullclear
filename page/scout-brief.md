@@ -45,6 +45,10 @@ funniness 1–5, and the permission status (PERMITTED with proof / NEEDS PERMISS
 Suggest new creators who publicly allow clipping (quote + link) → boss adds them to permissions.md after checking the proof.
 Drop story spoilers and cutscenes.
 
+## Rapid alert (hourly, owner's order 2026-11-18)
+News players need RIGHT NOW (required updates, patches, outages, unlock problems, free downloads, launch posts) goes out
+immediately: `tools/watch_official.js` runs every hour; on a change → verify → X within 10 min → News short. Being first matters.
+
 ## Shows (hosts rotate at random, never twice in a row, fixed voices from content/CREW.md)
 - **GTA 6 News** (`tools/news_short.py`): every real news item → a short, as many times a day as there is news (target 2–3/day).
 - **Leonida Daily** (`tools/daily_story.py`): once a day (daily task at 19:20 CET): 3–6 permitted clips of funny moments and fails,
