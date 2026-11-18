@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GTA 6 Map, Collectibles &amp; Secrets Tracker | Full Clear</title>
+<meta name="description" content="Full Clear is the community hunting every collectible, easter egg and secret in GTA 6. Join the Discord, submit your finds, get featured in our videos. Interactive map launching with the game.">
+<link rel="canonical" href="https://fullclearmap.com/">
+<meta property="og:title" content="Full Clear: find everything, miss nothing">
+<meta property="og:description" content="The community hunting every secret in GTA 6. Join the hunt on Discord.">
+<meta property="og:image" content="https://fullclearmap.com/og.jpg">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<style>
+  :root {
+    --bg: #14081f; --bg2: #1e0d2e; --card: #24123a; --text: #f6effa; --muted: #b9a6c9;
+    --pink: #ff3ea5; --teal: #36f1e1; --line: #3a2352;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0; background: radial-gradient(1200px 600px at 50% -10%, #3b1255 0%, var(--bg) 60%) fixed, var(--bg);
+    color: var(--text); font: 17px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  a { color: var(--teal); }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+  header { display: flex; justify-content: space-between; align-items: center; padding: 18px 0; }
+  .logo { font-weight: 900; letter-spacing: .04em; font-size: 20px; text-decoration: none; color: var(--text); }
+  .logo span { color: var(--pink); }
+  nav a { color: var(--muted); text-decoration: none; margin-left: 18px; font-size: 15px; }
+  nav a:hover { color: var(--text); }
+
+  .hero { display: grid; grid-template-columns: 1.2fr 1fr; gap: 32px; align-items: center; padding: 40px 0 56px; }
+  .badge { display: inline-block; border: 1px solid var(--line); color: var(--teal); border-radius: 999px;
+    padding: 4px 12px; font-size: 13px; font-weight: 600; letter-spacing: .03em; }
+  h1 { font-size: clamp(38px, 6vw, 62px); line-height: 1.02; margin: 16px 0 14px; font-weight: 900; }
+  h1 em { font-style: normal; background: linear-gradient(90deg, var(--pink), var(--teal));
+    -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .lead { color: var(--muted); font-size: 19px; margin: 0 0 26px; max-width: 34ch; }
+  .cta { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn { display: inline-flex; align-items: center; gap: 10px; padding: 14px 22px; border-radius: 12px;
+    font-weight: 800; text-decoration: none; font-size: 17px; border: 0; cursor: pointer; }
+  .btn-primary { background: #5865f2; color: #fff; box-shadow: 0 8px 30px rgba(88,101,242,.45); }
+  .btn-primary:hover { background: #4752c4; }
+  .btn-ghost { background: transparent; color: var(--text); border: 1px solid var(--line); }
+  .btn-ghost:hover { border-color: var(--teal); }
+  .scout { width: 100%; height: auto; max-width: 460px; justify-self: center;
+    filter: drop-shadow(0 20px 50px rgba(255,62,165,.35)); animation: hover 5s ease-in-out infinite; }
+  @keyframes hover { 50% { transform: translateY(-12px); } }
+  @media (prefers-reduced-motion: reduce) { .scout { animation: none; } }
+
+  .countdown { display: flex; gap: 10px; margin: 26px 0 0; }
+  .countdown div { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 8px 12px;
+    text-align: center; min-width: 64px; }
+  .countdown b { display: block; font-size: 24px; }
+  .countdown small { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .06em; }
+
+  section { padding: 48px 0; border-top: 1px solid var(--line); }
+  h2 { font-size: 30px; margin: 0 0 8px; }
+  .sub { color: var(--muted); margin: 0 0 28px; }
+  .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 22px; }
+  .card .n { color: var(--pink); font-weight: 900; font-size: 14px; letter-spacing: .08em; }
+  .card h3 { margin: 6px 0 6px; font-size: 20px; }
+  .card p { margin: 0; color: var(--muted); font-size: 16px; }
+
+  .ranks { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+  .rank { border-radius: 999px; padding: 6px 14px; font-weight: 700; font-size: 14px; border: 1px solid var(--line); }
+
+  form.signup { display: flex; gap: 10px; flex-wrap: wrap; max-width: 520px; }
+  form.signup input[type=email] { flex: 1 1 240px; padding: 14px 16px; border-radius: 12px; border: 1px solid var(--line);
+    background: var(--bg2); color: var(--text); font-size: 16px; }
+  form.signup input:focus { outline: 2px solid var(--teal); outline-offset: 1px; }
+  .btn-pink { background: var(--pink); color: #14081f; }
+  .hidden { display: none; }
+
+  .socials { display: flex; gap: 12px; flex-wrap: wrap; }
+  details { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; margin-bottom: 10px; }
+  summary { font-weight: 700; cursor: pointer; }
+  details p { color: var(--muted); margin: 10px 0 0; }
+  footer { color: var(--muted); font-size: 13px; padding: 28px 0 40px; border-top: 1px solid var(--line); }
+
+  @media (max-width: 760px) {
+    .hero { grid-template-columns: 1fr; padding-top: 16px; text-align: center; }
+    .hero .scout { order: -1; max-width: 220px; }
+    .lead { margin-left: auto; margin-right: auto; }
+    .cta, .countdown { justify-content: center; }
+    .steps { grid-template-columns: 1fr; }
+    nav { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="logo" href="/">FULL<span>CLEAR</span></a>
+    <nav><a href="/map/">Map</a><a href="#how">How it works</a><a href="#signup">Map launch</a><a href="#faq">FAQ</a></nav>
+  </header>
+
+  <main>
+    <div class="hero">
+      <div>
+        <span class="badge">GTA 6 · COMMUNITY HUNT</span>
+        <h1>Find everything.<br><em>Miss nothing.</em></h1>
+        <p class="lead">We're mapping every collectible, easter egg and secret in GTA 6, together. Submit your finds and get featured in our videos.</p>
+        <div class="cta">
+          <a class="btn btn-primary" href="https://discord.gg/ksysZTW2R5" rel="noopener">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.3 4.4A19.8 19.8 0 0 0 15.4 3l-.6 1.3a18.3 18.3 0 0 0-5.6 0L8.6 3a19.7 19.7 0 0 0-4.9 1.5C.6 9 -.3 13.6.1 18.1a19.9 19.9 0 0 0 6 3l1.3-2a12.9 12.9 0 0 1-2-1l.5-.4a14.2 14.2 0 0 0 12.2 0l.5.4c-.6.4-1.3.7-2 1l1.3 2a19.8 19.8 0 0 0 6-3c.5-5.2-.8-9.8-3.6-13.7ZM8.5 15.3c-1.2 0-2.2-1.1-2.2-2.4s1-2.4 2.2-2.4 2.2 1.1 2.2 2.4-1 2.4-2.2 2.4Zm7 0c-1.2 0-2.2-1.1-2.2-2.4s1-2.4 2.2-2.4 2.2 1.1 2.2 2.4-1 2.4-2.2 2.4Z"/></svg>
+            Join the hunt on Discord
+          </a>
+          <a class="btn btn-ghost" href="/map/">Open the map &amp; tracker</a>
+        </div>
+        <div class="countdown" id="countdown" aria-label="Time until launch">
+          <div><b id="cd-d">–</b><small>days</small></div>
+          <div><b id="cd-h">–</b><small>hours</small></div>
+          <div><b id="cd-m">–</b><small>min</small></div>
+        </div>
+      </div>
+      <img class="scout" src="/crew.webp" width="887" height="700" alt="The Full Clear crew: Scout, Nia, Mei and Dev, hunting secrets together">
+    </div>
+
+    <section id="how">
+      <h2>How it works</h2>
+      <p class="sub">Every find goes on the map, and the best ones go in our videos with your name on screen.</p>
+      <div class="steps">
+        <div class="card"><div class="n">01 · FIND</div><h3>Play &amp; record</h3><p>Spot a collectible, secret or easter egg? Hit capture on your PS5 or Xbox.</p></div>
+        <div class="card"><div class="n">02 · SUBMIT</div><h3>/submit on Discord</h3><p>Upload your clip, say where it is. Our team checks it within a day.</p></div>
+        <div class="card"><div class="n">03 · GET FEATURED</div><h3>Points, ranks, fame</h3><p>Approved finds earn points. Featured clips get your name in our TikTok, Reels &amp; YouTube videos.</p></div>
+      </div>
+      <div class="ranks" aria-label="Contributor ranks">
+        <span class="rank" style="color:#b9a6c9">Rookie</span>
+        <span class="rank" style="color:#36f1e1">Pathfinder · 30 pts</span>
+        <span class="rank" style="color:#b88cff">Cartographer · 100 pts</span>
+        <span class="rank" style="color:#ffd166">Legend · 300 pts</span>
+      </div>
+    </section>
+
+    <section id="signup">
+      <h2>The interactive map drops with the game</h2>
+      <p class="sub">Every location, with a 100% tracker that syncs between phone and PC. Get the link the moment it's live.</p>
+      <form class="signup" name="launch-list" method="POST" action="/thanks.html" data-netlify="true" netlify-honeypot="company">
+        <input type="hidden" name="form-name" value="launch-list">
+        <p class="hidden"><label>Leave empty <input name="company"></label></p>
+        <label class="hidden" for="email">Email</label>
+        <input id="email" type="email" name="email" placeholder="you@example.com" required autocomplete="email">
+        <button class="btn btn-pink" type="submit">Notify me</button>
+      </form>
+    </section>
+
+    <section>
+      <h2>Follow the crew</h2>
+      <p class="sub">Daily secrets, tips and community finds.</p>
+      <div class="socials">
+        <a class="btn btn-ghost" href="https://www.tiktok.com/@fullclearmap" rel="noopener">TikTok</a>
+        <a class="btn btn-ghost" href="https://www.instagram.com/fullclearmap" rel="noopener">Instagram</a>
+        <a class="btn btn-ghost" href="https://www.youtube.com/@fullclearmap" rel="noopener">YouTube</a>
+        <a class="btn btn-ghost" href="https://x.com/fullclearmap" rel="noopener">X</a>
+      </div>
+    </section>
+
+    <section id="faq">
+      <h2>FAQ</h2>
+      <details><summary>Is it free?</summary><p>Yes. The map, tracker and Discord are free. An optional supporter tier (no ads, cloud sync, route planner) comes later.</p></details>
+      <details><summary>Can I submit someone else's clip?</summary><p>No, only clips you recorded yourself. That's how we can credit everyone fairly and keep the channels online.</p></details>
+      <details><summary>Do you sell money drops, mod menus or accounts?</summary><p>No, never. They get accounts banned. Anyone offering them in our name is a scammer.</p></details>
+      <details><summary>Is this official?</summary><p>No. Full Clear is an independent fan community, not affiliated with Rockstar Games or Take-Two Interactive.</p></details>
+    </section>
+  </main>
+
+  <footer>
+    © <span id="yr">2026</span> Full Clear · Fan-made, not affiliated with or endorsed by Rockstar Games or Take-Two Interactive. Grand Theft Auto is a trademark of Take-Two Interactive.
+  </footer>
+</div>
+<script>
+  // Countdown to launch: Nov 19, 2026 (00:00 US Eastern = 05:00 UTC). Hides itself after launch.
+  (function () {
+    var launch = Date.UTC(2026, 10, 19, 5, 0, 0);
+    var box = document.getElementById('countdown');
+    function tick() {
+      var ms = launch - Date.now();
+      if (ms <= 0) { box.innerHTML = '<div><b>LIVE</b><small>the hunt is on</small></div>'; return; }
+      document.getElementById('cd-d').textContent = Math.floor(ms / 864e5);
+      document.getElementById('cd-h').textContent = Math.floor(ms / 36e5) % 24;
+      document.getElementById('cd-m').textContent = Math.floor(ms / 6e4) % 60;
+      setTimeout(tick, 30000);
+    }
+    tick();
+    document.getElementById('yr').textContent = new Date().getFullYear();
+  })();
+</script>
+</body>
+</html>

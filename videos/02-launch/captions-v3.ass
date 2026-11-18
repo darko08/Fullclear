@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,3,2,70,70,330,1
+Style: Pop,Inter Black,108,&H00E1F136,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,8,3,2,70,70,330,1
+Style: Big,Inter Black,180,&H00A53EFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,10,4,2,70,70,330,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,3,18,0,8,60,60,170,1
+Style: Name,Inter Black,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96A53EFF,-1,0,0,0,100,100,0,0,3,14,0,1,60,60,560,1
+Style: End1,Inter Black,120,&H00A53EFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,8,3,5,60,60,0,1
+Style: End2,Inter Black,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:10.75,Hook,,0,0,0,,{\fad(150,200)}GTA 6 IS OUT.\NTHE HUNT IS ON.
+Dialogue: 1,0:00:00.15,0:00:02.40,Name,,0,0,0,,{\fad(150,250)}SCOUT
+Dialogue: 0,0:00:00.15,0:00:01.50,Pop,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}SCOUT HERE.
+Dialogue: 0,0:00:01.52,0:00:02.45,Cap,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}IT'S OUT.
+Dialogue: 0,0:00:02.47,0:00:03.65,Cap,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}THE HUNT STARTS…
+Dialogue: 0,0:00:03.67,0:00:04.65,Big,,0,0,0,,{\fscx50\fscy50\t(0,100,\fscx110\fscy110)\t(100,200,\fscx100\fscy100)}NOW.
+Dialogue: 0,0:00:04.67,0:00:06.72,Cap,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}SEND US THE FIRST\NREAL SECRET…
+Dialogue: 0,0:00:06.75,0:00:08.55,Pop,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}GET FEATURED FIRST.
+Dialogue: 0,0:00:08.58,0:00:09.60,Pop,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}JOIN THE HUNT.
+Dialogue: 0,0:00:09.62,0:00:10.75,Cap,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}LINK IN BIO
+Dialogue: 2,0:00:10.75,0:00:12.80,End1,,0,0,0,,{\fad(200,0)\pos(540,860)}FULL CLEAR
+Dialogue: 2,0:00:10.75,0:00:12.80,End2,,0,0,0,,{\fad(200,0)\pos(540,990)}@fullclearmap
+Dialogue: 2,0:00:10.75,0:00:12.80,End2,,0,0,0,,{\fad(200,0)\pos(540,1100)\c&H00E1F136&\fs56}Send your finds · Link in bio

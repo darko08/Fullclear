@@ -1,0 +1,10 @@
+{
+  "rotation": "random, never the same host twice in a row",
+  "voiceDefaults": { "model": "eleven_v4", "speed": 1.05 },
+  "hosts": [
+    { "name": "Scout", "voice": "Xylar",  "image": "brand/crew-scout.png", "prop": "camera" },
+    { "name": "Nia",   "voice": "Maya",   "image": "brand/crew-nia.png",   "prop": "map tablet" },
+    { "name": "Mei",   "voice": "Lara",   "image": "brand/crew-mei.png",   "prop": "binoculars" },
+    { "name": "Dev",   "voice": "Brodie", "image": "brand/crew-dev.png",   "prop": "notebook" }
+  ]
+}

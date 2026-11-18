@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,3,2,70,70,430,1
+Style: Pop,Inter Black,110,&H00E1F136,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,8,3,2,70,70,430,1
+Style: Big,Inter Black,190,&H00A53EFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,10,4,2,70,70,430,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,3,18,0,8,60,60,170,1
+Style: End1,Inter Black,120,&H00A53EFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,8,3,5,60,60,0,1
+Style: End2,Inter Black,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:10.95,Hook,,0,0,0,,{\fad(150,200)}GTA 6 IS OUT.\NTHE HUNT IS ON.
+Dialogue: 0,0:00:00.00,0:00:01.25,Pop,,0,0,0,,{\fscx70\fscy70\t(0,120,\fscx100\fscy100)}IT'S OUT!
+Dialogue: 0,0:00:01.30,0:00:02.78,Cap,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}THE HUNT STARTS…
+Dialogue: 0,0:00:02.80,0:00:03.92,Big,,0,0,0,,{\fscx50\fscy50\t(0,100,\fscx110\fscy110)\t(100,200,\fscx100\fscy100)}NOW.
+Dialogue: 0,0:00:03.95,0:00:05.80,Cap,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}FIRST TO SEND US\NA REAL SECRET…
+Dialogue: 0,0:00:05.82,0:00:07.65,Pop,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}GETS FEATURED FIRST.
+Dialogue: 0,0:00:07.70,0:00:09.65,Big,,0,0,0,,{\fs150\fscx70\fscy70\t(0,120,\fscx100\fscy100)}GO, GO, GO!
+Dialogue: 0,0:00:09.70,0:00:10.95,Pop,,0,0,0,,{\fscx80\fscy80\t(0,120,\fscx100\fscy100)}LINK IN BIO
+Dialogue: 2,0:00:10.95,0:00:13.00,End1,,0,0,0,,{\fad(200,0)\pos(540,860)}FULL CLEAR
+Dialogue: 2,0:00:10.95,0:00:13.00,End2,,0,0,0,,{\fad(200,0)\pos(540,990)}@fullclearmap
+Dialogue: 2,0:00:10.95,0:00:13.00,End2,,0,0,0,,{\fad(200,0)\pos(540,1100)\c&H00E1F136&\fs56}Send your finds · Link in bio

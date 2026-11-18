@@ -1,0 +1,8 @@
+node_modules/
+discord-bot/.env
+discord-bot/data/
+.DS_Store
+# intermediate render files
+videos/**/pingpong.mp4
+videos/**/crew-pingpong.mp4
+videos/**/*.silent.mp4
