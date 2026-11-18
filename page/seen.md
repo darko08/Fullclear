@@ -13,3 +13,4 @@
 - Scout A run 2 (05:00 UTC): nothing new; map not live yet (re-check 11:10 UTC scheduled); Support still down
 - Scout D run 2 (05:00 UTC): 0 real clips (game not unlocked yet); launch-stream watchlist + never-use list added to permissions.md
 - Run 3 (09:00 UTC): nothing official new; reviews not out (check 12:15 UTC scheduled); map not live; avoid: region trick, fake review scores (Metacritic 6.5 / PSN 4.88), unofficial patch notes, Sensor Tower estimate (unofficial), Game Awards noms (unverified)
+- NZ unlock check 11:12 UTC: map/poster not live on /VI/media; no launch Newswire post yet. Next checks: newsroom 12:48 UTC + reviews 12:15 UTC
