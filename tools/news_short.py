@@ -84,9 +84,16 @@ def render(ep):
     mask = Image.new('L', (170, 170), 0); ImageDraw.Draw(mask).ellipse([0, 0, 170, 170], fill=255)
     badge = Image.new('RGBA', (186, 186), (0, 0, 0, 0)); ImageDraw.Draw(badge).ellipse([0, 0, 185, 185], fill=TEAL)
     badge.paste(host, (8, 8), mask)
-    base.alpha_composite(badge, (60, H - 330))
-    d.text((270, H - 270), ep['host'].upper(), font=font('Inter-Black.otf', 46), fill=WHITE)
-    d.text((270, H - 212), ep.get('source', ''), font=font('Inter-SemiBold.otf', 28), fill=MUTED)
+    loop = p(f"brand/hosts/{ep['host'].lower()}.mp4")
+    has_loop = os.path.exists(loop)
+    if has_loop:   # talking host goes in a 380px rounded frame bottom-left (added after rendering)
+        d.rounded_rectangle([50, H - 450, 50 + 392, H - 450 + 392], 36, fill=TEAL)
+        d.text((470, H - 330), ep['host'].upper(), font=font('Inter-Black.otf', 56), fill=WHITE)
+        d.text((470, H - 262), ep.get('source', ''), font=font('Inter-SemiBold.otf', 28), fill=MUTED)
+    else:
+        base.alpha_composite(badge, (60, H - 330))
+        d.text((270, H - 270), ep['host'].upper(), font=font('Inter-Black.otf', 46), fill=WHITE)
+        d.text((270, H - 212), ep.get('source', ''), font=font('Inter-SemiBold.otf', 28), fill=MUTED)
 
     bullets = ep['bullets']
     bf = font('Inter-ExtraBold.otf', 50)
@@ -120,6 +127,17 @@ def render(ep):
             f.alpha_composite(ov)
         ff.stdin.write(f.convert('RGB').tobytes())
     ff.stdin.close(); ff.wait()
+    if has_loop:
+        out = p(ep['output']); tmp = out.replace('.mp4', '.nohost.mp4'); os.replace(out, tmp)
+        mask = out.replace('.mp4', '.mask.png')
+        m = Image.new('L', (380, 380), 0); ImageDraw.Draw(m).rounded_rectangle([0, 0, 379, 379], 30, fill=255); m.save(mask)
+        hide = total - END   # host disappears under the end card
+        subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', tmp, '-stream_loop', '-1', '-i', loop, '-loop', '1', '-i', mask,
+                        '-filter_complex', f"[1:v]scale=380:380,fps={FPS},format=rgba[h];[2:v]format=gray,scale=380:380[m];[h][m]alphamerge[hm];"
+                                           f"[0:v][hm]overlay=56:{H - 444}:enable='lt(t,{hide})':shortest=1[v]",
+                        '-map', '[v]', '-map', '0:a', '-c:v', 'libx264', '-preset', 'medium', '-crf', '20', '-pix_fmt', 'yuv420p',
+                        '-c:a', 'copy', '-t', str(total), '-movflags', '+faststart', out], check=True)
+        os.remove(tmp); os.remove(mask)
     print(p(ep['output']), f'{total:.1f}s')
 
 
