@@ -18,3 +18,5 @@
 | scheduled 2026-11-18 19:00 | X | Cloud gaming from 1am ET (replaces earlier draft) | text | @Xbox @RockstarGames | cmwlirkf10llqoc07wgfvmxnr |
 | scheduled 2026-11-18 15:00 | IG, TikTok, YouTube | News 01 (Nia): pre-order records, talking host | fullclear-news-01.mp4 | @PlayStation @Xbox | cmwlm56zp0o23oc07iwweaygj / cmwlm573z0o24oc07f8v41v7x / cmwlm57hl0o25oc07k48h2tdr |
 | scheduled 2026-11-18 13:00 | IG, TikTok, X (+YT 13:30) | News 02 (Dev): fake GTA 6 downloads warning | fullclear-news-02.mp4 | Malwarebytes | cmwlnav0q0oz2oc07v50lx1nh / cmwlnav5b0b7omp07u605xvgj / cmwlnavhn0b7pmp07sgwug3i3 / cmwlnavlj0b7qmp07r0h7k3y6 |
+| 2026-11-18 ~12:25 | X | Reviews are in: Metascore 99 | text | @metacritic | cmwm3ddh907hoqu07i9e7u0o3 |
+| 2026-11-18 ~12:30 | IG, TikTok, YouTube | News 03 (Mei): Metascore 99 | fullclear-news-03.mp4 | Metacritic | see Postiz |

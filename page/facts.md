@@ -38,6 +38,8 @@ Checked = date we read the official page.
 
 | Fake GTA 6 demo/"Official Download" sites deliver an infostealer; "Rockstar has not announced or released a demo of Grand Theft Auto VI"; "there is no legitimate GTA 6 demo or PC build to download" | [Malwarebytes](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer) | 2026-11-18 |
 
+| **Metascore 99** (PS5), based on 146 critic reviews; 100% positive, 0 mixed, 0 negative (read 2026-11-18 12:25 UTC); user score tbd | [Metacritic](https://www.metacritic.com/game/grand-theft-auto-vi/) | 2026-11-18 |
+
 ## Not yet verified from an official page (do NOT post as fact)
 - Xbox **installed** game unlock time (only cloud 1am ET is official). Rockstar Support pages were down (503) on 2026-11-18.
 - Multiplayer / GTA Online for VI: no official date found.

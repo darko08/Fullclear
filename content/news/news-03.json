@@ -1,0 +1,14 @@
+{
+  "host": "Mei",
+  "headline": "GTA 6 reviews are in: Metascore 99",
+  "image": "page/media/official/postcards/Leonida_Keys_16x9.jpg",
+  "image_credit": "© Rockstar Games",
+  "bullets": [
+    "Metascore 99 from 146 critic reviews (PS5)",
+    "100% positive: 0 mixed, 0 negative",
+    "Out at midnight local time, country by country"
+  ],
+  "source": "Source: Metacritic",
+  "voiceover": "videos/news/news-03-mei.mp3",
+  "output": "videos/news/fullclear-news-03.mp4"
+}
