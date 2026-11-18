@@ -34,6 +34,12 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 | Content plans | `content/` (CREW.md, crew.json, series-how-long/, news/, daily/) |
 | Page ops files | `page/` (playbook, facts, idea-bank, watchlist, log, scoreboard.csv, learning, takedowns, permissions, seen, GROWTH) |
 
+## Money
+- Amazon Associates US tag: `nightshiftnor-20` (owner's account). Every affiliate page carries "As an Amazon Associate we earn from qualifying purchases."
+  Links use `rel="sponsored"`; no prices shown (Amazon rule); only products that meet official console requirements.
+- Affiliate pages: `site/storage/` (212 GB guide). Social posts point to our pages ("link in bio"), never straight to Amazon.
+- Revenue plan: affiliate now → display ads when traffic grows → premium tracker → creator funds → sponsors (see page/GROWTH.md).
+
 ## Platform gotchas
 - TikTok via Postiz: `content_posting_method: DIRECT_POST`; settings must include duet, stitch (booleans) and autoAddMusic.
 - Instagram feed images must be 4:5–1.91:1. X: links get stripped → "link in bio".
