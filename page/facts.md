@@ -31,6 +31,11 @@ Checked = date we read the official page.
 | GTA V and Red Dead Redemption 2 coming to Xbox Cloud Gaming "in the coming months" | same Xbox Wire post | 2026-11-18 |
 | Official score album (Justice): **Dec 11, 30 tracks** | rockstargames.com/VI/music (via scout A) | 2026-11-18 |
 
+| **YouTube official 24-hour launch stream** from **12 AM ET Nov 19** on youtube.com/youtube; pre-show with RDCWorld **11 PM ET Nov 18**; creators incl. Caylus, Zhong and Kat, Jelly, Rivers, Jake Baldino, Cinna; ends with live coverage from Miami. "GTAVI: Visit Vice City" Shorts effect. GTA series 900B+ YouTube views; GTA VI pre-launch videos 40B+ | [YouTube Blog, Nov 12 2026](https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/) | 2026-11-18 |
+| Official regions: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, Mount Kalaga National Park | rockstargames.com/VI/only-in-leonida (scout C) | 2026-11-18 |
+| Official media downloads ("download and share"): videos, 138 screenshots, artwork & wallpapers incl. 6 region postcards | rockstargames.com/VI/media (scout C) | 2026-11-18 |
+| GTA VI: The Album, **Nov 19, 34 tracks** (Atlantic Records); 6 radio stations announced so far + in-game podcasts (first time) | rockstargames.com/VI/music, Newswire Oct 8 (scout C) | 2026-11-18 |
+
 ## Not yet verified from an official page (do NOT post as fact)
 - Xbox **installed** game unlock time (only cloud 1am ET is official). Rockstar Support pages were down (503) on 2026-11-18.
 - Multiplayer / GTA Online for VI: no official date found.

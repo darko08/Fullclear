@@ -88,3 +88,11 @@ Status: 🟢 ready · 🟡 needs approval · ⏳ after launch
 > 3. Still stuck? Check free space (up to 212 GB) and restart the download
 **17. 🟡 Explainer: does the physical copy have a disc?** (verify "code-in-box" wording first; Newswire already says "code-in-box versions")
 **18. 🟡 Creator clip: OnlyInDade Miami street-cars clip (Rockstar reshared it)**: DM for permission first.
+
+## From scout C (2026-11-18)
+**19. 🟢 Nov 19: "Official Leonida map is live"** (link to Rockstar's download, no rehost) once scout A confirms it's live.
+**20. 🟢 Album out Nov 19: where to stream** (34 tracks; link Rockstar music page).
+**21. 🟢 Region postcard series:** one official region postcard/day with "© Rockstar Games" (unmodified).
+**22. 🟡 Site feature: Radio Station Tracker** (6 known stations, grows with finds).
+**23. 🟡 Site page: Launch Day Help** (212 GB, pre-load FAQ link, status page).
+**24. 🟡 Crew Shorts using YouTube's "Visit Vice City" effect** (check it only uses YouTube-provided backgrounds).

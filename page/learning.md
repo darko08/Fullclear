@@ -17,3 +17,10 @@
 - Rockstar reportedly takes down story-spoiler videos → we never post story content in launch week; gameplay/driving/map/NPC only.
 - Never promote "switch region to play early" tricks (not confirmed, possible account risk).
 - Reddit blocks automated reading; scouts rely on news coverage of threads → always open the original before crediting.
+
+## Legal rules from Rockstar ToS (scout C, 2026-11-18). These are binding for us
+- ToS §2.3: never feed Rockstar screenshots, footage, music, characters or maps into AI tools (Runway etc.). Our crew and scenes stay 100% original prompts.
+  → Our own map must NOT be made by AI from the official map. Link to Rockstar's official map download; don't rehost it.
+- Official media ("download and share") may be shown unmodified with "© Rockstar Games" credit.
+- Fan-video policy (support page, unverified text): non-commercial fan use tolerated; no story spoilers, isolated cutscenes, in-game TV/radio segments, leaks, cheat promotion.
+- Monetisation with Rockstar footage is a grey area → our money should come from our own content (crew videos, map/tracker data, community), not from Rockstar footage.
