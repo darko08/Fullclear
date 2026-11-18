@@ -15,6 +15,13 @@ Nobody else has a crew; everybody else has one faceless narrator.
 | **Breaking** (when needed) | 1–2 min | Within the hour of big official news | 1–2 hosts. Patch, outage, free download, announcement. |
 | **Clips** | 30–60 s | 3 per episode | Best moments cut vertically → TikTok/IG/Shorts/X, "full episode: link in bio". |
 
+## 1b. "Keys & Neon" (owner's idea, 2026-11-18): two AI characters debate and recap, 60–90 s
+- **Rosa** (retired Florida Keys fishing-boat captain, 60s, deadpan sceptic; voice Mabel) vs **Jay** (Vice City nightlife creator, 20s, all hype; voice Malachi).
+  Our own fictional characters (brand/guests/), always labelled "our own AI characters"; never real people, never Rockstar characters.
+- Format: Jay brings the news/hype, Rosa undercuts it; every fact has a source on screen; ends with "Team Keys or Team Neon?".
+- Topics: daily recap, pros vs cons of reviews, myth or fact (e.g. viral cheat lists that contradict each other), real Florida vs Leonida.
+- Tool: `python3 tools/podcast.py content/podcast/knNN-*.json --clip 1 <last>` (vertical). Cadence: daily in launch weeks (evening US time).
+
 ## 2. Segments (pick 4–6 per weekly episode)
 1. **Breaking Leonida**: verified news of the week, with source on screen (facts.md only).
 2. **Found By…**: community finds from Discord /submit, finder credited by name (they share it → new listeners).
