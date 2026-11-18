@@ -55,3 +55,13 @@ Test for every post: *could any other GTA page post this exact thing today?* If 
 5. **Fans decide:** polls choose the next route, the next guide, which host hosts Leonida Daily.
 6. **Honest contrarian:** "don't buy this", "you don't need that": trust beats hype.
 7. **Real Florida vs Leonida** using our own or CC-licensed real-world photos (never Rockstar content in AI).
+
+## Host test (owner's question, 2026-11-18): which characters do viewers like?
+- Measure, don't guess: every post logs its host in scoreboard.csv (column `host`); after 14 days compare per host:
+  3-s hold / avg watch %, follows per 1k views, comments. Same topic types only (news vs news).
+- Compare formats too: crew single host vs Keys & Neon duo (Rosa/Jay) vs Leonida Daily.
+- Personality > looks. Sharpen each crew member with one clear trait + one running joke:
+  Scout = sarcastic camera nerd who films everyone failing · Nia = map perfectionist ("that's not on the map yet") ·
+  Mei = deadpan wildlife spotter · Dev = pin collector with a theory for everything (clearly labelled as jokes, never fake facts).
+- No sexualised characters: YouTube/TikTok limit reach and ads for sexually suggestive content, it attracts low-quality engagement,
+  and our crew look young: a hard no. Edge comes from humour and attitude (Rosa's sarcasm, Jay's hype), not from bodies.
