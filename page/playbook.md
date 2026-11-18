@@ -16,7 +16,7 @@
 | 3 | Time zone / awake hours | CET; hours **to confirm** |
 | 4 | Tools | Postiz connected (direct), Runway, ffmpeg; no clipping tool yet |
 | 5 | Posts per day | Default until confirmed: X 3–5, Instagram 1–2, TikTok 1–2, Shorts 1–2 |
-| 6 | Needs approval | Default: anything outside the normal mix, any rumour, every creator clip, anything that could read as official |
+| 6 | Needs approval | **Nothing.** Owner delegated all decisions to the boss (2026-11-18), except spending money |
 | 7 | Creators liked / avoided | **To confirm** |
 | 8 | Voice style | AI voice (the crew) |
 
