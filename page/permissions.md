@@ -75,3 +75,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-19 18:56 UTC: 0 passed
 - Rejected: CFuzIRTG4Ec Aidko (webcam), 2_E-HAaMsHw greey_mx (reupload of LunarGaming 747), 0gI-xZ4yJpg mr_gta (screen-recorded repost), OOoHlM0i0CY Witalo Games (#gtav, unclear source), LPZKXKvt2xw Infamous (AI/clickbait thumbnail, unclear own footage). First four channels added to BLOCK_CH.
+
+### Clip hunt 2026-11-19 22:06 UTC: 0 passed
+- Rejected: VexVice W-2yRWdYyQw / Ax5kVemMf5g (streamer webcam, Twitch clips), GTA 6 Locker KnU0c9X1DY8 (Nick Eh 30 stream reupload), ImCallvinn kF4tBnZobmI (Twitch stream), BoltBrain ojLaMMEElM8 (edit with overlay), Mythic Realm 1wrPaGqlxvE (AI clickbait thumbnail), Liam Dearsley -hDLTJf3iaU (mission objective on screen + overlay). Channels blocked; titles with "twitch" now blocked.

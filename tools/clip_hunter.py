@@ -16,8 +16,8 @@ API = 'https://www.googleapis.com/youtube/v3/'
 STATE = os.path.join(ROOT, 'page/clip-hunt-state.json')
 OUT = os.path.join(ROOT, 'page/clip-hunt.md')
 TRUSTED = {'UCmF3ZcCBFUD-mcwg-r3SMyA': 'LunarGaming', 'UC20VvWjAyaGERxHwFGqN0_w': 'Soiscool Mec', 'UCLlka7pcpir-5koCjX1jLRw': 'Nippton Games'}
-BLOCK_CH = re.compile(r'H4Community|Gosoi|RJME|CalMarTV|Clips?\b|Reelity|Grand Theft Auto Clips|Viral|Highlights|Moments 24|Compil|GOAT361|Steezy|Muvee|Ducky|Vice City Brief|GamesWayFirst|reaction|Aidko|greey_mx|mr_gta|Witalo Games', re.I)
-BLOCK_TITLE = re.compile(r'review|lucia|jason|glitch|money glitch|exploit|early access|play early|leak|nude|strip|xqc|kai cenat|speed|caseoh|stream|live|mission \d|walkthrough|ending|chapter|mod\b|gta 5|gta v\b|free download|pc download', re.I)
+BLOCK_CH = re.compile(r'H4Community|Gosoi|RJME|CalMarTV|Clips?\b|Reelity|Grand Theft Auto Clips|Viral|Highlights|Moments 24|Compil|GOAT361|Steezy|Muvee|Ducky|Vice City Brief|GamesWayFirst|reaction|Aidko|greey_mx|mr_gta|Witalo Games|VexVice|GTA 6 Locker|ImCallvinn|BoltBrain|Mythic Realm', re.I)
+BLOCK_TITLE = re.compile(r'twitch|review|lucia|jason|glitch|money glitch|exploit|early access|play early|leak|nude|strip|xqc|kai cenat|speed|caseoh|stream|live|mission \d|walkthrough|ending|chapter|mod\b|gta 5|gta v\b|free download|pc download', re.I)
 FUN = re.compile(r'fail|funny|chaos|wtf|crash|ragdoll|police|cops|stars|what happens|tried|steal|escape|chase|insane|lol|wasted|busted|physics|npc', re.I)
 QUERIES = ['GTA 6 funny', 'GTA 6 fail', 'GTA 6 what happens if', 'GTA 6 police chase']  # 100 quota units each; keep runs <= 700 units
 
