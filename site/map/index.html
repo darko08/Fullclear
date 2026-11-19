@@ -102,7 +102,7 @@
 
   <main>
     <div id="map" role="application" aria-label="Interactive map"></div>
-    <div class="banner" id="banner"><b>The base map unlocks after launch.</b> Pins appear as the community confirms locations. Every find is already in the list.</div>
+    <div class="banner" id="banner"><b>Official map of Leonida is live.</b> Pins appear as the community confirms locations. Every find is already in the list.</div>
   </main>
 </div>
 
@@ -124,13 +124,18 @@
   var hiddenCats = load('fc-hidden-cats', {});
   var hideFound = load('fc-hide-found', false);
 
-  // --- map: simple 0-1000 coordinate space; base image swapped in after launch ---
-  var bounds = [[0, 0], [1000, 1000]];
-  var map = L.map('map', { crs: L.CRS.Simple, minZoom: -1, maxZoom: 3, zoomSnap: 0.25, attributionControl: false });
-  var BASE = '/map/base.svg';
-  L.imageOverlay(BASE, bounds).addTo(map);
+  // --- map: official Leonida map by Rockstar Games (download-and-share, shown unmodified), 2805x3840 ---
+  // Pins are stored normalised 0-1000 (x left->right, y bottom->top); width is scaled to the image aspect.
+  var AR = 2805 / 3840, W = 1000 * AR;
+  var bounds = [[0, 0], [1000, W]];
+  function toLatLng(x, y) { return [y, x * AR]; }
+  var map = L.map('map', { crs: L.CRS.Simple, minZoom: -1, maxZoom: 3, zoomSnap: 0.25, attributionControl: true });
+  var webp = (function () { try { return document.createElement('canvas').toDataURL('image/webp').indexOf('data:image/webp') === 0; } catch (e) { return false; } })();
+  var BASE = webp ? '/map/leonida-official.webp' : '/map/leonida-official.jpg';
+  L.imageOverlay(BASE, bounds, { attribution: 'Official map of Leonida © Rockstar Games (<a href="https://www.rockstargames.com/VI/media" target="_blank" rel="noopener">source</a>) · Fan site, not affiliated' }).addTo(map);
+  map.attributionControl.setPrefix(false);
   map.fitBounds(bounds);
-  map.setMaxBounds([[-200, -200], [1200, 1200]]);
+  map.setMaxBounds([[-200, -200], [1200, W + 200]]);
   var layer = L.layerGroup().addTo(map);
 
   var finds = [];
@@ -204,7 +209,7 @@
       if (f.x == null || f.y == null) return;
       pinned++;
       var icon = L.divIcon({ className: '', html: '<div class="pin' + (found[f.id] ? ' found' : '') + '" style="background:' + (COLOR[f.category] || '#fff') + '"></div>', iconSize: [22, 22], iconAnchor: [11, 22], popupAnchor: [0, -20] });
-      f._marker = L.marker([f.y, f.x], { icon: icon, title: f.location }).bindPopup(function () { return popupHtml(f); }).addTo(layer);
+      f._marker = L.marker(toLatLng(f.x, f.y), { icon: icon, title: f.location }).bindPopup(function () { return popupHtml(f); }).addTo(layer);
     });
     $('banner').style.display = pinned ? 'none' : '';
   }

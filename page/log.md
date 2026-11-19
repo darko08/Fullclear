@@ -45,3 +45,4 @@
 | scheduled 2026-11-19 14:30 UTC (YT Nov 20 15:05) | TikTok, IG, YouTube | Keys & Neon #2: launch night recap | fullclear-keys-neon-02.clip1-11.mp4 | AFP, ESPN, 6abc, Engadget | see Postiz |
 | 2026-11-19 ~14:30 UTC | TikTok, IG, YouTube | News 08 (Scout): OUT NOW + Rockstar's free official Leonida map + last day Vintage pack + album tonight | fullclear-news-08.mp4 | Rockstar Newswire Nov 19 | see Postiz |
 | moved | YouTube | HOW TO #1 SSD → 2026-11-21 08:05 UTC (YouTube daily limit; breaking news took today's slot) | | | |
+| 2026-11-19 ~15:35 UTC | site | Map: official Rockstar Leonida map as base layer (unmodified, credited, owner approved) | site/map | Rockstar /VI/media | https://fullclearmap.com/map/ |
