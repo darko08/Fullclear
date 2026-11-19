@@ -34,6 +34,8 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 | Discord REST from here | `Authorization: Bot proxy-injected` (proxy injects the token); discord.js needs `NODE_USE_ENV_PROXY=1` + `makeRequest: fetch` |
 | Postiz | `env -u POSTIZ_API_KEY postiz ...` (OAuth login in ~/.postiz). Channels: IG cmwle8y8804zkmp07es47pkqh · TikTok cmwle9pzv0jd1o407y92r2npy · YouTube cmwleb66t0jdko407jkzyml78 · X cmwle99iy0503mp07twiyb6l9. **Not ours:** "Nora the nurse" IG; never touch it |
 | Newsroom (every 4 h) | Scheduled task into this session; procedure in `page/scout-brief.md` |
+| Discord guide editor (every 4 h, :56) | Scheduled task: research agent finds new player help → max 5 Discord posts (how-tos, secrets, videos) |
+| Clip hunter (every 3 h, :55) | `tools/clip_hunter.py` → vetted CC BY links to owner + #mod-chat; owner downloads to Drive; `tools/check_drive.py` hourly picks them up |
 | Brand, crew images, voices | `brand/` (crew-1.png = chosen group, crew-<name>.png singles, hosts/ = talking loops) |
 | Video tools | `tools/news_short.py` (news show), `tools/daily_story.py` (Leonida Daily), `tools/route_video.py` ("How long does it take…") |
 | Content plans | `content/` (CREW.md, crew.json, series-how-long/, news/, daily/) |
