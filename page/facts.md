@@ -85,3 +85,10 @@ Checked = date we read the official page.
 - Album: still pre-save on Spotify/Apple at 05:00 UTC; Apple catalogue: 34 tracks, opens with Justice ft. Michael McDonald "Starting From Zero"; Apple US release metadata 2026-11-20 08:00 UTC (conflicts with Rockstar "Nov 19" → post "out now" only when it plays).
 - Press: Heat 137–130 Bucks, "A Night in Vice City" (ESPN box score); Vice City gear sold out ~90 min (ESPN/Axios). Philly 12-hour "GTA lockout" at Open World Gaming (6abc). Dallas listening party (NBC DFW; ignore its unsourced "$1.6B presales"). West Palm Beach restaurant rebranded as "Burger Shot" (WPTV; licensed or fan stunt unknown).
 - UNVERIFIED: "Cyberpunk all over again" (single creator), base-PS5 low fps/overheating (user posts), Series S 720p (pre-launch DF estimate), "6 stars" (IGN Short, not in our facts), GameStop trade-in anecdote only.
+
+## 2026-11-19 run 9 (08:50 UTC)
+- Official: still no Rockstar launch post, /VI still "COMING NOVEMBER 19, 2026", no map, Support down; PS status all up; Take-Two IR nothing new.
+- Album: Apple catalogue lists all 34 tracks (store metadata), release 2026-11-20 08:00 UTC; Spotify prerelease. Score: Apple lists 50 tracks (Rockstar: 30 + digital bonus) for Dec 11.
+- Press: AFP Miami midnight launch quotes (Ryan Jones "It's cinematic", Alex Martinez "surreal", Veronica Chicola took the day off) https://www.france24.com/en/live-news/20261119-it-s-cinematic-gamers-get-first-taste-of-grand-theft-auto-vi ; Engadget live blog world details: jet-ski dog far out at sea, socks with flip-flops counts as a "crime", annoyed cat when stealing a car.
+- Reports only: lost progress after crashes (individual reports), viral glitch compilations (clips real, scale unknown), "disc edition later" (unverified), boxes without codes ("some buyers say").
+- Guides (not official): 15 manual save slots + 1 autosave; motion blur slider.

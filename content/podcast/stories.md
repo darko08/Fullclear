@@ -23,3 +23,5 @@
 | 2026-11-19 | Philadelphia 12-hour "GTA lockout" (Open World Gaming) | https://6abc.com/post/philadelphia-gamers-gearing-thursdays-midnight-release-grand-theft-auto-vi/20053472/ | press | Keys & Neon #2 | — |
 | 2026-11-19 | West Palm Beach restaurant becomes "Burger Shot" for launch | https://www.wptv.com/entertainment/gta-6-finally-arrives-as-florida-gamers-prepare-for-one-of-the-most-anticipated-video-game-launches-ever | press (licensed? unknown) | Real Florida vs Leonida | — |
 | 2026-11-19 | Dallas: soundtrack listening party, launch tattoo | https://www.nbcdfw.com/news/local/gta-6-hype-takes-over-north-texas-as-fans-celebrate-long-awaited-release/4108110/ | press | podcast | — |
+| 2026-11-19 | Miami midnight: "It's cinematic", "surreal", day off (AFP) | https://www.france24.com/en/live-news/20261119-it-s-cinematic-gamers-get-first-taste-of-grand-theft-auto-vi | AFP | Keys & Neon #2 | — |
+| 2026-11-19 | World details: jet-ski dog at sea, socks+flip-flops "crime", angry cat | https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/ | press | Keys & Neon #2 / Leonida Daily cold open | — |

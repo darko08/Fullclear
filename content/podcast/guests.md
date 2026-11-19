@@ -12,3 +12,4 @@
 | 2026-11-19 | GTA Wiki / GTA VI Mapping Project (Jared) | map makers, house find | @GTAWikiOfficial | idea | — |
 | 2026-11-19 | Antonio Griffin (Open World Gaming, Philadelphia) | ran a 12-hour launch lockout | business contact | idea | — |
 | 2026-11-19 | Dr. Jack Murray (UT Dallas game design) | cultural size of the launch | faculty page | idea | — |
+| 2026-11-19 | Kris Holt (Engadget) | ~10 h day-one play, GTA history (DMA Design) | Engadget author page | idea | — |

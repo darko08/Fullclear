@@ -133,3 +133,9 @@ Story "He snuck onto a cruise ship… and left by sea": 25–45 s → steal the 
 - **Album day**: when Spotify plays it → host "3 tracks for a Leonida road trip" + official album cover © Rockstar Games (Apple metadata says Nov 20 08:00 UTC).
 - **HOW TO: Series S / performance vs quality mode**: only official settings text, no fps numbers until DF/Rockstar.
 - **Leonida Daily #3 candidates (CC BY, need owner download)**: Nippton 3OyzDsAJL_M traffic stop (0:30), 8VVsmVD1yGU odd NPC; Soiscool yd7ap8iwYY4 tank war (best).
+
+## From run 9 (2026-11-19 08:50 UTC)
+- **Keys & Neon #2 (today, US afternoon)**: Miami midnight (AFP quotes), Heat 137–130 Vice City night, Philly 12-h lockout, world details (jet-ski dog, socks+flip-flops crime, angry cat; credit Engadget). B-roll: official Vice City/Keys screenshots + LunarGaming.
+- **Leonida Daily #3**: LunarGaming 747 heist (szeK8uyMrpA) once on Drive.
+- **HOW TO "Don't lose progress"**: manual saves vs autosave (guides; verify in game via Discord before posting).
+- **Album "34 artists in 60 s"** (Apple metadata) on Nov 20 08:00 UTC when it plays.
