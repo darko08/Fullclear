@@ -61,3 +61,9 @@ Never: leaked footage ("2015 build" etc.), "concept gameplay" fakes, "early acce
 - ⭐ **LunarGaming** (UCmF3ZcCBFUD-mcwg-r3SMyA): every recent upload is CC BY (checked via API 2026-11-18 21:30 UTC), own clean gameplay, no webcam → **priority source**. New GTA 6 uploads: OnWC__OxyTk "What happens if you go on the cruise ship" (4:05), NZjyqMiEM8Y "Helicopter early (Maverick location)" (1:02), m2YfB5YNpDI "Pussycat Mammatus vehicle", Gm2uQpjmlIY "best beginner tip". Re-check the licence field at the moment of use; credit "LunarGaming (CC BY)".
 - ✅ LunarGaming NZjyqMiEM8Y "Helicopter early (Maverick location)": CC BY (API), received via owner's Drive 21:40 UTC → b-roll / how-to.
 - ✅ LunarGaming OnWC__OxyTk "What happens if you go on the cruise ship": CC BY (API 22:25 UTC), clean gameplay, no webcam. Received via Drive. → Leonida Daily #2.
+
+## 2026-11-19 00:25 UTC: 5 clips from the owner's Drive, downloaded from **X posts** (tweet ids in file names)
+NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each creator first (DM template above; credit + link + takedown promise).
+- MAODO 2122759406739759104 (realism montage, FR) · Millzaa 2123128447039918080 (parrot leads to a hidden early money stash) · NikTek 2123176046291775488 (dog leads you somewhere) ·
+  xGarbett 2123087810571784192 (real Easter egg "throw the easter egg off…") · unnamed 2123176103241973760 (jump scare when looting trunks).
+- Allowed meanwhile: report the *finds* as "players report…" with credit and link (no footage), then verify in game via Discord before map pins.
