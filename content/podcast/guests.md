@@ -15,3 +15,4 @@
 | 2026-11-19 | Kris Holt (Engadget) | ~10 h day-one play, GTA history (DMA Design) | Engadget author page | idea | — |
 | 2026-11-19 | Vincent Teoh (HDTVTest) | HDR/display setup for GTA 6 | YouTube About business email | idea | — |
 | 2026-11-19 | Jason England (Tom's Guide) | "DIY GTA" angle | author page / X | idea | — |
+| 2026-11-19 | Joost van Dreunen (NYU) | "the Star Wars of this generation" | NYU faculty page | idea | — |

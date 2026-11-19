@@ -107,3 +107,11 @@ Checked = date we read the official page.
 - "Also out tonight at midnight ET, Grand Theft Auto VI: The Album, with 34 original tracks" (= Nov 20 05:00 UTC).
 - "Please be mindful of openly sharing spoilers."
 - Xbox Wire post "Grand Theft Auto VI is Out Now" (Nov 19 14:00 UTC). /VI now "OUT NOW / NOW AVAILABLE / Buy Now".
+
+## 2026-11-19 run 11 (16:50 UTC)
+- Official: nothing new after Rockstar's 14:00 launch post; Support still down; no Take-Two sales release.
+- Guides (credit, confirm in game): switch Jason/Lucia with D-pad Right + R1/RB, unlocks in Chapter 2 (Push Square); greyed out = other character busy on a mission; fast travel = RydeMe taxi, skip the ride for $100 (Cultured Vultures; $100 also Kotaku).
+- Press: Take-Two CEO Zelnick said many will call in sick on Nov 19 (NBC citing IGN); NBC/players: manatee mailboxes; Engadget: characters take shoes off in bed, house renovation (drywall, paint).
+- ESTIMATES ONLY: Sensor Tower ~19.1M copies / $1.84B day one (Reuters) — say "estimate", Take-Two hasn't confirmed.
+- FALSE: "map in the standard box" (it's a poster, not the map: Push Square). FAKE: "Severity 1 global outage" (spam sites), "delay to 2027", "dev fired over saves". SPECULATION: Online in 6–12 months.
+- Single source, hold: "Weird Al" radio host, "Tenebrae Lux" satire, SunPass tolls.

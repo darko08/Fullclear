@@ -28,3 +28,7 @@
 | 2026-11-19 | World details: dog driving a car, cat attacks car thief, trash-talking parrots, Mai Tai neighbour | https://www.techradar.com/live/news/gta-6-launch-day-november-19 ; https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/ | press live blogs (player/editor reports) | Leonida Daily host-only / Keys & Neon | — |
 | 2026-11-19 | "Red Dead-ification": fixing your roof at 2 a.m. | https://www.tomsguide.com/live/news/gta-6-launch-day-live-updates-november-19-2026 | press | podcast | — |
 | 2026-11-19 | Real police dept: "we don't have a 6-star system" | local12.com | local press | Real Florida vs Leonida / joke | — |
+| 2026-11-19 | "GTA flu": Take-Two CEO says many will call in sick | https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/gta-6-release-grand-theft-reviews-live-updates-rcna610118 | NBC citing IGN | Keys & Neon #3 | — |
+| 2026-11-19 | Day-one estimate ~19.1M copies / $1.84B (Sensor Tower, not official) | Reuters syndication | estimate | podcast (say estimate) | — |
+| 2026-11-19 | Athletes: Rams' Tutu Atwell (Miami native) preordered; "sleep scores will drop" | AP via NBC | press | Keys & Neon | — |
+| 2026-11-19 | Manatee mailboxes, shoes off in bed, peach-paint renovations | NBC / Engadget | press | Leonida Daily cold open | — |
