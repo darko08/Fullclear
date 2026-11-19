@@ -60,3 +60,9 @@
 - +11 pins (14 total) on site/map/pins.json from PC Gamer, Push Square, Shacknews (own descriptions, verified=false): Southwind seaplanes, Barrage Gun Supply, Permit Keys Fingerpost, Jason's house (approx.), Wonder Whale, Key Lento wrecks, Ambrosia Raceway derby, Rodgers Ranch range, Robot Bubblegum statue, Dock Ring, Belpoint Lighthouse.
 - 8 unplaced → page/map-todo.md. Strip clubs skipped on purpose (brand).
 - Playwright: 14 markers, 0 errors. Netlify deploy 6aff46f87b8c7b4190b1e350 live. Discord #announcements summary posted.
+
+## 2026-11-19 20:50 UTC · Newsroom run 12
+- Scouts A–E done (Reddit 403 from this IP; used aggregators). Verified: Weird Al/Vice City FM (Kotaku), 8 TGA noms (Xbox Wire, rendered), GTA+ Elegy/Crosstown Chapter 3 (rockstargames.com/gta-plus).
+- News 09 (Nia): Weird Al + 8 Game Awards noms → TikTok 21:30, IG 21:40 UTC, YouTube Nov 21 16:05 UTC. X skipped (suspended).
+- Discord: #announcements Weird Al + TGA (with video), #how-to-guides "Where are my bonuses?" (GTA+ Ch.3, edition bonuses by chapter).
+- Leonida Daily #4 candidates for owner download: Nippton -821VaDP-8w, Soiscool EMKaAuAczBQ, Nippton x7T2my60Phk.

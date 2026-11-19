@@ -32,3 +32,11 @@
 | 2026-11-19 | Day-one estimate ~19.1M copies / $1.84B (Sensor Tower, not official) | Reuters syndication | estimate | podcast (say estimate) | — |
 | 2026-11-19 | Athletes: Rams' Tutu Atwell (Miami native) preordered; "sleep scores will drop" | AP via NBC | press | Keys & Neon | — |
 | 2026-11-19 | Manatee mailboxes, shoes off in bed, peach-paint renovations | NBC / Engadget | press | Leonida Daily cold open | — |
+
+## Run 12 (2026-11-19 20:50 UTC)
+- Fort Stewart (GA) 9th Brigade Engineer Battalion: 43 soldiers re-enlisted, got 4 days off for GTA VI; idea by SSgt Brittany Wolfer; game "not the main reason". https://taskandpurpose.com/culture/army-reenlistment-gta-vi/ (press citing Army). Strong human story.
+- Pocketpair (Palworld) staff "business trip to Vice City" Nov 19–23. https://www.tweaktown.com/news/114673/
+- Footballers at midnight: Mbeumo, Isak, Rice (Outlook India quoting IG/GQ). McGregor claim unconfirmed → skip.
+- Streams Charts final day 1: 125.47M hours, 7.91M peak, IShowSpeed most watched (tracker). https://streamscharts.com/news/gta-6-day1-recap
+- Accessibility: Laura Kate Dale confirms menu narration, cutscene audio description, high contrast; no colour customisation (Kotaku live blog).
+- Weird Al co-hosts Vice City FM (Kotaku, confirmed with Rockstar).

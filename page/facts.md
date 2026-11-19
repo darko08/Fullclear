@@ -115,3 +115,13 @@ Checked = date we read the official page.
 - ESTIMATES ONLY: Sensor Tower ~19.1M copies / $1.84B day one (Reuters) — say "estimate", Take-Two hasn't confirmed.
 - FALSE: "map in the standard box" (it's a poster, not the map: Push Square). FAKE: "Severity 1 global outage" (spam sites), "delay to 2027", "dev fired over saves". SPECULATION: Online in 6–12 months.
 - Single source, hold: "Weird Al" radio host, "Tenebrae Lux" satire, SunPass tolls.
+
+## 2026-11-19 run 12 (20:50 UTC)
+- VERIFIED (Kotaku, confirmed with Rockstar): Weird Al Yankovic is one of the two hosts of Vice City FM (80s station). None of his songs in the game; not physically in the game. → news 09.
+- VERIFIED (Xbox Wire Nov 17, rendered): GTA VI nominated for 8 Game Awards: GOTY, Action/Adventure, Art Direction, Audio Design, Game Direction, Narrative, Performance (Manni L. Perez), Score & Music. Show Dec 10. (Replaces "TGA noms unverified".)
+- VERIFIED (rockstargames.com/gta-plus): console GTA+ members get the '90 Annis Venturas BLVD Elegy + Crosstown garage, claimable in Chapter 3, plus optional bonuses; console only.
+- VERIFIED (Take-Two IR, Nov 19 release): Sam Houser quote "…everything we have been working towards since we first started making games…"; review quotes (NYT, WaPo, Bloomberg, IGN, Eurogamer/Guardian/Polygon). No sales figures.
+- Album: Rockstar says midnight ET = Nov 20 05:00 UTC; not on Spotify/Apple yet (singles only). Rockstar Store: Justice score vinyl/CD "coming soon"; physical map poster not listed yet.
+- New official video "Grand Theft Auto VI: Out Now" on /VI/media/videos; artwork zip now has album cover art + character portraits.
+- Press/estimates: Streams Charts day-1 125.47M hours watched, 7.91M peak (tracker, not official); Fort Stewart 9th BEB re-enlistment weekend (Task & Purpose); Pocketpair staff "business trip to Vice City" Nov 19–23; footballers Mbeumo/Isak/Rice (press); Digital Foundry Series S <20 fps claim (check DF directly); darts not playable quote (VGC, verify).
+- Not verified / avoid: N3on story time (spoiler risk), "first to 100%" (parody), NZ region trick 2.1M (don't promote), Cyberleek dev build, first-person glitch, asset-reuse datamine, Japan censorship, McGregor day off, PS5 "bricked" single report.

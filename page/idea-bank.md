@@ -148,3 +148,12 @@ Story "He snuck onto a cruise ship… and left by sea": 25–45 s → steal the 
 
 ## Leonida Daily #3 plan (tonight 18:20 UTC run)
 Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (sneak into the airport → 747 → wanted level → ending ~last 20 s) + Nippton X0BO_ZVFPX8 (airboat driven out of the swamp onto the highway, middle ~30–60 s). Files in page/media/raw/drive/. Host: not Dev/Nia/Scout (recent) → Mei. Credit both channels on screen.
+
+## From run 12 (2026-11-19 20:50 UTC)
+- **Leonida Daily #4 (Nov 20):** Nippton tiger death -821VaDP-8w (5/5, 0:28) + Soiscool aliens EMKaAuAczBQ (mute FR, "secret ahead") + Nippton gang shootout x7T2my60Phk (5 s). Skip Lucia-kills-Jason (spoiler-ish). Owner downloads to Drive; check overlays.
+- **Album (Nov 20 05:00 UTC):** check Spotify/Apple; "The Album is out" with official cover art (artwork zip) © Rockstar Games. No tracklist until official.
+- **HOW TO "Where's my Elegy?"** short (GTA+ Chapter 3) + Ultimate bonuses by chapter (Discord posted).
+- **Map-size measured, not guessed:** route_video "Vice City → Port Gellhorn by car" from permitted footage (no outlet has measured it).
+- **Wallpapers carousel** linking Rockstar's official page (not re-hosted).
+- **B-roll:** download official "Out Now" video (GTAVI_Videos.zip) for next news shorts.
+- **Keys & Neon #3:** Fort Stewart soldiers re-enlist for a GTA weekend, Pocketpair "business trip", footballers at midnight, 125M hours watched (tracker), Weird Al.

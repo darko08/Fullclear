@@ -16,3 +16,9 @@
 | 2026-11-19 | Vincent Teoh (HDTVTest) | HDR/display setup for GTA 6 | YouTube About business email | idea | — |
 | 2026-11-19 | Jason England (Tom's Guide) | "DIY GTA" angle | author page / X | idea | — |
 | 2026-11-19 | Joost van Dreunen (NYU) | "the Star Wars of this generation" | NYU faculty page | idea | — |
+
+## Run 12 additions (never contact without owner's OK)
+- Laura Kate Dale (accessibility critic): Bluesky @laurakbuzz / business contact on own site.
+- Patty Nieberg (Task & Purpose): outlet contact page; soldiers via Fort Stewart public affairs only.
+- Typical Gamer (100% marathon): YouTube About business email.
+- Streams Charts (analytics): press contact.
