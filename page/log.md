@@ -55,3 +55,8 @@
 - Story "Two players, one very bad transport plan": Nippton Games X0BO_ZVFPX8 (airboat swamp → highway) + LunarGaming szeK8uyMrpA (747 at the airport → run → wasted). Both CC BY, from owner's Drive, credited on screen + outro.
 - videos/daily/leonida-daily-03.mp4 (48.7 s, 48 kHz), content/daily/2026-11-19b.json, VO Mei/Lara 39.8 s.
 - Scheduled: TikTok 2026-11-19 23:30 UTC (AI label on), Instagram 23:35 UTC, YouTube 2026-11-21 12:05 UTC (quota). X skipped (suspended).
+
+## 2026-11-19 19:10 UTC · Map editor run #1
+- +11 pins (14 total) on site/map/pins.json from PC Gamer, Push Square, Shacknews (own descriptions, verified=false): Southwind seaplanes, Barrage Gun Supply, Permit Keys Fingerpost, Jason's house (approx.), Wonder Whale, Key Lento wrecks, Ambrosia Raceway derby, Rodgers Ranch range, Robot Bubblegum statue, Dock Ring, Belpoint Lighthouse.
+- 8 unplaced → page/map-todo.md. Strip clubs skipped on purpose (brand).
+- Playwright: 14 markers, 0 errors. Netlify deploy 6aff46f87b8c7b4190b1e350 live. Discord #announcements summary posted.

@@ -1,15 +1,160 @@
 {
-  "updated": "2026-11-19",
-  "note": "Guide pins by Full Clear. Positions are placed on Rockstar's official Leonida map from the sources listed; 'verified' becomes true once a community member confirms in game (Discord /submit).",
-  "pins": [
-    {"id": "g-mile-zero", "category": "Hidden location", "location": "Mile Zero Air Station (military base)", "x": 282, "y": 128,
-     "description": "Military base in the southwest Leonida Keys, next to Southwind (official map squares L-2/L-3). Tanks and fighter jets are parked here.",
-     "how": "Expect a heavy police and army response the moment you trespass.", "source": "Official map + LunarGaming gameplay (CC BY)", "verified": false},
-    {"id": "g-vcia", "category": "Vehicle", "location": "VCIA: Vice City International Airport", "x": 541, "y": 458,
-     "description": "Big airport west of Vice City (official map square H-5). Players report airliners like the 747 on the apron.",
-     "how": "Planes can be taken, but getting airborne without a wanted level is another story.", "source": "Official map + LunarGaming gameplay (CC BY)", "verified": false},
-    {"id": "g-keys-heli", "category": "Vehicle", "location": "Early helicopter (Maverick) near Key Lento", "x": 503, "y": 150,
-     "description": "A helipad on the water in the Leonida Keys, near Key Lento, with a helicopter you can take early.",
-     "how": "Walk onto the pad and get in. Exact spot not confirmed yet: help us pin it!", "source": "LunarGaming gameplay (CC BY)", "verified": false}
-  ]
+ "updated": "2026-11-19",
+ "note": "Guide pins by Full Clear. Positions are placed on Rockstar's official Leonida map from the sources listed; 'verified' becomes true once a community member confirms in game (Discord /submit).",
+ "pins": [
+  {
+   "id": "g-mile-zero",
+   "category": "Hidden location",
+   "location": "Mile Zero Air Station (military base)",
+   "x": 282,
+   "y": 128,
+   "description": "Military base in the southwest Leonida Keys, next to Southwind (official map squares L-2/L-3). Tanks and fighter jets are parked here.",
+   "how": "Expect a heavy police and army response the moment you trespass.",
+   "source": "Official map + LunarGaming gameplay (CC BY)",
+   "verified": false
+  },
+  {
+   "id": "g-vcia",
+   "category": "Vehicle",
+   "location": "VCIA: Vice City International Airport",
+   "x": 541,
+   "y": 458,
+   "description": "Big airport west of Vice City (official map square H-5). Players report airliners like the 747 on the apron.",
+   "how": "Planes can be taken, but getting airborne without a wanted level is another story.",
+   "source": "Official map + LunarGaming gameplay (CC BY)",
+   "verified": false
+  },
+  {
+   "id": "g-keys-heli",
+   "category": "Vehicle",
+   "location": "Early helicopter (Maverick) near Key Lento",
+   "x": 503,
+   "y": 150,
+   "description": "A helipad on the water in the Leonida Keys, near Key Lento, with a helicopter you can take early.",
+   "how": "Walk onto the pad and get in. Exact spot not confirmed yet: help us pin it!",
+   "source": "LunarGaming gameplay (CC BY)",
+   "verified": false
+  },
+  {
+   "id": "g-southwind-seaplanes",
+   "category": "Vehicle",
+   "location": "Seaplanes at Southwind (Sherwin Boatworks / Chicki's Tiki Bar)",
+   "x": 324,
+   "y": 136,
+   "description": "A hangar on the water side of the boatworks and tiki bar lot in Southwind, next to Mile Zero. Seaplanes sit in or near the hangar and at the dock.",
+   "how": "Drive southwest from Key Lento on Route 1A, turn into the lot and take a seaplane. Nobody guards them.",
+   "source": "PC Gamer (first plane & helicopter guide)",
+   "verified": false
+  },
+  {
+   "id": "g-southwind-guns",
+   "category": "Weapon",
+   "location": "Barrage Gun Supply (Southwind)",
+   "x": 310,
+   "y": 144,
+   "description": "Gun shop in Southwind, the closest weapons store to the start of the game.",
+   "how": "Buy weapons and ammo here before heading north.",
+   "source": "Push Square (WAiNK curiosities guide)",
+   "verified": false
+  },
+  {
+   "id": "g-permit-fingerpost",
+   "category": "Collectible",
+   "location": "'Fingerpost' curiosity (Permit Keys)",
+   "x": 351,
+   "y": 169,
+   "description": "An odd signpost hidden in a clump of trees on the sandy north side of the largest Permit Keys island.",
+   "how": "Photograph it with the phone camera (WAiNK) for the curiosities collection.",
+   "source": "Push Square (WAiNK curiosities guide)",
+   "verified": false
+  },
+  {
+   "id": "g-jason-safehouse",
+   "category": "Tip / mechanic",
+   "location": "Jason's house in Key Lento (approximate)",
+   "x": 563,
+   "y": 171,
+   "description": "The first safehouse. Home gym on the back deck, heavy bag in the shed below, cash stash under the bedroom floor.",
+   "how": "Train strength, stash cash and use the free house repairs. Exact spot approximate: confirm it on Discord!",
+   "source": "Shacknews + PC Gamer",
+   "verified": false
+  },
+  {
+   "id": "g-wonder-whale",
+   "category": "Collectible",
+   "location": "The Wonder Whale (Key Lento)",
+   "x": 542,
+   "y": 156,
+   "description": "Roadside store with a big whale sculpture next to the highway in Key Lento; the sculpture stands just south of the store.",
+   "how": "Scan the sculpture with WAiNK. Pre-order owners collect the Vice City merch bonus here.",
+   "source": "Push Square + Shacknews",
+   "verified": false
+  },
+  {
+   "id": "g-lento-wrecks",
+   "category": "Collectible",
+   "location": "Shipwrecks off southeast Key Lento",
+   "x": 599,
+   "y": 144,
+   "description": "Two wrecks lie on the sea floor off Key Lento's southeast coast, near a cluster of green islets. More wrecks are south and east of Key Lento.",
+   "how": "Dive with scuba gear and a metal detector, dig up artefacts and sell them to Kenton.",
+   "source": "Push Square (underwater discoveries guide)",
+   "verified": false
+  },
+  {
+   "id": "g-ambrosia-raceway",
+   "category": "Money method",
+   "location": "Ambrosia Raceway Park: demolition derby",
+   "x": 542,
+   "y": 698,
+   "description": "The race track north of Ambrosia hosts repeatable demolition derbies. The figure-eight pays roughly double the oval.",
+   "how": "Rent a car at the track and win derbies for steady early cash.",
+   "source": "PC Gamer (how to make money)",
+   "verified": false
+  },
+  {
+   "id": "g-rodgers-range",
+   "category": "Side activity",
+   "location": "Rodgers Ranch & Shooting Range (Manifest Canyon)",
+   "x": 353,
+   "y": 697,
+   "description": "Shooting range in Manifest Canyon, just south of Father Scrumpy's apple orchard.",
+   "how": "Go for gold medals: they count toward 100%. The orchard next door is a WAiNK landmark.",
+   "source": "Push Square + Shacknews (100% checklist)",
+   "verified": false
+  },
+  {
+   "id": "g-robot-bubblegum",
+   "category": "Easter egg",
+   "location": "Princess Robot Bubblegum statue (Washington Beach)",
+   "x": 864,
+   "y": 549,
+   "description": "A statue of the cartoon character from earlier GTA games, to the right of the main entrance of the Y Hotel.",
+   "how": "Snap it with WAiNK for the sculptures collection.",
+   "source": "Push Square (WAiNK sculptures guide)",
+   "verified": false
+  },
+  {
+   "id": "g-dock-ring",
+   "category": "Collectible",
+   "location": "Dock Ring Ferris wheel (Downtown Vice City)",
+   "x": 720,
+   "y": 474,
+   "description": "Big waterfront Ferris wheel off Catalan Blvd in Downtown Vice City. Position approximate.",
+   "how": "Scan it with WAiNK for the landmarks collection.",
+   "source": "Push Square (WAiNK landmarks guide)",
+   "verified": false
+  },
+  {
+   "id": "g-belpoint-lighthouse",
+   "category": "Collectible",
+   "location": "Belpoint Lighthouse",
+   "x": 214,
+   "y": 435,
+   "description": "Lighthouse on the southern tip of Belpoint island, next to its small settlement, west of Capri.",
+   "how": "Scan it with WAiNK for the landmarks collection; good sunset photo spot.",
+   "source": "Push Square (WAiNK landmarks guide)",
+   "verified": false
+  }
+ ]
 }
