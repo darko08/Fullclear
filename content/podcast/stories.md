@@ -19,3 +19,7 @@
 | 2026-11-19 | Streaming peak 7.88M concurrent (prelim.), Indonesian & Brazilian streamers on top | https://streamscharts.com/news/gta-6-streaming-records | analytics firm | Keys & Neon #2 | — |
 | 2026-11-19 | Belville house likely hidden in 2021 San Andreas remaster (fan find) | https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/ | press citing fan find | Myth or Fact | — |
 | 2026-11-19 | "24-hour" locksmith closed at 5 AM; metric units option | https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/ | press | Crew Lore / details | — |
+| 2026-11-19 | Heat 137–130 Bucks on "A Night in Vice City"; gear sold out in ~90 min | https://www.espn.com/nba/game/_/gameId/401910009 | ESPN | Keys & Neon #2 | — |
+| 2026-11-19 | Philadelphia 12-hour "GTA lockout" (Open World Gaming) | https://6abc.com/post/philadelphia-gamers-gearing-thursdays-midnight-release-grand-theft-auto-vi/20053472/ | press | Keys & Neon #2 | — |
+| 2026-11-19 | West Palm Beach restaurant becomes "Burger Shot" for launch | https://www.wptv.com/entertainment/gta-6-finally-arrives-as-florida-gamers-prepare-for-one-of-the-most-anticipated-video-game-launches-ever | press (licensed? unknown) | Real Florida vs Leonida | — |
+| 2026-11-19 | Dallas: soundtrack listening party, launch tattoo | https://www.nbcdfw.com/news/local/gta-6-hype-takes-over-north-texas-as-fans-celebrate-long-awaited-release/4108110/ | press | podcast | — |

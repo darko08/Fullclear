@@ -127,3 +127,9 @@ Story "He snuck onto a cruise ship… and left by sea": 25–45 s → steal the 
 - **Tracker:** add "Cards: 18 sets / 480" category (two sources agree); verify set names in game.
 - **Leonida Daily #3:** Soiscool Rhino tank 6-star war (best, 4/5) or Nippton airport heist; needs owner download.
 - Album: post only when on Spotify/Apple with official tracklist.
+
+## From run 8 (2026-11-19 04:50 UTC)
+- **Keys & Neon #2 "Launch night around the world"**: Heat 137–130 Vice City night (sold-out gear), Philly 12-h lockout, Dallas listening party, West Palm Beach "Burger Shot", Dublin party, 7.88M streams (prelim.). TikTok/IG today, YouTube Nov 20 (quota).
+- **Album day**: when Spotify plays it → host "3 tracks for a Leonida road trip" + official album cover © Rockstar Games (Apple metadata says Nov 20 08:00 UTC).
+- **HOW TO: Series S / performance vs quality mode**: only official settings text, no fps numbers until DF/Rockstar.
+- **Leonida Daily #3 candidates (CC BY, need owner download)**: Nippton 3OyzDsAJL_M traffic stop (0:30), 8VVsmVD1yGU odd NPC; Soiscool yd7ap8iwYY4 tank war (best).

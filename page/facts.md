@@ -79,3 +79,9 @@ Checked = date we read the official page.
 - Press (credit when used): Streams Charts preliminary peak 7.88M concurrent across platforms, Twitch 3,292,986 (its biggest game peak) — https://streamscharts.com/news/gta-6-streaming-records ; VGC: Belville house likely matches an image hidden in 2021 San Andreas DE (fan find, "likely") ; Engadget live blog: metric units option, cheats locked until story done ; Push Square + PowerPyx agree: 18 card sets / 480 cards.
 - Reported, not official: boxed copies with missing/used codes (Dexerto, TweakTown) → advice only: retailer + receipt, never resellers.
 - FAKE: "GTA 6 Online server crash / error 6000-87" (SEO sites; game is single-player at launch); "GTA 6 PC settings" (no PC version).
+
+## 2026-11-19 run 8 (04:50 UTC)
+- Official: still nothing at 05:05 UTC (/VI says "COMING NOVEMBER 19, 2026"; no Newswire launch post; no map; Support down). PS/Xbox status: no incidents.
+- Album: still pre-save on Spotify/Apple at 05:00 UTC; Apple catalogue: 34 tracks, opens with Justice ft. Michael McDonald "Starting From Zero"; Apple US release metadata 2026-11-20 08:00 UTC (conflicts with Rockstar "Nov 19" → post "out now" only when it plays).
+- Press: Heat 137–130 Bucks, "A Night in Vice City" (ESPN box score); Vice City gear sold out ~90 min (ESPN/Axios). Philly 12-hour "GTA lockout" at Open World Gaming (6abc). Dallas listening party (NBC DFW; ignore its unsourced "$1.6B presales"). West Palm Beach restaurant rebranded as "Burger Shot" (WPTV; licensed or fan stunt unknown).
+- UNVERIFIED: "Cyberpunk all over again" (single creator), base-PS5 low fps/overheating (user posts), Series S 720p (pre-launch DF estimate), "6 stars" (IGN Short, not in our facts), GameStop trade-in anecdote only.
