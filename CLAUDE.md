@@ -30,6 +30,7 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 | Website + map | `site/` → Netlify site `fullclearmap` (id 35323af2-fd25-46c1-9374-f7afbd197878), deploy = zip upload via api.netlify.com |
 | Discord bot | `discord-bot/` → Railway project `fullclear-bot`, service `bot` (deploy: `railway up --service bot --detach`, with `RAILWAY_API_TOKEN=proxy-injected SSL_CERT_FILE=/root/.ccr/ca-bundle.crt`) |
 | Bot public API | https://bot-production-600173f3.up.railway.app/api/finds |
+| Discord content | Claude posts verified guides/secrets/videos after each newsroom run (owner, 2026-11-19); channel ids: #announcements 1572388891774812160, #how-to-guides 1572996571132338367, #hidden-locations 1572388903443365950, #easter-eggs 1572388904781226064, #money-methods 1572388905750110411, #collectibles 1572388902071836762, #vehicles-and-weapons 1572388907050336469; tool `tools/discord_post.py` |
 | Discord REST from here | `Authorization: Bot proxy-injected` (proxy injects the token); discord.js needs `NODE_USE_ENV_PROXY=1` + `makeRequest: fetch` |
 | Postiz | `env -u POSTIZ_API_KEY postiz ...` (OAuth login in ~/.postiz). Channels: IG cmwle8y8804zkmp07es47pkqh · TikTok cmwle9pzv0jd1o407y92r2npy · YouTube cmwleb66t0jdko407jkzyml78 · X cmwle99iy0503mp07twiyb6l9. **Not ours:** "Nora the nurse" IG; never touch it |
 | Newsroom (every 4 h) | Scheduled task into this session; procedure in `page/scout-brief.md` |

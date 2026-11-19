@@ -57,6 +57,12 @@ Output also goes to `content/podcast/stories.md` (boss adds it) and guest ideas 
 ## Owner's Drive folder (checked hourly with the rapid alert)
 The owner downloads permitted clips on his PC (YouTube blocks our server) into a shared Drive folder. `python3 tools/check_drive.py` downloads only new files to `page/media/raw/drive/`; then check licence + overlays and log in permissions.md.
 
+## Discord (owner, 2026-11-19: "we need to update Discord ourselves")
+After each newsroom run, post what's new and useful to the server with `python3 tools/discord_post.py <channel> <msg.md> [video]` (texts in content/discord/):
+verified how-tos + our videos → #how-to-guides (read-only); reported secrets/easter eggs (credited, "help us confirm with /submit") → #hidden-locations / #easter-eggs;
+money → #money-methods; collectibles → #collectibles; CC BY / official video guides → #vehicles-and-weapons; big official news → #announcements.
+No spoilers (story → spoiler tags), no leaks, no exploits, sources in every post, max ~5 posts per run (no spam).
+
 ## Rapid alert (hourly, owner's order 2026-11-18)
 News players need RIGHT NOW (required updates, patches, outages, unlock problems, free downloads, launch posts) goes out
 immediately: `tools/watch_official.js` runs every hour; on a change → verify → X within 10 min → News short. Being first matters.
