@@ -43,3 +43,5 @@
 | scheduled 2026-11-18 23:15 UTC | TikTok, IG, YouTube, X | Leonida Daily #2 (Dev): cruise ship heli heist | leonida-daily-02.mp4 | LunarGaming CC BY OnWC__OxyTk | see Postiz |
 | 2026-11-19 | X | Owner sent the suspension appeal; X paused until restored | | | |
 | scheduled 2026-11-19 14:30 UTC (YT Nov 20 15:05) | TikTok, IG, YouTube | Keys & Neon #2: launch night recap | fullclear-keys-neon-02.clip1-11.mp4 | AFP, ESPN, 6abc, Engadget | see Postiz |
+| 2026-11-19 ~14:30 UTC | TikTok, IG, YouTube | News 08 (Scout): OUT NOW + Rockstar's free official Leonida map + last day Vintage pack + album tonight | fullclear-news-08.mp4 | Rockstar Newswire Nov 19 | see Postiz |
+| moved | YouTube | HOW TO #1 SSD → 2026-11-21 08:05 UTC (YouTube daily limit; breaking news took today's slot) | | | |
