@@ -98,3 +98,12 @@ Checked = date we read the official page.
 - Press (credit): Metacritic 99 ties all-time record (notebookcheck; recheck count on metacritic.com before airing); Twitch GTA VI category >3.3M (Engadget, prelim.; different metric from 7.88M all-platform); Engadget/TechRadar launch blogs: dog driving a car, cat attacks when you steal its car, parrots that trash-talk owners, neighbour who wants a good Mai Tai, nail gun praised, police may let you off with a warning if guns are stashed (player reports); Tom's Guide: "Red Dead-ification", roof repair at 2 a.m.; a local US police dept joked "we don't have a 6-star system" (local12).
 - Sam Houser statement (Nov 18, via GamesRadar+/GameSpot): only fragments; get exact wording before use.
 - AVOID: "Mandy" (story spoiler talk), literal Easter egg cutscene (unverified + isolated cutscene), "17M copies" (no Take-Two), cast rumours, "free Banshee"/"military code" (SEO fakes).
+
+## 2026-11-19 14:00 UTC: Rockstar launch post (VERIFIED, https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available)
+- "Grand Theft Auto VI is now available worldwide for PlayStation 5 and XBOX Series X|S."
+- "Today's the last day to get the Vintage Vice City Pack and a free month of GTA+ (which now contains GTAVI bonuses for Members), included with purchase."
+- Official site: "download the official printable Grand Theft Auto VI cover art poster and map of Leonida" (double-sided physical poster at the Rockstar Store shortly after launch). File: Artwork zip → Leonida_Map_and_Cover_Art_Poster/Leonida_Map_Poster.jpg (2805×3840) + printable versions.
+- "IGN's Official Grand Theft Auto VI Guide, launching today… an interactive map of Leonida" (competitor for our map).
+- "Also out tonight at midnight ET, Grand Theft Auto VI: The Album, with 34 original tracks" (= Nov 20 05:00 UTC).
+- "Please be mindful of openly sharing spoilers."
+- Xbox Wire post "Grand Theft Auto VI is Out Now" (Nov 19 14:00 UTC). /VI now "OUT NOW / NOW AVAILABLE / Buy Now".
