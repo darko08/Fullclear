@@ -92,3 +92,9 @@ Checked = date we read the official page.
 - Press: AFP Miami midnight launch quotes (Ryan Jones "It's cinematic", Alex Martinez "surreal", Veronica Chicola took the day off) https://www.france24.com/en/live-news/20261119-it-s-cinematic-gamers-get-first-taste-of-grand-theft-auto-vi ; Engadget live blog world details: jet-ski dog far out at sea, socks with flip-flops counts as a "crime", annoyed cat when stealing a car.
 - Reports only: lost progress after crashes (individual reports), viral glitch compilations (clips real, scale unknown), "disc edition later" (unverified), boxes without codes ("some buyers say").
 - Guides (not official): 15 manual save slots + 1 autosave; motion blur slider.
+
+## 2026-11-19 run 10 (12:50 UTC)
+- Official: still no Rockstar launch post / map / patch notes; Support 502; Take-Two nothing. Album still pre-save (all stores).
+- Press (credit): Metacritic 99 ties all-time record (notebookcheck; recheck count on metacritic.com before airing); Twitch GTA VI category >3.3M (Engadget, prelim.; different metric from 7.88M all-platform); Engadget/TechRadar launch blogs: dog driving a car, cat attacks when you steal its car, parrots that trash-talk owners, neighbour who wants a good Mai Tai, nail gun praised, police may let you off with a warning if guns are stashed (player reports); Tom's Guide: "Red Dead-ification", roof repair at 2 a.m.; a local US police dept joked "we don't have a 6-star system" (local12).
+- Sam Houser statement (Nov 18, via GamesRadar+/GameSpot): only fragments; get exact wording before use.
+- AVOID: "Mandy" (story spoiler talk), literal Easter egg cutscene (unverified + isolated cutscene), "17M copies" (no Take-Two), cast rumours, "free Banshee"/"military code" (SEO fakes).

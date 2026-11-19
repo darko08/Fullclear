@@ -139,3 +139,9 @@ Story "He snuck onto a cruise ship… and left by sea": 25–45 s → steal the 
 - **Leonida Daily #3**: LunarGaming 747 heist (szeK8uyMrpA) once on Drive.
 - **HOW TO "Don't lose progress"**: manual saves vs autosave (guides; verify in game via Discord before posting).
 - **Album "34 artists in 60 s"** (Apple metadata) on Nov 20 08:00 UTC when it plays.
+
+## From run 10 (2026-11-19 12:50 UTC)
+- **Leonida Daily #3 (tonight) fallback without clips**: host tells "Today in Leonida, players found…" (dog driving a car, cat attacks car thieves, trash-talking parrots, Mai Tai neighbour; credit TechRadar/Engadget) over official screenshots (B-roll), no third-party footage. If Circle Of Chaos N4Zb8PjfMpg or LunarGaming 747 arrive on Drive → use them instead.
+- **"Rockstar's free map isn't out yet. Ours is."** short (facts: Newswire Nov 3 said the map arrives Nov 19; still not on /VI/media) → CTA fullclearmap.com.
+- **HOW TO "How saving works"**: gap no outlet covers yet → needs in-game check (owner/Discord).
+- **Real life vs Leonida**: police "we don't have 6 stars" joke for Keys & Neon.

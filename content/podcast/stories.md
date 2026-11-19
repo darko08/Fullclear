@@ -25,3 +25,6 @@
 | 2026-11-19 | Dallas: soundtrack listening party, launch tattoo | https://www.nbcdfw.com/news/local/gta-6-hype-takes-over-north-texas-as-fans-celebrate-long-awaited-release/4108110/ | press | podcast | — |
 | 2026-11-19 | Miami midnight: "It's cinematic", "surreal", day off (AFP) | https://www.france24.com/en/live-news/20261119-it-s-cinematic-gamers-get-first-taste-of-grand-theft-auto-vi | AFP | Keys & Neon #2 | — |
 | 2026-11-19 | World details: jet-ski dog at sea, socks+flip-flops "crime", angry cat | https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/ | press | Keys & Neon #2 / Leonida Daily cold open | — |
+| 2026-11-19 | World details: dog driving a car, cat attacks car thief, trash-talking parrots, Mai Tai neighbour | https://www.techradar.com/live/news/gta-6-launch-day-november-19 ; https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/ | press live blogs (player/editor reports) | Leonida Daily host-only / Keys & Neon | — |
+| 2026-11-19 | "Red Dead-ification": fixing your roof at 2 a.m. | https://www.tomsguide.com/live/news/gta-6-launch-day-live-updates-november-19-2026 | press | podcast | — |
+| 2026-11-19 | Real police dept: "we don't have a 6-star system" | local12.com | local press | Real Florida vs Leonida / joke | — |
