@@ -145,3 +145,6 @@ Story "He snuck onto a cruise ship… and left by sea": 25–45 s → steal the 
 - **"Rockstar's free map isn't out yet. Ours is."** short (facts: Newswire Nov 3 said the map arrives Nov 19; still not on /VI/media) → CTA fullclearmap.com.
 - **HOW TO "How saving works"**: gap no outlet covers yet → needs in-game check (owner/Discord).
 - **Real life vs Leonida**: police "we don't have 6 stars" joke for Keys & Neon.
+
+## Leonida Daily #3 plan (tonight 18:20 UTC run)
+Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (sneak into the airport → 747 → wanted level → ending ~last 20 s) + Nippton X0BO_ZVFPX8 (airboat driven out of the swamp onto the highway, middle ~30–60 s). Files in page/media/raw/drive/. Host: not Dev/Nia/Scout (recent) → Mei. Credit both channels on screen.
