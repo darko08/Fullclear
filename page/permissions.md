@@ -72,3 +72,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - 2026-11-19 17:00 UTC CC candidates (need owner download + frame check): Nippton X0BO_ZVFPX8 (airboat on land, 4/5), Nippton xvBohODgezc (Bigfoot chase, check spoiler), TheRealChi QUkdSLKXo3w (check webcam). Circle Of Chaos 8CSuN6a_btk switched to standard licence → not usable.
 - 2026-11-19 17:00 UTC: clip hunter set up (every 3 h). First vetted list sent: X0BO_ZVFPX8, xvBohODgezc, szeK8uyMrpA, LgP7xl-HCaM. Rejected (webcam/reupload/watermark): Ducky Crazy, Just Ganesh, Vice City Brief, Games Tasted, Darius2L, Dennis Chavez Music.
 - 2026-11-19 17:30 UTC Drive: 5 clips received, all CC BY (API), frames checked, no webcam/overlay: LunarGaming A1gW7NilkHg (15 heli/plane spawns, b-roll/how-to), LunarGaming szeK8uyMrpA (747 heist), Nippton X0BO_ZVFPX8 (airboat on land, 79 s), Nippton xvBohODgezc (Bigfoot chase: mostly walking, weak), Nippton LgP7xl-HCaM (weed farm raid, shooting, long → b-roll only).
+
+### Clip hunt 2026-11-19 18:56 UTC: 0 passed
+- Rejected: CFuzIRTG4Ec Aidko (webcam), 2_E-HAaMsHw greey_mx (reupload of LunarGaming 747), 0gI-xZ4yJpg mr_gta (screen-recorded repost), OOoHlM0i0CY Witalo Games (#gtav, unclear source), LPZKXKvt2xw Infamous (AI/clickbait thumbnail, unclear own footage). First four channels added to BLOCK_CH.
