@@ -9,7 +9,7 @@ const STATE = path.join(__dirname, '..', 'page', 'watch-state.json');
 const SOURCES = [
   { id: 'rockstar-newswire', url: 'https://www.rockstargames.com/newswire', links: '/newswire/article/', pick: (t) => lines(t).slice(0, 10) },
   { id: 'gta6-media-artwork', url: 'https://www.rockstargames.com/VI/media/artwork-wallpapers', pick: (t) => lines(t).filter((l) => /map|poster|postcard|wallpaper|cover/i.test(l)).slice(0, 40) },
-  { id: 'gta6-home', url: 'https://www.rockstargames.com/VI', pick: (t) => lines(t).filter((l) => /NOVEMBER|AVAILABLE|OUT NOW|PRE-LOAD|BUY|PLAY NOW/i.test(l)).slice(0, 8) },
+  { id: 'gta6-home', url: 'https://www.rockstargames.com/VI', pick: (t) => lines(t).filter((l) => /COMING|AVAILABLE|OUT NOW|PRE-LOAD|PRE-ORDER|BUY|PLAY NOW/i.test(l) && !/^NOVEMBER 19, 2026$/i.test(l)).sort().slice(0, 8) },
   { id: 'ps5-system-software', url: 'https://www.playstation.com/en-us/support/hardware/ps5/system-software-info/', pick: (t) => lines(t).filter((l) => /^Version|\d{2}\.\d{2}-\d{2}\.\d{2}/.test(l)).slice(0, 3) },
   { id: 'rockstar-support-status', url: 'https://support.rockstargames.com/servicestatus', pick: (t) => lines(t).filter((l) => /PlayStation|Xbox|Social Club|Grand Theft Auto VI|Up|Down|Limited|Online/i.test(l)).slice(0, 20) },
   { id: 'xbox-wire-rss', url: 'https://news.xbox.com/en-us/feed/', raw: true, pick: (t) => rssTitles(t).filter((l) => /Grand Theft Auto|GTA/i.test(l)).slice(0, 8) },
