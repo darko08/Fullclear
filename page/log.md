@@ -66,3 +66,6 @@
 - News 09 (Nia): Weird Al + 8 Game Awards noms → TikTok 21:30, IG 21:40 UTC, YouTube Nov 21 16:05 UTC. X skipped (suspended).
 - Discord: #announcements Weird Al + TGA (with video), #how-to-guides "Where are my bonuses?" (GTA+ Ch.3, edition bonuses by chapter).
 - Leonida Daily #4 candidates for owner download: Nippton -821VaDP-8w, Soiscool EMKaAuAczBQ, Nippton x7T2my60Phk.
+
+## 2026-11-19 21:05 UTC · Discord guide editor
+- Posted: #money-methods derby + hunting (PC Gamer), #collectibles WAiNK scans + shipwrecks (Push Square), #vehicles-and-weapons Southwind seaplanes + gun shop (PC Gamer/Push Square). Texts content/discord/17–19. How-to research (saves/wanted/settings) still running.
