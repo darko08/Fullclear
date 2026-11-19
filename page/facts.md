@@ -73,3 +73,9 @@ Checked = date we read the official page.
 - VERIFIED (PlayStation Support, https://www.playstation.com/en-us/support/games/gta-vi-game/, read 21:05 UTC): troubleshooting = released in your region? correct account? download failed → "Try to restore your licenses"; "Ultimate Edition bonuses are available throughout Jason and Lucia's story, with new bonuses available in each chapter."; "The Vintage Vice City Pack is included with all digital purchases of Grand Theft Auto VI made before 11:59:59 PM local time on November 19, 2026."
 - Still: no Newswire launch post, no map download, Rockstar Support 502.
 - NOT VERIFIED: base-PS5 "20 fps" (French YouTube tests only); PSN outage (Downdetector + press, no Sony status confirmation); Twitch "record" 3.3M/6.4M (trackers disagree, say "trackers say"); AU/JP "censored" build (datamine → drop); PowerPyx ~3,000 progress-database entries (unofficial guide, verify in game).
+
+## 2026-11-19 run 7 (00:50 UTC)
+- Official: nothing new (no Newswire launch post, no map download, Rockstar Support down). PS status "All services are up and running"; Xbox status "All services up and running" (~01:00 UTC).
+- Press (credit when used): Streams Charts preliminary peak 7.88M concurrent across platforms, Twitch 3,292,986 (its biggest game peak) — https://streamscharts.com/news/gta-6-streaming-records ; VGC: Belville house likely matches an image hidden in 2021 San Andreas DE (fan find, "likely") ; Engadget live blog: metric units option, cheats locked until story done ; Push Square + PowerPyx agree: 18 card sets / 480 cards.
+- Reported, not official: boxed copies with missing/used codes (Dexerto, TweakTown) → advice only: retailer + receipt, never resellers.
+- FAKE: "GTA 6 Online server crash / error 6000-87" (SEO sites; game is single-player at launch); "GTA 6 PC settings" (no PC version).

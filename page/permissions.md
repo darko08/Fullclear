@@ -67,3 +67,4 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - MAODO 2122759406739759104 (realism montage, FR) · Millzaa 2123128447039918080 (parrot leads to a hidden early money stash) · NikTek 2123176046291775488 (dog leads you somewhere) ·
   xGarbett 2123087810571784192 (real Easter egg "throw the easter egg off…") · unnamed 2123176103241973760 (jump scare when looting trunks).
 - Allowed meanwhile: report the *finds* as "players report…" with credit and link (no footage), then verify in game via Discord before map pins.
+- 2026-11-19 01:05 UTC CC BY confirmed via API (owner to download to Drive): Soiscool Mec yd7ap8iwYY4 (Rhino tank + 6-star police, FR voice → mute) · es9lEAcjLUQ (fighter jet) · Nippton Games Zbubls_Rmpw (airport plane heist → police chaos) · LunarGaming TPF8W1_mk7I (Vercetti Estate early: check no story spoiler). Still check frames for overlays when received.

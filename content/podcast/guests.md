@@ -8,3 +8,5 @@
 | 2026-11-18 | ROK Gaming Lounge Miami | local venue on launch week | public business contact | idea | — |
 | 2026-11-18 | Marijn Rongen (Can I Play That?) | accessibility follow-up after launch | email printed on the article | idea | — |
 | 2026-11-18 | ROK Esports Center, Palmetto Bay (Miami) | local gaming venue, Florida view | venue public channels | idea | — |
+| 2026-11-19 | John Healy (game design lecturer, TU Dublin) | GTA's taboo appeal / violence debate | university staff profile | idea | — |
+| 2026-11-19 | GTA Wiki / GTA VI Mapping Project (Jared) | map makers, house find | @GTAWikiOfficial | idea | — |

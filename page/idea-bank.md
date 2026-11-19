@@ -118,3 +118,12 @@ Status: 🟢 ready · 🟡 needs approval · ⏳ after launch
 
 ## Leonida Daily #2 DONE (published Nov 18 23:15 UTC; Nov 19 show needs new clips) (, clip: LunarGaming OnWC__OxyTk, CC BY, file page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_On_The_Cruise_Ship_[OnWC__OxyTk].mp4)
 Story "He snuck onto a cruise ship… and left by sea": 25–45 s → steal the helicopter on the ship's helipad (~70–90 s), take off over Vice City (~95–105), smoky landing on the deck by the pool (~108–130), runs across the deck (~150–175), jumps overboard (~226–242). Skip the gunfight parts (~185–200, ~222–228). Host: not Mei/Nia (used last); Scout or Dev.
+
+## From run 7 (2026-11-19 00:50 UTC)
+- **Keys & Neon #2 (morning US):** Dublin party, Heat Vice City night + care packages (add final score from ESPN), 7.88M streaming peak, 2021 easter egg ("likely"). B-roll: official screenshots + LunarGaming.
+- **HOW TO: "Error code decoder"** (CE-108255-1, CE-100028-1 = storage, Xbox "took too long") from official Sony/Xbox support pages only.
+- **HOW TO: boxed copy code missing/used** → retailer + receipt, never resellers (reports: Dexerto/TweakTown).
+- **Myth bust:** "GTA 6 Online crashed / error 6000-87" = fake (single-player at launch); "PC settings" = no PC version.
+- **Tracker:** add "Cards: 18 sets / 480" category (two sources agree); verify set names in game.
+- **Leonida Daily #3:** Soiscool Rhino tank 6-star war (best, 4/5) or Nippton airport heist; needs owner download.
+- Album: post only when on Spotify/Apple with official tracklist.
