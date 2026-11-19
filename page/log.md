@@ -50,3 +50,8 @@
 | 2026-11-19 ~16:00 UTC | Discord | 4 credited CC BY clips cut from Drive (LunarGaming): early heli location (mission text blurred), Mile Zero Air Station location, tank heist, cruise heist | videos/discord/*.mp4 | LunarGaming CC BY | discord |
 | 2026-11-19 ~17:10 UTC | Discord | #how-to-guides: switching + fast travel + box-poster myth; #hidden-locations: more reported details | content/discord/12,13 | Push Square, Cultured Vultures, Kotaku, NBC, Engadget | discord |
 | 2026-11-19 ~17:40 UTC | Discord | #vehicles-and-weapons: heli & plane spawns clip (LunarGaming CC BY, from Drive) | videos/discord/heli-plane-spawns.mp4 | LunarGaming | discord |
+
+## 2026-11-19 18:30 UTC · Leonida Daily #3 (Mei)
+- Story "Two players, one very bad transport plan": Nippton Games X0BO_ZVFPX8 (airboat swamp → highway) + LunarGaming szeK8uyMrpA (747 at the airport → run → wasted). Both CC BY, from owner's Drive, credited on screen + outro.
+- videos/daily/leonida-daily-03.mp4 (48.7 s, 48 kHz), content/daily/2026-11-19b.json, VO Mei/Lara 39.8 s.
+- Scheduled: TikTok 2026-11-19 23:30 UTC (AI label on), Instagram 23:35 UTC, YouTube 2026-11-21 12:05 UTC (quota). X skipped (suspended).

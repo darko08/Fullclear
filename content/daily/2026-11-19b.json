@@ -1,0 +1,16 @@
+{
+  "host": "Mei",
+  "title": "LEONIDA DAILY #3",
+  "hook": "Two players. One very bad transport plan.",
+  "clips": [
+    {"file": "page/media/raw/drive/GTA_6_I_TOOK_AN_AIRBOAT_OUT_OF_THE_WATER_AND_DROVE_IT_ON_LAND_[X0BO_ZVFPX8].mp4", "start": 0.0, "end": 7.7, "credit": "Nippton Games (CC BY)", "line": "Today: transport. Bad transport."},
+    {"file": "page/media/raw/drive/GTA_6_I_TOOK_AN_AIRBOAT_OUT_OF_THE_WATER_AND_DROVE_IT_ON_LAND_[X0BO_ZVFPX8].mp4", "start": 14.0, "end": 20.2, "credit": "Nippton Games (CC BY)", "line": "Step 1: leave the swamp"},
+    {"file": "page/media/raw/drive/GTA_6_I_TOOK_AN_AIRBOAT_OUT_OF_THE_WATER_AND_DROVE_IT_ON_LAND_[X0BO_ZVFPX8].mp4", "start": 44.0, "end": 49.0, "credit": "Nippton Games (CC BY)", "line": "Step 2: the highway. In a boat."},
+    {"file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Try_To_Steal_A_Boeing_747_At_The_Airport_[szeK8uyMrpA].mp4", "start": 64.0, "end": 72.6, "credit": "LunarGaming (CC BY)", "line": "Step 3: upgrade to a 747"},
+    {"file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Try_To_Steal_A_Boeing_747_At_The_Airport_[szeK8uyMrpA].mp4", "start": 186.0, "end": 192.3, "credit": "LunarGaming (CC BY)", "line": "Step 4: run"},
+    {"file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Try_To_Steal_A_Boeing_747_At_The_Airport_[szeK8uyMrpA].mp4", "start": 193.0, "end": 204.0, "credit": "LunarGaming (CC BY)", "line": "How the day ended"}
+  ],
+  "voiceover": "videos/daily/leonida-daily-03-mei.mp3",
+  "clip_volume": 0.3,
+  "output": "videos/daily/leonida-daily-03.mp4"
+}
