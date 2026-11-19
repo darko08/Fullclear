@@ -51,7 +51,7 @@ what we don't in `page/inspiration.md`, adapt it to our rules (no copying others
 - Revenue plan: affiliate now → display ads when traffic grows → premium tracker → creator funds → sponsors (see page/GROWTH.md).
 
 ## Platform gotchas
-- **X SUSPENDED (2026-11-18 ~20:00 UTC)**: do NOT post to X (Postiz X channel errors) until the owner says the appeal worked. Never open a new X account to get around it (ban evasion). After restore: max 3–4 posts/day, few hashtags, no identical cross-posts, reply to people instead of broadcasting.
+- **X SUSPENDED (2026-11-18 ~20:00 UTC), appeal sent by owner 2026-11-19**: do NOT post to X (Postiz X channel errors) until the owner says the appeal worked. Never open a new X account to get around it (ban evasion). After restore: max 3–4 posts/day, few hashtags, no identical cross-posts, reply to people instead of broadcasting.
 - **YouTube via Postiz: only ~4 uploads/day** succeed (shared quota, resets 08:00 UTC). Plan max 4 YouTube uploads per day, best first; failed ones → reschedule after 08:00 UTC.
 - TikTok via Postiz: `content_posting_method: DIRECT_POST`; settings must include duet, stitch (booleans) and autoAddMusic.
 - Instagram feed images must be 4:5–1.91:1. X: links get stripped → "link in bio".
