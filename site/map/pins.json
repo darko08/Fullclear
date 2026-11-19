@@ -1,0 +1,15 @@
+{
+  "updated": "2026-11-19",
+  "note": "Guide pins by Full Clear. Positions are placed on Rockstar's official Leonida map from the sources listed; 'verified' becomes true once a community member confirms in game (Discord /submit).",
+  "pins": [
+    {"id": "g-mile-zero", "category": "Hidden location", "location": "Mile Zero Air Station (military base)", "x": 282, "y": 128,
+     "description": "Military base in the southwest Leonida Keys, next to Southwind (official map squares L-2/L-3). Tanks and fighter jets are parked here.",
+     "how": "Expect a heavy police and army response the moment you trespass.", "source": "Official map + LunarGaming gameplay (CC BY)", "verified": false},
+    {"id": "g-vcia", "category": "Vehicle", "location": "VCIA: Vice City International Airport", "x": 541, "y": 458,
+     "description": "Big airport west of Vice City (official map square H-5). Players report airliners like the 747 on the apron.",
+     "how": "Planes can be taken, but getting airborne without a wanted level is another story.", "source": "Official map + LunarGaming gameplay (CC BY)", "verified": false},
+    {"id": "g-keys-heli", "category": "Vehicle", "location": "Early helicopter (Maverick) near Key Lento", "x": 503, "y": 150,
+     "description": "A helipad on the water in the Leonida Keys, near Key Lento, with a helicopter you can take early.",
+     "how": "Walk onto the pad and get in. Exact spot not confirmed yet: help us pin it!", "source": "LunarGaming gameplay (CC BY)", "verified": false}
+  ]
+}

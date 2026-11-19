@@ -163,7 +163,10 @@
       '<div style="font-weight:800;margin:2px 0">' + esc(f.location) + '</div>' +
       '<div>' + esc(f.description) + '</div>' + mediaHtml(f) +
       '<label style="display:flex;gap:8px;align-items:center;margin-top:6px"><input type="checkbox" class="check" data-id="' + f.id + '"' + (found[f.id] ? ' checked' : '') + '> Found it</label>' +
-      '<div style="color:#b9a6c9;font-size:12px;margin-top:6px">Found by ' + esc(f.credit) + ' · #' + f.id + '</div>';
+      (f.how ? '<div style="margin-top:6px"><b>What to do:</b> ' + esc(f.how) + '</div>' : '') +
+      (f.source
+        ? '<div style="color:#b9a6c9;font-size:12px;margin-top:6px">Source: ' + esc(f.source) + (f.verified ? ' · ✅ confirmed' : ' · ⏳ not confirmed yet: <a href="https://discord.gg/ksysZTW2R5" target="_blank" rel="noopener">confirm it on Discord</a>') + '</div>'
+        : '<div style="color:#b9a6c9;font-size:12px;margin-top:6px">Found by ' + esc(f.credit) + ' · #' + f.id + '</div>');
   }
 
   function setFound(id, on) {
@@ -269,7 +272,11 @@
   }
 
   render();
-  fetch(API + '/api/finds').then(function (r) { return r.json(); }).then(function (d) { finds = d.finds || []; render(); })
+  // community finds (Discord /submit) + our guide pins (site/map/pins.json, sourced; unverified until confirmed)
+  Promise.all([
+    fetch(API + '/api/finds').then(function (r) { return r.json(); }).catch(function () { return { finds: [] }; }),
+    fetch('/map/pins.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).catch(function () { return { pins: [] }; })
+  ]).then(function (res) { finds = (res[1].pins || []).concat(res[0].finds || []); render(); })
     .catch(function () { $('list').innerHTML = '<div class="empty">Couldn\'t load finds right now. Try again in a minute.</div>'; });
 })();
 </script>
