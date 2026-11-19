@@ -10,3 +10,8 @@ videos/**/*.silent.mp4
 # scout scratch files
 /*.txt
 page/media/raw/
+
+# long videos get big (GitHub limit 100 MB); keep JSON/scripts in git, re-render from content/long/*.json
+videos/long/*.mp4
+videos/long/*.m4a
+videos/long/*/part*.mp3
