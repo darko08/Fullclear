@@ -39,3 +39,8 @@
 ## Content ideas with buying intent (next 2 weeks)
 Storage calculator per console · SSD install explainer · "Code in a box: what you get" · "Do you need PS Plus/Game Pass?" (honest no) ·
 "30 fps: do you need a new TV?" (honest no) · controller setup · soundtrack/vinyl countdown to Dec 11 · holiday gift guide (Black Friday) · streamer starter kit.
+
+## Map subscription idea (owner, 2026-11-19) — Claude's recommendation
+- Keep the map + all pins + tracker FREE (growth engine; IGN and fan maps are free; the base layer is Rockstar's promotional map, so charging for access to it is risky).
+- Premium (later, needs owner's yes + his payment account): cloud sync across devices, personal checklists/route planner, early access to new layers, no ads, Discord supporter role.
+- First get traffic (target: 1,000 map visits/day), then test premium.
