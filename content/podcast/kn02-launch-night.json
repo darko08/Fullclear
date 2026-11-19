@@ -1,0 +1,111 @@
+{
+  "id": "kn02",
+  "show": "KEYS & NEON",
+  "title": "Launch night recap",
+  "episode": "Ep. 2 \u00b7 Nov 19, 2026",
+  "cast": {
+    "Jay": {
+      "image": "brand/guests/jay.png",
+      "voice": "Malachi"
+    },
+    "Rosa": {
+      "image": "brand/guests/rosa.png",
+      "voice": "Mabel"
+    }
+  },
+  "segments": {
+    "1": "LAUNCH NIGHT",
+    "11": "YOUR TURN"
+  },
+  "sources": {
+    "3": "AFP via France 24, Nov 19",
+    "5": "ESPN, Nov 19",
+    "7": "6abc Philadelphia",
+    "9": "Engadget launch live blog"
+  },
+  "lines": [
+    [
+      "Jay",
+      "[confident] Keys and Neon, launch night edition. [pause] It's out, Rosa. Everywhere."
+    ],
+    [
+      "Rosa",
+      "[smug] I noticed. The marina was empty. Even the pelicans were inside, playing."
+    ],
+    [
+      "Jay",
+      "[confident] In Miami, one fan at midnight called it cinematic. Another one took the day off."
+    ],
+    [
+      "Rosa",
+      "[confident] Reasonable. I took the week."
+    ],
+    [
+      "Jay",
+      "[confident] The Heat played as Vice City last night, and won, one thirty-seven to one thirty. The jerseys sold out in about ninety minutes."
+    ],
+    [
+      "Rosa",
+      "[smug] Ninety minutes. My bait shop has been open forty years. Still waiting for a line."
+    ],
+    [
+      "Jay",
+      "[confident] Philadelphia did a twelve-hour lockout. Midnight to noon, nobody leaves."
+    ],
+    [
+      "Rosa",
+      "[confident] That's not a party. [pause] That's a hostage situation with snacks."
+    ],
+    [
+      "Jay",
+      "[confident] And reviewers found the details. Wear socks with flip-flops, and the game calls it a crime."
+    ],
+    [
+      "Rosa",
+      "[smug] Finally, a game that understands Florida."
+    ],
+    [
+      "Jay",
+      "[excited] Team Keys or Team Neon? Tell us in the comments. [pause] This was Keys and Neon, by Full Clear."
+    ]
+  ],
+  "broll": {
+    "1": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_01.jpg"
+    },
+    "2": {
+      "file": "page/media/raw/official/shots/Places/Leonida Keys/Leonida_Keys_05.jpg"
+    },
+    "3": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_27.jpg"
+    },
+    "4": {
+      "file": "page/media/raw/official/shots/Places/Leonida Keys/Leonida_Keys_03.jpg"
+    },
+    "5": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_08.jpg"
+    },
+    "6": {
+      "file": "page/media/raw/official/shots/Places/Leonida Keys/Leonida_Keys_02.jpg"
+    },
+    "7": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_09.jpg"
+    },
+    "8": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_13.jpg"
+    },
+    "9": {
+      "file": "page/media/raw/official/shots/Places/Vice City/Vice_City_05.jpg"
+    },
+    "10": {
+      "file": "page/media/raw/official/shots/Places/Leonida Keys/Leonida_Keys_01.jpg"
+    },
+    "11": {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_On_The_Cruise_Ship_[OnWC__OxyTk].mp4",
+      "start": 95,
+      "credit": "Gameplay: LunarGaming (CC BY)"
+    }
+  },
+  "audio_dir": "videos/podcast/kn02",
+  "output": "videos/podcast/fullclear-keys-neon-02.mp4"
+}
