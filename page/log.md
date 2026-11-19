@@ -69,3 +69,9 @@
 
 ## 2026-11-19 21:05 UTC · Discord guide editor
 - Posted: #money-methods derby + hunting (PC Gamer), #collectibles WAiNK scans + shipwrecks (Push Square), #vehicles-and-weapons Southwind seaplanes + gun shop (PC Gamer/Push Square). Texts content/discord/17–19. + #how-to-guides saving (VGC, Push Square) and police + settings (Kotaku, VGC, TechRadar, Push Square), content/discord/20–21. Save-slot count left out (sources conflict).
+
+## 2026-11-19 22:00 UTC · First long YouTube video (owner's order)
+- long01 "GTA 6: 10 Things To Do First (No Spoilers Starter Guide)" — Dev, 3:49, 58 lines, B-roll: LunarGaming/Nippton CC BY + official Rockstar shots/clips. Thumbnail from CC BY gameplay. Chapters + sources in the description.
+- YouTube 2026-11-20 17:05 UTC; news 07's YouTube slot (stale) deleted to make room (4/day quota).
+- New tools/split_vo.py (1 voice call → sentence lines). podcast.py fixes: B-roll drift (short clips + frame rounding), per-episode cast/label, talking loop for crew in cast.
+- Reddit: blocks datacenter IPs (403 from Reddit itself); owner asked how to give access → official API app (client id/secret via secure form).

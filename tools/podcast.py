@@ -48,6 +48,10 @@ def wrap(d, text, fnt, width):
 def broll_track(segs, pw, ph, out):
     """segs: [(dur, item)] -> silent video pw x ph. Images shown whole (letterboxed), videos trimmed + scaled, both unmodified."""
     ins, fl = [], []
+    # frame-exact lengths on the absolute timeline (per-segment rounding used to drift ~1 frame per line)
+    acc, nfr = 0.0, []
+    for d, _ in segs:
+        nfr.append(round((acc + d) * FPS) - round(acc * FPS)); acc += d
     for k, (d, it) in enumerate(segs):
         f = p(it['file'])
         if f.lower().endswith(IMG_EXT):
@@ -55,7 +59,7 @@ def broll_track(segs, pw, ph, out):
         else:
             ins += ['-ss', f"{it.get('start', 0):.2f}", '-t', f'{d:.3f}', '-i', f]
         fl.append(f'[{k}:v]scale={pw}:{ph}:force_original_aspect_ratio=decrease,pad={pw}:{ph}:(ow-iw)/2:(oh-ih)/2:black,'
-                  f'setsar=1,fps={FPS},format=yuv420p,trim=duration={d:.3f},setpts=PTS-STARTPTS[s{k}]')
+                  f'setsar=1,fps={FPS},format=yuv420p,tpad=stop_mode=clone:stop_duration={d + 1:.3f},trim=end_frame={nfr[k]},setpts=PTS-STARTPTS[s{k}]')
     fl.append(''.join(f'[s{k}]' for k in range(len(segs))) + f'concat=n={len(segs)}:v=1:a=0[v]')
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', *ins, '-filter_complex', ';'.join(fl), '-map', '[v]', '-an',
                     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '18', out], check=True)
@@ -63,7 +67,7 @@ def broll_track(segs, pw, ph, out):
 
 def build(ep, first, last, vertical):
     cast = list(ep['cast']) if ep.get('cast') else ['Scout', 'Nia', 'Mei', 'Dev']
-    img_of = lambda c: p(ep['cast'][c]['image']) if ep.get('cast') else p(f'brand/crew-{c.lower()}.png')
+    img_of = lambda c: p(ep['cast'][c].get('image', f'brand/crew-{c.lower()}.png')) if ep.get('cast') else p(f'brand/crew-{c.lower()}.png')
     n = len(cast)
     W, H = (1080, 1920) if vertical else (1920, 1080)
     adir = p(ep['audio_dir'])
@@ -115,6 +119,9 @@ def build(ep, first, last, vertical):
         if not item['file'].lower().endswith(IMG_EXT):
             key = item['file'] + str(item.get('start', 0))
             item['start'] = item.get('start', 0) + used.get(key, 0); used[key] = used.get(key, 0) + d
+            fdur = dur(p(item['file']))
+            if item['start'] > fdur - 0.5:   # clip ran out (short official clips): start it again, never past the end
+                item['start'] = it.get('start', 0) if it.get('start', 0) < fdur - 0.5 else 0.0
         segs.append((d, item)); credit_for[nline] = it.get('credit', '© Rockstar Games')
     track = out.replace('.mp4', '.broll.mp4'); broll_track(segs, pw, ph, track)
 
@@ -129,12 +136,12 @@ def build(ep, first, last, vertical):
     base = base.convert('RGBA'); d = ImageDraw.Draw(base)
     if vertical:
         d.rounded_rectangle([60, 90, 330, 150], 16, fill=PINK)
-        d.text((195, 120), 'PODCAST', font=font('Inter-Black.otf', 36), fill=BG1, anchor='mm')
+        d.text((195, 120), ep.get('label', 'PODCAST'), font=font('Inter-Black.otf', 36), fill=BG1, anchor='mm')
         d.text((60, 175), ep['show'], font=font('Inter-Black.otf', 76), fill=WHITE)
         d.text((60, 275), ep['title'], font=font('Inter-ExtraBold.otf', 44), fill=TEAL)
     else:
         d.rounded_rectangle([60, 50, 320, 106], 16, fill=PINK)
-        d.text((190, 78), 'PODCAST', font=font('Inter-Black.otf', 34), fill=BG1, anchor='mm')
+        d.text((190, 78), ep.get('label', 'PODCAST'), font=font('Inter-Black.otf', 34), fill=BG1, anchor='mm')
         d.text((350, 42), ep['show'], font=font('Inter-Black.otf', 62), fill=WHITE)
         d.text((62, 128), f"{ep['title']}  ·  {ep['episode']}", font=font('Inter-ExtraBold.otf', 34), fill=TEAL)
     for c in cast:
@@ -204,7 +211,7 @@ def build(ep, first, last, vertical):
     for j, c in enumerate(cast):
         spans = [(x['a'] - 0.15, x['b']) for x in timeline if x['host'] == c]
         loop = p(f'brand/hosts/{c.lower()}.mp4')
-        if not spans or ep.get('cast') or not os.path.exists(loop): continue
+        if not spans or not os.path.exists(loop): continue  # guests (Rosa/Jay) have no loop file
         ins += ['-stream_loop', '-1', '-i', loop, '-loop', '1', '-i', m]; k, km = n_in, n_in + 1; n_in += 2
         en = '+'.join(f'between(t,{a:.2f},{b:.2f})' for a, b in spans)
         x, y = pos[c]
