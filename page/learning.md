@@ -41,3 +41,9 @@
 - **YouTube: only 4 of 11 uploads went through** (Postiz shared daily quota). Lesson: max 4 YouTube uploads/day, prioritise long-form podcast + best Shorts.
 - **Instagram rejects 96 kHz audio** (fixed in tools).
 - Numbers day 1 (23:30 UTC): YouTube 4 Shorts, 99 views total (Metascore 99: 46, PS5 update: 37, fake downloads: 16, pre-orders: 0), 0 subs. TikTok platform views 4 (analytics lag). IG reach 17 (analytics lag, data to Nov 17).
+
+## 2026-11-19 18:00 UTC: day 1 vs day 0
+- Instagram is our only network with real reach: platform views 774, reach 671 (day 0: 17). Best = practical/useful (212 GB 126, fake downloads 111) and Leonida Daily #1 (116). Keys & Neon #1 (5) and the podcast clip (22) underperform → fewer talking-head formats on IG, more useful/funny gameplay.
+- TikTok: every post 0–2 views → posts are very likely private/under review (unaudited API posting or new-account restriction). Owner to check in the TikTok app.
+- YouTube: 197 views total on 8 Shorts (day 0: 99), 0 subscribers; news Shorts with a number in the title win (Metascore 99: 58).
+- Discord: 4 members, no /submit yet → need invites in every caption/bio and a reason to join (map pins with names).
