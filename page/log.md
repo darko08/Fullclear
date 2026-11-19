@@ -68,4 +68,4 @@
 - Leonida Daily #4 candidates for owner download: Nippton -821VaDP-8w, Soiscool EMKaAuAczBQ, Nippton x7T2my60Phk.
 
 ## 2026-11-19 21:05 UTC · Discord guide editor
-- Posted: #money-methods derby + hunting (PC Gamer), #collectibles WAiNK scans + shipwrecks (Push Square), #vehicles-and-weapons Southwind seaplanes + gun shop (PC Gamer/Push Square). Texts content/discord/17–19. How-to research (saves/wanted/settings) still running.
+- Posted: #money-methods derby + hunting (PC Gamer), #collectibles WAiNK scans + shipwrecks (Push Square), #vehicles-and-weapons Southwind seaplanes + gun shop (PC Gamer/Push Square). Texts content/discord/17–19. + #how-to-guides saving (VGC, Push Square) and police + settings (Kotaku, VGC, TechRadar, Push Square), content/discord/20–21. Save-slot count left out (sources conflict).
