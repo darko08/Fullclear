@@ -47,3 +47,4 @@
 | moved | YouTube | HOW TO #1 SSD → 2026-11-21 08:05 UTC (YouTube daily limit; breaking news took today's slot) | | | |
 | 2026-11-19 ~15:35 UTC | site | Map: official Rockstar Leonida map as base layer (unmodified, credited, owner approved) | site/map | Rockstar /VI/media | https://fullclearmap.com/map/ |
 | 2026-11-19 ~15:45 UTC | Discord | Seeded server (owner's request): #announcements launch+map (pinned), new read-only #how-to-guides (Sony checklist, SSD, money videos), #hidden-locations + #easter-eggs reported secrets (verify via /submit), #money-methods, #collectibles, #vehicles-and-weapons CC BY video guides | content/discord/*.md | sources in each post | discord |
+| 2026-11-19 ~16:00 UTC | Discord | 4 credited CC BY clips cut from Drive (LunarGaming): early heli location (mission text blurred), Mile Zero Air Station location, tank heist, cruise heist | videos/discord/*.mp4 | LunarGaming CC BY | discord |
