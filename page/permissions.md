@@ -105,3 +105,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - ✅ DPJ hwKYt5ST_b4 best settings (11:42): settings menus = perfect B-roll for settings tips.
 - ✅ LunarGaming XN71jpXNSvE Everygreen Mall (3:41): clean.
 - Use muted, credit "DPJ (CC BY)" / "LunarGaming (CC BY)" on screen; no DPJ voice. Lesson: check_drive output must be read in full (tail cut 7 files at 01:23).
+
+### Daily wide sweep 2026-11-20 08:40 UTC (6 queries, 24 h)
+- Picks: DPJ UeP9-s_y-fE, --mU3IJVZ6I, y_HlexmUeDs; Vandal 8IyAE72VaXQ; Soiscool UMvU8gK0SnA.
+- Skipped: DPJ KiMdEoQJMAU (first-house money: story spoiler risk); "No Copyright Gameplay" channels (Fox rlluMwJXbqg = story/prison scenes; Ftug = unclear ownership; PressStartPlay/dannyavelas = full story parts); BornInGame (fake PC "DLSS 5/RTX 4090"), Mateo Roblox/Hebzuor (AI thumbnails), ChrisReloads (webcam), Just Ganesh, Knights of Gaming, Tchelox map compare (fan map), dog-on-jet-ski reposts (unclear owner). New channels blocked in clip_hunter.
