@@ -16,10 +16,12 @@ API = 'https://www.googleapis.com/youtube/v3/'
 STATE = os.path.join(ROOT, 'page/clip-hunt-state.json')
 OUT = os.path.join(ROOT, 'page/clip-hunt.md')
 TRUSTED = {'UCmF3ZcCBFUD-mcwg-r3SMyA': 'LunarGaming', 'UC20VvWjAyaGERxHwFGqN0_w': 'Soiscool Mec', 'UCLlka7pcpir-5koCjX1jLRw': 'Nippton Games'}
-BLOCK_CH = re.compile(r'H4Community|Gosoi|RJME|CalMarTV|Clips?\b|Reelity|Grand Theft Auto Clips|Viral|Highlights|Moments 24|Compil|GOAT361|Steezy|Muvee|Ducky|Vice City Brief|GamesWayFirst|reaction|Aidko|greey_mx|mr_gta|Witalo Games|VexVice|GTA 6 Locker|ImCallvinn|BoltBrain|Mythic Realm', re.I)
+# guide channels with CC BY GTA VI uploads (own gameplay + voice; use muted as B-roll / how-to, credit on screen). Added 2026-11-20 after 6+ CC BY guides.
+GUIDES = {'DPJ', 'LunarGaming', 'Vandal'}
+BLOCK_CH = re.compile(r'H4Community|Gosoi|RJME|CalMarTV|Clips?\b|Reelity|Grand Theft Auto Clips|Viral|Highlights|Moments 24|Compil|GOAT361|Steezy|Muvee|Ducky|Vice City Brief|GamesWayFirst|reaction|ZeNoX|How to Everything|CHOWH1|TbOne|Lambret77|Darius2L|WNK GTA|Aidko|greey_mx|mr_gta|Witalo Games|VexVice|GTA 6 Locker|ImCallvinn|BoltBrain|Mythic Realm', re.I)
 BLOCK_TITLE = re.compile(r'twitch|review|lucia|jason|glitch|money glitch|exploit|early access|play early|leak|nude|strip|xqc|kai cenat|speed|caseoh|stream|live|mission \d|walkthrough|ending|chapter|mod\b|gta 5|gta v\b|free download|pc download', re.I)
 FUN = re.compile(r'fail|funny|chaos|wtf|crash|ragdoll|police|cops|stars|what happens|tried|steal|escape|chase|insane|lol|wasted|busted|physics|npc', re.I)
-QUERIES = ['GTA 6 funny', 'GTA 6 fail', 'GTA 6 what happens if', 'GTA 6 police chase']  # 100 quota units each; keep runs <= 700 units
+QUERIES = ['GTA 6 funny', 'GTA 6 fail', 'GTA 6 what happens if', 'GTA 6 guide location', 'GTA 6 gameplay no commentary']  # 100 quota units each; 3 channels + 5 queries = 800 units × 8 runs/day (daily limit 10,000 incl. trends + scouts)
 
 
 def get(path, **p):
@@ -51,8 +53,9 @@ def main():
             m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', v['contentDetails']['duration']); secs = sum(int(x or 0) * f for x, f in zip(m.groups(), (3600, 60, 1)))
             if secs < 15 or secs > 900: continue
             fun = bool(FUN.search(t))
-            if not fun: continue   # Leonida Daily needs fun/chaos, not reviews/tutorials
-            score = (2 if s['channelId'] in TRUSTED else 0) + 3 + min(2, int(v['statistics'].get('viewCount', 0) or 0) // 5000)
+            guide = ch in GUIDES or re.search(r'how to|location|guide|no commentary|free roam', t, re.I)
+            if not fun and not guide: continue   # fun → Leonida Daily; guides/no-commentary → long videos + Discord how-tos
+            score = (2 if s['channelId'] in TRUSTED or ch in GUIDES else 0) + (3 if fun else 2) + min(2, int(v['statistics'].get('viewCount', 0) or 0) // 5000)
             rows.append(dict(id=v['id'], title=t, channel=ch, trusted=s['channelId'] in TRUSTED, secs=secs, score=score,
                              views=int(v['statistics'].get('viewCount', 0) or 0), thumb=s['thumbnails'].get('high', s['thumbnails']['default'])['url']))
     rows.sort(key=lambda r: -r['score']); rows = rows[:a.max]

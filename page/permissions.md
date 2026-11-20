@@ -78,3 +78,9 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-19 22:06 UTC: 0 passed
 - Rejected: VexVice W-2yRWdYyQw / Ax5kVemMf5g (streamer webcam, Twitch clips), GTA 6 Locker KnU0c9X1DY8 (Nick Eh 30 stream reupload), ImCallvinn kF4tBnZobmI (Twitch stream), BoltBrain ojLaMMEElM8 (edit with overlay), Mythic Realm 1wrPaGqlxvE (AI clickbait thumbnail), Liam Dearsley -hDLTJf3iaU (mission objective on screen + overlay). Channels blocked; titles with "twitch" now blocked.
+
+### Wide CC BY sweep 2026-11-20 00:40 UTC (owner: "be resourceful")
+- 12 queries, 40 h, ~80 CC BY results. Vetted list sent (owner + #mod-chat): DPJ XkcuU4m4GdY, e1M1b9f6zcY, 5DseNL71Wro, PiywNTMtbKE, B9mpKQl4wzM, hwKYt5ST_b4; LunarGaming XN71jpXNSvE, TPF8W1_mk7I; Nippton -821VaDP-8w; Soiscool EMKaAuAczBQ; Higor-BMX EXs-eq0xmRA; Vandal c7YtkCjSiLw. Frames still to check after download (webcam/overlays).
+- New guide sources: **DPJ** (1.1M subs, 6+ CC BY GTA VI guides, own gameplay), **Vandal** (Spanish games outlet, CC BY shorts; mute their VO). Use muted, credit on screen.
+- Rejected: ZeNoX Gaming (PUBG channel, "compilations", fake "DLSS 5" = not own/real), How to Everything ("play early / on PC" = scam topics), webcam channels CHOWH1, TbOne, Lambret77, Darius2L, Patife (some), WNK GTA VI (multi-hour streams), reviews/talk videos.
+- Official Rockstar downloads: only the 9 character clips zip (already have); trailers are YouTube-only (not downloadable).
