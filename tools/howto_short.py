@@ -20,6 +20,7 @@ Usage: python3 tools/howto_short.py content/howto/<id>.json
 """
 import json, os, re, subprocess, sys
 from PIL import Image, ImageDraw, ImageFont
+from brand import SHOW_HOSTS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 F = '/usr/share/fonts/opentype/inter/'
@@ -92,9 +93,13 @@ def render(ep):
     step_y = iy2 + 70
     # host frame
     loop = p(f"brand/hosts/{ep['host'].lower()}.mp4")
-    d.rounded_rectangle([50, H - 450, 442, H - 58], 36, fill=PINK)
-    d.text((470, H - 330), ep['host'].upper(), font=font('Inter-Black.otf', 56), fill=WHITE)
-    d.text((470, H - 262), ep.get('source', ''), font=font('Inter-SemiBold.otf', 28), fill=MUTED)
+    if SHOW_HOSTS:
+        d.rounded_rectangle([50, H - 450, 442, H - 58], 36, fill=PINK)
+        d.text((470, H - 330), ep['host'].upper(), font=font('Inter-Black.otf', 56), fill=WHITE)
+        d.text((470, H - 262), ep.get('source', ''), font=font('Inter-SemiBold.otf', 28), fill=MUTED)
+    else:   # voice only (owner 2026-11-20)
+        d.text((60, H - 250), f"VOICE: {ep['host'].upper()}", font=font('Inter-Black.otf', 40), fill=WHITE)
+        d.text((60, H - 195), ep.get('source', ''), font=font('Inter-SemiBold.otf', 30), fill=MUTED)
 
     out = p(ep['output']); os.makedirs(os.path.dirname(out), exist_ok=True)
     tmp = out.replace('.mp4', '.nohost.mp4')
@@ -134,7 +139,9 @@ def render(ep):
     ff.stdin.close(); ff.wait()
     if os.path.exists(loop):
         mask = out.replace('.mp4', '.mask.png')
-        m = Image.new('L', (380, 380), 0); ImageDraw.Draw(m).rounded_rectangle([0, 0, 379, 379], 30, fill=255); m.save(mask)
+        m = Image.new('L', (380, 380), 0)
+        if SHOW_HOSTS: ImageDraw.Draw(m).rounded_rectangle([0, 0, 379, 379], 30, fill=255)
+        m.save(mask)
         subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', tmp, '-stream_loop', '-1', '-i', loop, '-loop', '1', '-i', mask, '-filter_complex',
                         f"[1:v]scale=380:380,fps={FPS},format=rgba[h];[2:v]format=gray,scale=380:380[m];[h][m]alphamerge[hm];"
                         f"[0:v][hm]overlay=56:{H - 444}:enable='lt(t,{total - END})':shortest=1[v]",

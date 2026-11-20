@@ -21,6 +21,7 @@ Usage:  python3 tools/daily_story.py content/daily/<day>.json
 """
 import json, os, subprocess, sys, tempfile
 from PIL import Image, ImageDraw, ImageFont
+from brand import SHOW_HOSTS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 F = '/usr/share/fonts/opentype/inter/'
@@ -87,7 +88,8 @@ def render(ep):
     host = Image.open(p(f"brand/crew-{ep['host'].lower()}.png")).convert('RGBA').resize((520, 520), Image.LANCZOS)
 
     def intro(img, d):
-        img.alpha_composite(host, ((W - 520) // 2, 520))
+        if SHOW_HOSTS: img.alpha_composite(host, ((W - 520) // 2, 520))
+        else: d.text((W / 2, 760), f"told by {ep['host']}", font=font('Inter-Black.otf', 54), fill=TEAL, anchor='mm')
         d.rounded_rectangle([W / 2 - 250, 230, W / 2 + 250, 310], 20, fill=PINK)
         d.text((W / 2, 270), ep.get('title', 'LEONIDA DAILY'), font=font('Inter-Black.otf', 46), fill=WHITE, anchor='mm')
         hf = font('Inter-Black.otf', 70); y = 1120

@@ -20,6 +20,7 @@ graphic types: choice (2 cards) · bars ([label|0..1, ...]) · flow ([A, B, C]) 
 """
 import json, os, subprocess, sys
 from PIL import Image, ImageDraw, ImageFont
+from brand import SHOW_HOSTS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 F = '/usr/share/fonts/opentype/inter/'
@@ -121,8 +122,11 @@ def render(ep):
     d.text((80, 160), ep['title'], font=font('Inter-Black.otf', 54), fill=WHITE, anchor='lm')
     d.text((80, 240), ep['accent'], font=font('Inter-Black.otf', 54), fill=ORANGE, anchor='lm')
     hx, hy, hs = 60, 1430, 300
-    d.rounded_rectangle([hx - 6, hy - 6, hx + hs + 5, hy + hs + 5], 34, fill=PINK)
-    d.text((hx + hs + 40, hy + 120), ep['host'].upper(), font=font('Inter-Black.otf', 52), fill=WHITE)
+    if SHOW_HOSTS:
+        d.rounded_rectangle([hx - 6, hy - 6, hx + hs + 5, hy + hs + 5], 34, fill=PINK)
+        d.text((hx + hs + 40, hy + 120), ep['host'].upper(), font=font('Inter-Black.otf', 52), fill=WHITE)
+    else:   # voice only (owner 2026-11-20)
+        d.text((60, hy + 120), f"VOICE: {ep['host'].upper()}", font=font('Inter-Black.otf', 44), fill=WHITE)
     d.text((W - 50, H - 50), '@fullclearmap', font=font('Inter-Black.otf', 32), fill=MUTED, anchor='rm')
     alpha = base.getchannel('A'); ImageDraw.Draw(alpha).rectangle([PX, PY, PX + PW - 1, PY + PH - 1], fill=0); base.putalpha(alpha)
 
@@ -170,7 +174,9 @@ def render(ep):
     ff.stdin.close(); ff.wait()
 
     loop = p(f"brand/hosts/{ep['host'].lower()}.mp4"); m = out.replace('.mp4', '.mask.png')
-    mk = Image.new('L', (hs, hs), 0); ImageDraw.Draw(mk).rounded_rectangle([0, 0, hs - 1, hs - 1], 30, fill=255); mk.save(m)
+    mk = Image.new('L', (hs, hs), 0)
+    if SHOW_HOSTS: ImageDraw.Draw(mk).rounded_rectangle([0, 0, hs - 1, hs - 1], 30, fill=255)
+    mk.save(m)
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', tmp, '-stream_loop', '-1', '-i', loop, '-loop', '1', '-i', m, '-filter_complex',
                     f"[1:v]scale={hs}:{hs},fps={FPS},format=rgba[h];[2:v]format=gray,scale={hs}:{hs}[mm];[h][mm]alphamerge[hm];"
                     f"[0:v][hm]overlay={hx}:{hy}:enable='lt(t,{total - END})':shortest=1[v]", '-map', '[v]', '-map', '0:a',

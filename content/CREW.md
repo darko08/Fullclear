@@ -1,5 +1,7 @@
 # The Full Clear crew: hosts and their fixed voices
 
+> **2026-11-20 (owner): crew characters are no longer shown in any video or thumbnail. Hosts are voices only (names in text: "Voice: Dev").**
+
 Every video is hosted by **one crew member, picked at random** (no one twice in a row).
 Each host always uses exactly the same voice settings, so they sound identical in every video.
 

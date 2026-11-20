@@ -22,6 +22,7 @@ Episode JSON:
 """
 import json, os, re, subprocess, sys
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance
+from brand import SHOW_HOSTS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 F = '/usr/share/fonts/opentype/inter/'
@@ -104,6 +105,14 @@ def build(ep, first, last, vertical):
             ts = 230; pos = {c: (1400 + (i % 2) * 260, 190 + (i // 2) * 330) for i, c in enumerate(cast)}
         name_size, sub_y, sub_size = 32, 935, 40
 
+    if not SHOW_HOSTS:   # voice only (owner 2026-11-20): no host tiles, the footage gets the space
+        cast, pos = [], {}
+        if vertical:
+            px_, py_, pw, ph = 0, 400, 1080, 810
+            sub_y, sub_size = 1320, 56
+        else:
+            px_, py_, pw, ph = 320, 190, 1280, 720
+            sub_y, sub_size = 950, 42
     # B-roll per line (inherit previous), consumed sequentially so repeated videos move forward
     br = {int(k): v for k, v in ep.get('broll', {}).items()}
     cur_item, seq, used = None, [], {}

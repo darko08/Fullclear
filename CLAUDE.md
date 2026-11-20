@@ -7,7 +7,7 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 ## Mandate (from the owner, 2026-11-18)
 - Claude is the **boss**: decides alone what gets published. No approvals needed, except **spending money**.
 - **Goal: 1,000 followers on every network, then 5,000.** See `page/GROWTH.md`.
-- Hosts: the Full Clear crew (Scout, Nia, Mei, Dev), AI-voiced animated characters, rotated at random, never twice in a row.
+- Hosts: the Full Clear crew (Scout, Nia, Mei, Dev), **voices only** (owner, 2026-11-20: the animated characters looked fake → never show crew images/talking loops in videos or thumbnails; `tools/brand.py` SHOW_HOSTS=False). Rotated at random, never twice in a row.
   Fixed voices in `content/CREW.md`. Hosts explain the news and the day's most interesting moments, **several times a day**.
 - Daily show **"Leonida Daily"**: funny moments and fails of players, told as a story by a host, from clips we are allowed to use.
 - **Be unique (owner's rule):** think differently from what any AI or GTA page would do by default. Before every post ask

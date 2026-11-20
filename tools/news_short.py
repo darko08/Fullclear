@@ -17,6 +17,7 @@ Usage:  python3 tools/news_short.py content/news/<episode>.json
 }
 """
 import json, os, subprocess, sys
+from brand import SHOW_HOSTS
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -85,8 +86,11 @@ def render(ep):
     badge = Image.new('RGBA', (186, 186), (0, 0, 0, 0)); ImageDraw.Draw(badge).ellipse([0, 0, 185, 185], fill=TEAL)
     badge.paste(host, (8, 8), mask)
     loop = p(f"brand/hosts/{ep['host'].lower()}.mp4")
-    has_loop = os.path.exists(loop)
-    if has_loop:   # talking host goes in a 380px rounded frame bottom-left (added after rendering)
+    has_loop = SHOW_HOSTS and os.path.exists(loop)
+    if not SHOW_HOSTS:   # voice only (owner 2026-11-20): just the voice credit + source
+        d.text((60, H - 250), f"VOICE: {ep['host'].upper()}", font=font('Inter-Black.otf', 40), fill=WHITE)
+        d.text((60, H - 195), ep.get('source', ''), font=font('Inter-SemiBold.otf', 30), fill=MUTED)
+    elif has_loop:   # talking host goes in a 380px rounded frame bottom-left (added after rendering)
         d.rounded_rectangle([50, H - 450, 50 + 392, H - 450 + 392], 36, fill=TEAL)
         d.text((470, H - 330), ep['host'].upper(), font=font('Inter-Black.otf', 56), fill=WHITE)
         d.text((470, H - 262), ep.get('source', ''), font=font('Inter-SemiBold.otf', 28), fill=MUTED)
