@@ -10,3 +10,14 @@ Updated 2026-11-19 19:10 UTC by map editor.
 - Free parachute — summit of the tallest peak, Mount Kalaga National Park (PC Gamer)
 - 5 fences + 2 vehicle buyers (PC Gamer, images only)
 - Skipped on purpose: strip clubs (brand: no sexualized content).
+
+## Added 2026-11-20 01:10 UTC (map editor run #2)
+- Conspiracy theorist's garage (2021 San Andreas photo house) — a house in Belville (Dexerto, single source)
+- Kalaga Lookout astronaut mural — viewpoint in Mount Kalaga NP, not the summit (Push Square)
+- Sky Ride — east of the river through Emerald Springs, hidden by trees (Push Square)
+- The Rusty Anchor pool + Bang For Your Buck arcade — north-west Key Lento (Push Square)
+- Fences: Tyrone (La Perle), Yasmani (Little Cuba), Dunk drop box (Port Gellhorn) — districts only (PC Gamer)
+- Pfister Growler — multistorey car park, Fig St, Ocean Beach, ~5 PM (Push Square)
+- Seaside meditation (rocks east of Waning Sands), Waterfall meditation (East Lummox, east of Killtelligence Provisions) (Push Square)
+- Ultimate Edition shops: One-Eyed Willie's (Lake Leonida), Rideout Customs (Crosstown) (Shacknews)
+- Not found in reputable sources (don't pin): Eclipse "Paul Walker" car, tiger-guarded sniper, UFO.

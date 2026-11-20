@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "note": "Guide pins by Full Clear. Positions are placed on Rockstar's official Leonida map from the sources listed; 'verified' becomes true once a community member confirms in game (Discord /submit).",
  "pins": [
   {
@@ -154,6 +154,171 @@
    "description": "Lighthouse on the southern tip of Belpoint island, next to its small settlement, west of Capri.",
    "how": "Scan it with WAiNK for the landmarks collection; good sunset photo spot.",
    "source": "Push Square (WAiNK landmarks guide)",
+   "verified": false
+  },
+  {
+   "id": "g-skunk-ape",
+   "category": "Easter egg",
+   "location": "Skunk Ape (Bigfoot) sighting, Key Lento (approximate)",
+   "x": 506,
+   "y": 211,
+   "description": "Across the bay from Jason's first house, at the end of a dead-end road on a mangrove peninsula. Easiest by boat from his dock.",
+   "how": "Use Focus Mode to follow the noises into the mangroves, then check the effigy on the tree. Exact spot approximate: confirm on Discord!",
+   "source": "PC Gamer + GamesRadar",
+   "verified": false
+  },
+  {
+   "id": "g-paper-mill",
+   "category": "Collectible",
+   "location": "Lawton Co. Paper Mill (Moreau)",
+   "x": 516,
+   "y": 828,
+   "description": "Old paper mill in Moreau, just north of the West Kalaga 247 gas station, next to Adler Creek.",
+   "how": "Scan it with WAiNK for the landmarks collection.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-water-wheel",
+   "category": "Side activity",
+   "location": "Water Wheel meditation spot",
+   "x": 474,
+   "y": 821,
+   "description": "Meditation mat south of MacAlister Gold Mine, across from the paper mill.",
+   "how": "Sit on the mat and do the breathing minigame (counts toward the meditation trophy).",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-buckskin-pier",
+   "category": "Side activity",
+   "location": "Buckskin Swamp meditation pier",
+   "x": 481,
+   "y": 532,
+   "description": "End of the pier next to the tall lookout tower in the middle of Buckskin Swamp.",
+   "how": "Walk to the mat at the end of the pier and meditate.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-belpoint-sand",
+   "category": "Side activity",
+   "location": "Smooth Sand meditation (Belpoint)",
+   "x": 168,
+   "y": 507,
+   "description": "Stone pattern on the northernmost sandbar of Belpoint, west of Capri.",
+   "how": "Find the stone pattern on the sand and meditate there.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-periscope",
+   "category": "Collectible",
+   "location": "Downtown Periscope (Vice City)",
+   "x": 728,
+   "y": 481,
+   "description": "Periscope structure in Downtown Vice City near Catalan Blvd, close to the Dock Ring. Position approximate.",
+   "how": "Scan it with WAiNK.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-big-udder",
+   "category": "Collectible",
+   "location": "Howe Dairy's Big Udder",
+   "x": 433,
+   "y": 623,
+   "description": "Giant udder sign at Howe Dairy, a little south of County Road 62 near Emerald Springs.",
+   "how": "Scan the sign with WAiNK.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-citrus-tower",
+   "category": "Collectible",
+   "location": "Tucker's Citrus Farms water tower",
+   "x": 474,
+   "y": 622,
+   "description": "Orange-themed water tower in the farmland at Tucker's Citrus Farms.",
+   "how": "Scan the tower with WAiNK.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-grayson-assembly",
+   "category": "Collectible",
+   "location": "Grayson Assembly",
+   "x": 380,
+   "y": 774,
+   "description": "Building in Grayson, directly south of Ledford Motorcycle Workshop on SR-45.",
+   "how": "Scan it with WAiNK for the landmarks collection.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-badger-tower",
+   "category": "Hidden location",
+   "location": "Badger R&D Tower rooftop (Key Lento)",
+   "x": 571,
+   "y": 178,
+   "description": "Tower on Sunset Dr in Key Lento, across from Donny's trailer. Position approximate.",
+   "how": "Climb to the top for the view and scan the tower.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-tropic-van",
+   "category": "Vehicle",
+   "location": "Locked van: Bravado Tropic Dawn Youga (Key Lento)",
+   "x": 580,
+   "y": 186,
+   "description": "Inside the New Wave Custom & Repairs warehouse where Dolphin Dr meets Sunbelt Hwy. Position approximate.",
+   "how": "Needs the Snap Gun (Chapter 3) to open the warehouse, then take the van.",
+   "source": "Push Square + PC Gamer",
+   "verified": false
+  },
+  {
+   "id": "g-infernus",
+   "category": "Vehicle",
+   "location": "Pegassi Infernus (Crosstown police car park)",
+   "x": 694,
+   "y": 506,
+   "description": "Level 7 of the car park at the Crosstown Police Station, NW 9th St.",
+   "how": "Slip through the gate after a police car leaves. One of the cars on Randy's wish list.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-vitello",
+   "category": "Vehicle",
+   "location": "Pegassi Vitello (Waning Sands villa)",
+   "x": 778,
+   "y": 673,
+   "description": "Luxury villa on Flamingo Pkwy in Waning Sands, in the garage nearest the house.",
+   "how": "Sneak into the garage and drive it out (Randy's wish list).",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-banshee",
+   "category": "Vehicle",
+   "location": "Bravado Banshee at night (Capri)",
+   "x": 282,
+   "y": 470,
+   "description": "Parked outside the Sweetbay Inn on East Buckley Dr in Capri.",
+   "how": "Come back around 3 AM in-game, when it's there (Randy's wish list).",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-gauntlet",
+   "category": "Vehicle",
+   "location": "Bravado Gauntlet Hellfire (Hamlet junkyard)",
+   "x": 584,
+   "y": 319,
+   "description": "At the back of the M7 junkyard east of Boone Speedway, off Galerina St in Hamlet.",
+   "how": "Find it at the rear of the yard and take it (Randy's wish list).",
+   "source": "Push Square",
    "verified": false
   }
  ]

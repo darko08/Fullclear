@@ -80,3 +80,8 @@
 - Scouts A, B, C, E (D skipped: wide CC sweep 00:40). Official: nothing new from Rockstar. Verified on 2K's site: GTA+ → NBA 2K27 free Nov 27–Jan 15.
 - News 10 (Scout): GTA+ gets NBA 2K27 → TikTok 12:00, IG 12:30 UTC Nov 20 (YouTube full). Discord #announcements posted.
 - Album: Apple says 08:00 UTC → check scheduled 08:10 UTC (send_later).
+
+## 2026-11-20 01:10 UTC · Map editor run #2 + Discord guide editor
+- +15 pins (29 total; Push Square, PC Gamer, GamesRadar; own text, verified=false): Skunk Ape, paper mill, 3 meditation spots, periscope, Big Udder, citrus tower, Grayson Assembly, Badger tower, Tropic Dawn van, Infernus, Vitello, Banshee, Gauntlet Hellfire. 9 more → map-todo. Strip clubs skipped (brand). Playwright 29 markers, 0 errors; Netlify 6aff9ba9947fa58df50a9418 live.
+- Discord: #announcements map update, #easter-eggs Bigfoot, #vehicles-and-weapons Randy's cars, #collectibles meditation (content/discord/23–25). Guide editor used the map research (no second agent).
+- Clip hunter 00:56 skipped: YouTube search quota used up (resets 08:00 UTC). New daily wide sweep task 08:35 UTC (owner: be more independent).
