@@ -63,3 +63,12 @@
 - Japanese players love the "bad American Japanese restaurant" parody. https://kotaku.com/grand-theft-auto-vi-gta6-rockstar-japanese-restaurant-puns-2000758644
 - Port St. Lucie PD "no respawn" safety post. https://cbs12.com/news/local/florida-port-st-lucie-police-have-a-gta-vi-release-day-warning-port-st-lucie-is-not-vice-city-vice-city-november-19-leonida-rockstar-games-
 - NYT Magazine: America caught up with GTA's satire (paraphrase only).
+
+## Run 18 (Nov 20)
+- First to finish? BrycexD 39:38 in-game, no breaks (his claim; GamesRadar can't verify); iShowSpeed ~52.5 h awake. Frame as "please sleep". No ending talk.
+- DENIAL (Daniel Bombardier, Windsor): 5 secret years curating Vice City street art with 1XRun (CTV; in official credits).
+- Real Miami art world in Leonida: Bass Museum director surprised; Josh Aronson's Catalina Hotel installation recreated (Hyperallergic, FIU Caplin News).
+- Ocala Speedway (1952, oldest continuously operating FL track) = "Boone Speedway"; owner says layout exact (racingnews.co).
+- JasonTheWeen lost 10–12 h (PS5 off during save) → manual-save lesson; cause unconfirmed, don't amplify swatting.
+- Tampa Bay Times reporters birdwatching in Leonida (Mei segment) + TBT op-ed "feels like home".
+- Central Florida historic flooding (WKMG): only a respectful "stay safe, Florida" note, no jokes.

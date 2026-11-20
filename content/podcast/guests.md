@@ -26,3 +26,10 @@
 - Imran Khan (Kotaku): via Kotaku (never contact without owner's OK).
 - Scott Ertz (The Forge Social Gaming Center, Tampa): business's public channels (never contact without owner's OK).
 - Jake Weeks (Reptile Academy, Dorset): business contact (never contact without owner's OK).
+
+## Run 18 candidates (never contact without owner's OK)
+- BrycexD (first-finish claim): X @BrycexD_, twitch.tv/brycexd About panel.
+- DENIAL (street artist, official credits): X @EnjoyDenial, 1xrun.com, muralsinthemarket.com/denial.
+- Josh Aronson / Tevin Linder (Miami artists in the game): own public sites/IG.
+- Ocala Speedway owner (track website contact); Bobby Pierce (X @BobbyPierce32).
+- TBT reporters Max Chesnes, Jack Prator (tampabay.com newsroom contact).

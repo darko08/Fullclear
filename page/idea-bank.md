@@ -188,3 +188,11 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - **"The one thing GTA 6 doesn't let you do: replay missions?"** — only after in-game confirmation (guides disagree).
 - **"The night GTA 6 broke the internet"** (DE-CIX 33 Tbps) for Keys & Neon.
 - **Real Florida vs Leonida cold open:** Port St. Lucie + Aurora police posts.
+
+## From run 18 (Nov 20 21:00 UTC)
+- Festival time-zone Short (morning Nov 21): official timetable image unmodified © Rockstar + our ET/UK/CET/IST table, "no official stream → beware scam links". Next host after Scout.
+- "We tested the 5 biggest GTA 6 complaints: which are real?" (long video): 30fps, bugs, slow start, hand-holding, 99 vs players. Only with permitted footage + sources.
+- "One law-abiding day in Leonida" / "stand still 10 min" Leonida Daily (needs CC clip).
+- HOW TO: save like this (manual slots before every mission, no replay menu reported by several outlets; verify), cash on death → stash/bank (update existing cash how-to).
+- Route series: GamingBible drove Key Lento → Bonanza in ~10 min (cite as time to beat; race our own route with permitted footage).
+- Long03 add: LunarGaming uEb1_rhWjmI Wyman's 5 classic cars + parts (check spoiler status of Wyman).

@@ -145,3 +145,9 @@
 
 ## 2026-11-20 19:00 UTC: map editor run #5
 - +8 pins (62 total), Playwright: markers render, 0 errors. Deploy FAILED: Netlify 403 "Account credit usage exceeded - new deploys are blocked until credits are added". Needs owner (money). Discord announcement held until the pins are live.
+
+## 2026-11-20 21:05 UTC: newsroom run 18
+- Verified Take-Two press release ($3.79B day one, 32.5M pre-release) → news 15 (Scout): TikTok 21:35, IG 21:45 UTC; YouTube Nov 21 16:05 (news09 Weird Al moved to Nov 23 16:05). Discord #announcements post + video. No X (suspended).
+- Verified official festival timetable → Discord #announcements with ET/UK/CET + rules + "no official stream" scam warning. Short planned for Nov 21 morning.
+- 12 more channels blocked in clip_hunter. Clip picks for owner: Soiscool lK6nhxV9zvg, A6ZOyBcRDB8, Khhx5a2iA_c; LunarGaming uEb1_rhWjmI; DPJ moYc23U6RWI.
+- Map: 8 pins still waiting on Netlify credits (owner).
