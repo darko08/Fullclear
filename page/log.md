@@ -137,3 +137,8 @@
 
 ## 2026-11-20 17:00 UTC · Discord guide editor
 - #vehicles-and-weapons spy-boat silenced pistol + Moses drop-offs; #easter-eggs UFO trophy (spoiler-tagged, no disputed code). From map run #4 research (no extra agent). content/discord/37–39.
+
+## 2026-11-20 18:40 UTC: Leonida Daily #4 (Nia)
+- "3 players who should NOT have done that": Vercetti Estate motorbike (LunarGaming), tiger (Nippton Games), fighter jets at map edge (Vandal); all CC BY, credited on screen. Voice only (no host image).
+- Scheduled: TikTok 23:15, IG 23:25 UTC today; YouTube Nov 23 12:05 UTC. No X.
+- daily_story.py: outro credits now one per line (long credit list was cut off).

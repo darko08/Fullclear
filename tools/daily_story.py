@@ -127,8 +127,9 @@ def render(ep):
         d.text((W / 2, 950), '@fullclearmap', font=font('Inter-Black.otf', 70), fill=WHITE, anchor='mm')
         d.text((W / 2, 1060), 'Got a funnier clip? Send it in', font=font('Inter-Black.otf', 52), fill=TEAL, anchor='mm')
         d.text((W / 2, 1140), 'Discord · link in bio', font=font('Inter-Black.otf', 52), fill=TEAL, anchor='mm')
-        credits = 'Clips: ' + ', '.join(dict.fromkeys(c['credit'] for c in ep['clips']))
-        d.text((W / 2, 1320), credits, font=font('Inter-SemiBold.otf', 34), fill=MUTED, anchor='mm')
+        d.text((W / 2, 1290), 'Clips:', font=font('Inter-SemiBold.otf', 34), fill=MUTED, anchor='mm')
+        for k, cr in enumerate(dict.fromkeys(c['credit'] for c in ep['clips'])):  # one per line: never cut off
+            d.text((W / 2, 1340 + k * 46), cr, font=font('Inter-SemiBold.otf', 34), fill=MUTED, anchor='mm')
     card(f'{tmp}/outro.png', outro); still_video(f'{tmp}/outro.png', OUTRO, f'{tmp}/99_outro.mp4'); parts.append(f'{tmp}/99_outro.mp4')
 
     with open(f'{tmp}/list.txt', 'w') as fh:

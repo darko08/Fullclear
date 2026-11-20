@@ -1,0 +1,59 @@
+{
+  "host": "Nia",
+  "title": "LEONIDA DAILY #4",
+  "hook": "Three players who should NOT have done that.",
+  "clips": [
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_To_The_Vercetti_Estate_Early_[TPF8W1_mk7I].mp4",
+      "start": 4.0,
+      "end": 11.7,
+      "credit": "LunarGaming (CC BY)",
+      "line": "#1: straight to the Vercetti Estate"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_To_The_Vercetti_Estate_Early_[TPF8W1_mk7I].mp4",
+      "start": 29.0,
+      "end": 31.8,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Through the gate"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_To_The_Vercetti_Estate_Early_[TPF8W1_mk7I].mp4",
+      "start": 40.0,
+      "end": 42.0,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Past the leopard supercar"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_-_What_Happens_If_You_Go_To_The_Vercetti_Estate_Early_[TPF8W1_mk7I].mp4",
+      "start": 58.0,
+      "end": 60.5,
+      "credit": "LunarGaming (CC BY)",
+      "line": "Nobody said a word"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_KILLED_BY_A_TIGER_[-821VaDP-8w].mp4",
+      "start": 12.0,
+      "end": 16.0,
+      "credit": "Nippton Games (CC BY)",
+      "line": "#2: met a tiger"
+    },
+    {
+      "file": "page/media/raw/drive/_Qu_PASA_si_llegas_al_L_MITE_DEL_MAPA_en_GTA_6_gta6_grandtheftauto_curiosidades_[c7YtkCjSiLw].mp4",
+      "start": 26.0,
+      "end": 32.3,
+      "credit": "Vandal (CC BY)",
+      "line": "#3: flew too far out to sea"
+    },
+    {
+      "file": "page/media/raw/drive/_Qu_PASA_si_llegas_al_L_MITE_DEL_MAPA_en_GTA_6_gta6_grandtheftauto_curiosidades_[c7YtkCjSiLw].mp4",
+      "start": 32.3,
+      "end": 36.8,
+      "credit": "Vandal (CC BY)",
+      "line": "How the day ended"
+    }
+  ],
+  "voiceover": "videos/daily/leonida-daily-04-nia.mp3",
+  "clip_volume": 0.3,
+  "output": "videos/daily/leonida-daily-04.mp4"
+}
