@@ -122,3 +122,6 @@
 
 ## 2026-11-20 12:50 UTC · Newsroom run 16
 - Scouts A+C, B, E. No official news. News 13 (voice Dev): ~25M day-one ESTIMATE (VGC/Sensor Tower) → TikTok 13:40, IG 13:50 UTC. Ideas: real police vs outfit trick, survive 6 stars, choices explainer.
+
+## 2026-11-20 13:10 UTC · Discord guide editor
+- #how-to-guides: Ultimate Edition items (store tab, bike under the house, Coastal Auto Care build, weapon lockers) + 6 settings (DPJ picks), both with credited DPJ CC BY clips (content/discord/34–35). Source material transcribed from DPJ CC BY guides on Drive (no extra research agent).
