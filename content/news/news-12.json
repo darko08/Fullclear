@@ -1,0 +1,14 @@
+{
+  "host": "Nia",
+  "headline": "THE GTA 6 ALBUM IS OUT",
+  "image": "page/media/raw/official/art2/x/The_Album_Cover_Art/The_Album_Cover_Art_landscape.jpg",
+  "image_credit": "Album cover © Rockstar Games",
+  "bullets": [
+    "34 songs · 1 h 37 min",
+    "Dua Lipa, Lana Del Rey, JENNIE, Travis Scott",
+    "Track 32: Keith Richards"
+  ],
+  "source": "Source: Apple Music, Rockstar",
+  "voiceover": "videos/news/news-12-nia.mp3",
+  "output": "videos/news/fullclear-news-12.mp4"
+}

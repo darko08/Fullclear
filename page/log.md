@@ -105,3 +105,6 @@
 ## 2026-11-20 07:15 UTC · Map editor run #3
 - +14 pins (44 total): 2 from DPJ CC BY guides (Hamlet loot warehouse, tiger sniper camp; read off DPJ's in-game map, approximate) + 12 from Push Square/PowerPyx (WAiNK sculptures/curiosities, orchard, Red Rocks meditation, King Gator golf). 3 + leads → map-todo. Playwright 44 markers, 0 errors; Netlify 6affef7479fb1b9bca0a9272. Discord #announcements posted.
 - Clip hunter 06:55 skipped (YouTube quota, resets 08:00 UTC).
+
+## 2026-11-20 08:15 UTC · Album out
+- Verified on Apple Music (34 songs, Nov 20) + Spotify. News 12 (voice Nia, official album cover © Rockstar Games, no album audio) → TikTok 09:00, IG 09:10 UTC (YouTube full today). Discord #announcements.
