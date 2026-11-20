@@ -51,3 +51,8 @@
 - Kotaku's Imran Khan and his wife (new to GTA) play side by side; same evening, different game. https://kotaku.com/gta-6-is-even-better-when-you-play-it-side-by-side-with-your-wife-2000758581
 - Miami sells "real Vice City" tours (minibus, Slingshot); ecosystem worry for the Keys/Everglades. https://travel.yahoo.com/guides/articles/gta-6-today-miami-already-130015244.html (no operator promotion)
 - Kotaku "18 details": max-weight Jason, polar bear hunter, readable books, Tony the Bird cameo. https://kotaku.com/18-coolest-details-players-have-spotted-in-gta-6-so-far-2000758435
+
+## Run 15 (2026-11-20 08:50 UTC)
+- Rep. Maxwell Frost "Protect Our Game Act" (keep games you paid for if servers shut) tied to VI being download-only; Tampa gaming-centre owner quoted. https://baynews9.com/fl/tampa/news/2026/11/20/gta-6-launch-renews-debate-over-who-owns-digital-games (neutral framing)
+- SW Florida landmarks in GTA 6 (Naples 5th Ave, Punta Gorda mud park, I-75). https://www.gulfcoastnewsnow.com/article/gta-vi-southwest-florida-landmarks-naples-punta-gorda/74483884
+- Rob Nelson on Bigfoot/UFOs in Rockstar worlds. https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423

@@ -108,3 +108,6 @@
 
 ## 2026-11-20 08:15 UTC · Album out
 - Verified on Apple Music (34 songs, Nov 20) + Spotify. News 12 (voice Nia, official album cover © Rockstar Games, no album audio) → TikTok 09:00, IG 09:10 UTC (YouTube full today). Discord #announcements.
+
+## 2026-11-20 08:50 UTC · Newsroom run 15
+- Scouts A+C, B, E (D = daily sweep 08:40). No official news. Nothing published (feed already full today); ideas logged (Bigfoot-quote short, tested-it shorts, cash-before-bank how-to).

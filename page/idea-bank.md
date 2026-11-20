@@ -168,3 +168,10 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 
 ## From run 14 (2026-11-20 04:50 UTC)
 - Short "We tested how HEAVY Jason can get" (needs permitted clip; Kotaku-reported mechanic) · Myth or Fact "There's a polar bear in GTA 6?" · "Help us decode the Manifest Canyon symbols" (community, no spoilers) · Real Florida: "Miami already sells real Vice City tours" (Mei, ecosystem angle).
+
+## From run 15 (2026-11-20 08:50 UTC)
+- **"Rockstar explains why GTA 6 has Bigfoot"** short: Rob Nelson's reason (Kotaku) + our Skunk Ape pin → map CTA. Only-we angle: official quote + our map.
+- **"We tested it so you don't have to"** myth-test Shorts from permitted clips (fall from the tallest building, too much beer = Vandal clip on order).
+- **HOW TO "Where to hide cash before you have a bank"** (VGC) → Discord + Short.
+- **Story debate, no spoilers:** "Is GTA 6's story worse than 5? What reviewers actually said" (sources only).
+- Keys & Neon #3: Frost "Protect Our Game Act" (neutral), SW Florida landmarks, Anderson Cooper plays, Fort Stewart, KC dad, Kotaku couple.
