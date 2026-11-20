@@ -40,6 +40,7 @@ tools or data we could turn into content (e.g. map size, travel times), creators
 Report each with URL, why it's useful, and the suggested content.
 
 ## Scout D: clip hunter (for "Leonida Daily")
+**Owner (2026-11-20): never send the same link twice.** Before any link list goes to the owner/#mod-chat: `python3 tools/clip_hunter.py --filter <ids>` prints only never-sent ids (not in clip-hunt-state.json, not on Drive) and marks them sent. Send only those.
 Also automated every 3 h: `tools/clip_hunter.py` (scheduled task "clip hunter") → vetted list to owner + Discord #mod-chat; owner downloads to Drive. Thumbnails reviewed for webcams/reuploads (most 🆕 CC channels are reuploads).
 Find the funniest GTA VI player moments and fails since the last run (crashes, ragdolls, police chaos, NPC reactions, wildlife, failed stunts)
 **only from permitted sources** in `page/permissions.md`, plus new candidates. For each clip: URL, creator, timestamp range, what happens (one line),

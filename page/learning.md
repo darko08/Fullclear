@@ -49,3 +49,6 @@
 - Discord: 4 members, no /submit yet → need invites in every caption/bio and a reason to join (map pins with names).
 - 2026-11-20 00:56 UTC: YouTube Data API 'Search Queries per day' quota hit (wide 12-query sweep + scouts + clip hunter). Searches cost 100 units; keep sweeps to ≤6 queries; quota resets 08:00 UTC.
 - Brand: never use official shots Vice_City_06 (police + bikinis) or Vice_City_07 (strip club) as B-roll (no sexualized imagery).
+
+## 2026-11-20: never resend clip links (owner)
+I sent the same YouTube links twice (scout D list in the newsroom report, then again merged into the clip-hunt list). Fix: every link list goes through `tools/clip_hunter.py --filter <ids>` (skips already-sent + already-on-Drive, then marks them). clip_hunter also skips ids already on Drive.

@@ -30,9 +30,22 @@ def get(path, **p):
 
 
 def main():
-    a = argparse.ArgumentParser(); a.add_argument('--hours', type=int, default=3); a.add_argument('--max', type=int, default=8); a = a.parse_args()
+    a = argparse.ArgumentParser(); a.add_argument('--hours', type=int, default=3); a.add_argument('--max', type=int, default=8)
+    a.add_argument('--mark', nargs='*', help='record ids already sent to the owner (scouts, manual lists) and exit')
+    a.add_argument('--filter', nargs='*', help='print only ids never sent before and not on Drive, then mark them')
+    a = a.parse_args()
     since = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=a.hours)).strftime('%Y-%m-%dT%H:%M:%SZ')
     seen = json.load(open(STATE)) if os.path.exists(STATE) else {}
+    # owner: never send the same link twice -> also skip anything already downloaded to Drive
+    drive = os.path.join(ROOT, 'page/media/raw/drive')
+    on_drive = set(re.findall(r'\[([\w-]{11})\]', ' '.join(os.listdir(drive)))) if os.path.isdir(drive) else set()
+    stamp = dt.datetime.now(dt.timezone.utc).isoformat(timespec='minutes')
+    if a.mark is not None or a.filter is not None:
+        if a.filter is not None:
+            new = [i for i in a.filter if i not in seen and i not in on_drive]
+            print(' '.join(new)); a.mark = new
+        for i in a.mark: seen[i] = stamp
+        json.dump(seen, open(STATE, 'w'), indent=1); return
     ids = set()
     for ch in TRUSTED:   # 100 units each
         for it in get('search', part='id', channelId=ch, type='video', order='date', publishedAfter=since, maxResults=15).get('items', []):
@@ -40,7 +53,7 @@ def main():
     for q in QUERIES:
         for it in get('search', part='id', q=q, type='video', videoLicense='creativeCommon', order='date', publishedAfter=since, maxResults=25).get('items', []):
             ids.add(it['id']['videoId'])
-    ids -= set(seen)
+    ids -= set(seen) | on_drive
     rows = []
     for k in range(0, len(ids), 50):
         chunk = list(ids)[k:k + 50]
