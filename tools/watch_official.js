@@ -39,8 +39,10 @@ function rssTitles(xml) { return [...xml.matchAll(/<title>(?:<!\[CDATA\[)?(.*?)(
           : await page.evaluate(() => document.body.innerText);
       }
       const items = s.pick(text);
-      next[s.id] = items;
       const old = prev[s.id] || [];
+      // a page that suddenly yields nothing is a render failure (client-side pages), not news: keep the old state
+      if (!items.length && old.length) { errors.push(`${s.id}: empty render, ignored`); next[s.id] = old; continue; }
+      next[s.id] = items;
       const added = items.filter((i) => !old.includes(i));
       const removed = old.filter((i) => !items.includes(i));
       if (prev[s.id] && (added.length || removed.length)) changes.push({ source: s.id, url: s.url, added, removed });
