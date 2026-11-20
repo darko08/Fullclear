@@ -26,3 +26,4 @@ Shorts:
 - "GTA 6 cops remember your OUTFIT 😳" ✅ · "NEVER close GTA 6 without doing THIS" ✅ · "FREE helicopter in your first hour" ✅ (scheduled Nov 20–22)
 - "This car only spawns at 3 AM in GTA 6" (Banshee, Capri) · "There's a Bigfoot in GTA 6 (here's where)" · "GTA 6 has meditation spots?!"
 - "What happens at the EDGE of GTA 6's map" (Vandal CC BY, credited) · "Killed by a TIGER in GTA 6" (Nippton CC BY)
+- **Material ready 2026-11-20 (DPJ CC BY on Drive):** long02 "How to Get RICH Early in GTA 6 (Legit, No Glitches)" (e1M1b9f6zcY + B9mpKQl4wzM + derby/hunting facts) · long03 "Every Secret Weapon & Car You Can Get EARLY" (Donnie's revolver, Eclipse, sniper, Randy's cars) · long04 "GTA 6 Settings You NEED to Change" (hwKYt5ST_b4 menus + verified facts) · Shorts: "Paul Walker's car is in GTA 6 😳", "Ultimate Edition bonuses: where they are".

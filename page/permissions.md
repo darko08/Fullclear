@@ -95,3 +95,13 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Clip hunt 2026-11-20 03:56 UTC: 2 passed
 - ✅ DPJ 6NuvCYycfJ8 "9 early game secrets" (9:39), Soiscool 0NHfzal89k4 "all collectible card locations" (9:41) → owner to Drive.
 - ❌ gta2k26, Hantar_FF_69, Cheezy, Adriel P. (webcam/RP stream), Tinted (MrBeast/Nolan reupload), PS5 GPT (unclear source) → blocked.
+
+### Drive 2026-11-20 (arrived 00:54–01:02 UTC, vetted 04:40 UTC): 7 files, all creativeCommon (API)
+- ✅ DPJ XkcuU4m4GdY Ultimate Edition bonuses (5:07): menus + gameplay, small DPJ logo; cut end screen (subscribe card).
+- ✅ DPJ PiywNTMtbKE Donnie's revolver (2:56): clean; end screen to cut.
+- ✅ DPJ 5DseNL71Wro Eclipse "Fast & Furious" car (3:57): clean, shows the garage + map route → visual proof for a map pin.
+- ✅ DPJ e1M1b9f6zcY rich early loot (7:28): clean, night footage; end screen to cut.
+- ✅ DPJ B9mpKQl4wzM legendary sniper + cash (6:35): mostly clean; **skip the prison/inmate scene (~4:00, possible mission)**.
+- ✅ DPJ hwKYt5ST_b4 best settings (11:42): settings menus = perfect B-roll for settings tips.
+- ✅ LunarGaming XN71jpXNSvE Everygreen Mall (3:41): clean.
+- Use muted, credit "DPJ (CC BY)" / "LunarGaming (CC BY)" on screen; no DPJ voice. Lesson: check_drive output must be read in full (tail cut 7 files at 01:23).
