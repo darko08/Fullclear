@@ -122,3 +122,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Drive 2026-11-20 17:24 UTC: 2 files (API: creativeCommon)
 - ✅ DPJ 6NuvCYycfJ8 "9 early game secrets" (9:39): clean own gameplay (DPJ logo), weapons/cash spots → long video "secret weapons & cash early" + map pins.
 - ✅ LunarGaming k_fpkdNaH_0 "steal or keep any car, remove trackers" (7:14): clean; contains Randy side-job objective text + LunarGaming's own caption at ~5:30 → blur objective text in clips. → HOW TO short "keep any car" + Discord.
+
+### Clip hunt 2026-11-20 18:56 UTC: 0 passed
+- Rejected 8: webcam/streamer face (Apolloh, ShortieClippies, MatchUp1, Marsu4u), Spider-Man mod/fake (REAL SK GAMING), sexual innuendo (Livestream cams), AI-art thumbnails with unclear gameplay (iPlay GTA6; DEATHSHOT GAMING not blocked, 0 views). First 7 channels → BLOCK_CH.
