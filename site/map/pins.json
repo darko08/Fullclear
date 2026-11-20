@@ -331,6 +331,28 @@
    "how": "Only worth taking once you've met Moses (Chapter 2): register it with him (about $6,500+) or it's gone after a reload. Exact spot approximate: confirm on Discord!",
    "source": "DPJ gameplay guide (CC BY)",
    "verified": false
+  },
+  {
+   "id": "g-hamlet-warehouse",
+   "category": "Money method",
+   "location": "Raided warehouse full of loot (Hamlet, approximate)",
+   "x": 595,
+   "y": 327,
+   "description": "A warehouse on the eastern edge of Hamlet where everyone is already down when you arrive: bags of cash, a safe with a collectible card, weapons, vans to load. No fighting needed.",
+   "how": "Bring a car with a trunk to store the bags, loot every room and body, crack the safe. DPJ made well over $10k early. Exact spot approximate: confirm on Discord!",
+   "source": "DPJ gameplay guide (CC BY)",
+   "verified": false
+  },
+  {
+   "id": "g-tiger-sniper",
+   "category": "Weapon",
+   "location": "Tiger camp + legendary sniper (Pelican Valley, approximate)",
+   "x": 558,
+   "y": 258,
+   "description": "A run-down camp east of Pelican Valley, near a small airstrip: a tiger attacks the people there. Afterwards you can loot cash (a few thousand) and a unique sniper rifle.",
+   "how": "Let the fight end, watch for men arriving by car, grab the sniper and store it in your own car's trunk (register the car) so you don't lose it. Police may show up: leave fast. Approximate spot.",
+   "source": "DPJ gameplay guide (CC BY)",
+   "verified": false
   }
  ]
 }
