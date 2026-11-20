@@ -1,0 +1,15 @@
+{
+  "host": "Scout",
+  "headline": "GTA 6: $3.79 BILLION ON DAY ONE (OFFICIAL)",
+  "image": "page/media/official/postcards/Ambrosia_16x9.jpg",
+  "image_credit": "© Rockstar Games",
+  "bullets": [
+    "$3.79B day-one retail sales",
+    "Take-Two estimate, to end of Nov 19",
+    "Biggest entertainment launch ever",
+    "32.5M copies sold pre-release"
+  ],
+  "source": "Source: Take-Two press release, Nov 20",
+  "voiceover": "videos/news/news-15-scout.mp3",
+  "output": "videos/news/fullclear-news-15.mp4"
+}

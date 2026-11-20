@@ -163,3 +163,8 @@ Checked = date we read the official page.
 - Official: nothing new since the 15:24 album/festival post. Festival details (press): 17+, 4pm–2am ET, waitlist only; Club Space "The Vault" and CircoLoco events are NOT official.
 - Press (verify before use): Rob Nelson (via Davy Jones interview, Vice explainer): no full first-person mode at launch, first person only when aiming some weapons; Rockstar tech director to Kotaku (Nov 18, via HotHardware): 30 fps, CPU-limited, even on PS5 Pro; DE-CIX 33.03 Tbps download peak on launch eve (Kotaku); reptile expert on Jason's snake enclosure (Kotaku blog); Japanese players on the Japanese-restaurant parody (Kotaku); Port St. Lucie police "no respawn" post (CBS12); NYT Magazine essay.
 - Unverified/avoid: mission replay claims (guides disagree; verify in game), honor/ending comparisons (spoilers), Niko cutscenes, $3M money glitch (exploit), Cyberleek, Dog Island (single low-quality site), sex-bot warehouse piece (off-brand).
+
+## 2026-11-20 ~20:30 UTC: Take-Two press release (verified on take2games.com/ir)
+- "Grand Theft Auto VI day one retail sales* reached $3.79 billion, setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history." *company estimates through end of day Nov 19 worldwide.
+- "Grand Theft Auto VI sold 32.5 million units pre-release, a new record across all platforms." Metacritic 99 cited.
+- Supersedes the Sensor Tower estimate (24.58M) for official claims.
