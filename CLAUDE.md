@@ -36,6 +36,7 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 | Newsroom (every 4 h) | Scheduled task into this session; procedure in `page/scout-brief.md` |
 | Discord guide editor (every 4 h, :56) | Scheduled task: research agent finds new player help → max 5 Discord posts (how-tos, secrets, videos) |
 | Map editor (every 6 h, :53) | Scheduled task: research agent → new sourced pins in `site/map/pins.json` (own descriptions, source, verified flag; no story walkthroughs) → deploy |
+| Daily wide clip sweep (08:35 UTC) | `tools/cc_sweep.py` (≤6 searches, 24 h, by views) → ranked list to owner + #mod-chat. Be independent: find clips without being asked. |
 | Clip hunter (every 3 h, :55) | `tools/clip_hunter.py` → vetted CC BY links to owner + #mod-chat; owner downloads to Drive; `tools/check_drive.py` hourly picks them up |
 | Brand, crew images, voices | `brand/` (crew-1.png = chosen group, crew-<name>.png singles, hosts/ = talking loops) |
 | Video tools | `tools/news_short.py` (news show), `tools/daily_story.py` (Leonida Daily), `tools/route_video.py` ("How long does it take…") |
