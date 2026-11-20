@@ -112,3 +112,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-20 09:56 UTC: 1 passed
 - ✅ LunarGaming APhhOVif-3o (safe/door code, unique jetski). ❌ Jervin (compilations/reuploads, webcams), Sagar Strike (webcam), PriAg (AI thumb, likely reupload), Trickmaster714, Fire wolf Gamer (reposts) → blocked.
+
+### Clip hunt 2026-11-20 12:56 UTC: 0 passed
+- MrBeast/Nolan stream reuploads (Anjaan clipper, GowthMode), SPEED6ix (reupload of LunarGaming Vercetti video), Gods of Garena (webcam), LIGHTNING SHORTS/MutatedWorm/Tomatolist (cropped reposts, unclear owner) → blocked; titles with mrbeast/nolan blocked.
