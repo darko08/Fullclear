@@ -1,4 +1,4 @@
-# YouTube trends: "GTA 6", last 6 h (generated 2026-11-19 20:49 UTC)
+# YouTube trends: "GTA 6", last 4 h (generated 2026-11-20 00:49 UTC)
 
 Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative Commons licence (candidate for our clips, check for overlays).
 
@@ -6,40 +6,39 @@ Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative C
 
 | Views | Ratio | Len | Title | Channel | CC |
 |---:|---:|---:|---|---|---|
-| 356,345 | 0.0 | 0s | [GTA 6 - Explorando o MUNDO ABERTO! (Parte 3)](https://youtu.be/o2C1nRBqBn4) | LipaoGamer |  |
-| 274,199 | 0.0 | 0s | [🔴LIVE - TIMTHETATMAN GTA 6 PLAYTHROUGH (DAY 2)](https://youtu.be/lEkrxBXqhKg) | TimTheTatman |  |
-| 251,484 | 0.0 | 957s | [Entrando al ÁREA 51 en GTA 6 (Secreto)](https://youtu.be/FMuRkkpFtBo) | Vista Gamer |  |
-| 247,841 | 0.1 | 635s | [I Tried GTA 6 on EVERY Console!](https://youtu.be/StH6fUJIFQE) | Venom's Tech |  |
-| 234,987 | 0.0 | 0s | [PLAYING GTA 6 UNTIL I BEAT IT DAY 2](https://youtu.be/UgAvjzb6o2g) | Jynxzi |  |
-| 225,970 | 0.0 | 1129s | [J'ai tenté de SURVIVRE aux 6 ÉTOILES de GTA 6 !](https://youtu.be/L7c8gxqUO6Q) | Unchained Gaming |  |
-| 205,967 | 0.0 | 27s | [When you finally play GTA 6… #anime #gaming #gta6](https://youtu.be/4wxXnc4NvyU) | KingChris |  |
-| 203,934 | 0.1 | 467s | [Why Is the World Crazy for GTA 6 ? 13 Year Wait, $1.5 Billion Preorders, India P](https://youtu.be/XA3qYOliZN0) | NewsBook |  |
-| 168,189 | 0.0 | 0s | [🔴 GTA 6 EN VIVO | CAPITULO 2 | GRAND THEFT AUTO VI](https://youtu.be/ckiox3AugSo) | RDjavi |  |
-| 146,155 | 0.0 | 0s | [J'AI TESTÉ LES MYTHES SECRETS SUR GTA 6](https://youtu.be/JeFkqrByhVg) | Furious Jumper |  |
-| 137,226 | 0.1 | 0s | [🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #B](https://youtu.be/YylVwL4UIFU) | TheBurntPeanut |  |
-| 131,485 | 0.1 | 47s | [¿GTA 6 o Lovity? Con Verity Y Sus Amigos 😱 #minecraft](https://youtu.be/p1rCwu2lYvU) | TheOlarte |  |
-| 121,440 | 0.1 | 32s | [Neymar just invented football's new goal celebration after GTA 6! 😂🎮](https://youtu.be/hLz2--f1FiQ) | FutVibes |  |
-| 115,408 | 0.8 | 0s | [J'AI DÉJÀ RÊVÉ DE LUCIA ! (GTA 6)](https://youtu.be/6dK1W6O0UtE) | MichouGaming |  |
-| 103,554 | 0.2 | 40s | [DAVO PIERDE LA CABEZA EN GTA 6](https://youtu.be/Nu9vuP_LZYA) | Mati Clips |  |
-| 99,659 | 0.1 | 0s | [🔴 GTA 6 JUŻ JEST! PRZECHODZIMY FABUŁĘ NA ŻYWO! | 18% FABUŁY](https://youtu.be/YgLjxYcXet8) | Serfero |  |
-| 98,948 | 0.1 | 26s | [JE JOUE À GTA 6 DANS UN JET PRIVÉ #helydia #twitch #pourtoi](https://youtu.be/BVJKf5MBN2k) | Helydia |  |
-| 98,454 | 0.1 | 0s | [GTA6 加班台馬拉松 DAY.2](https://youtu.be/O_p75Pr4LuM) | 火火放 |  |
-| 96,606 | 0.2 | 1126s | [GTA 6 WTF and Funny Moments! #2](https://youtu.be/dUYIMa2ifWM) | Zynxize |  |
-| 95,889 | 0.0 | 10s | [Trucos para Jugar GTA 6🤣🔥#comedia](https://youtu.be/ccN8ko4k6CA) | YERRIKILLERXD |  |
-| 87,834 | 0.0 | 1060s | [Can You SURVIVE 6 Stars in GTA 6..](https://youtu.be/mVogLxIVGfw) | Caylus   |  |
-| 87,191 | 0.0 | 549s | [GTA 6 Has Already Been Hacked](https://youtu.be/L_cnQJB5ZFU) | Ray William Johnson |  |
-| 84,655 | 0.0 | 35s | [¿Qué PASA si BEBES demasiada CERVEZA en GTA 6? 🍺 #gta6 #grandtheftauto #curiosid](https://youtu.be/8IyAE72VaXQ) | Vandal | CC |
-| 82,481 | 0.0 | 104s | [GTA 6 Ultimate Edition vs Standard - How Do Stores Work?](https://youtu.be/gN5qaT7u-uM) | IGN |  |
-| 81,728 | 0.0 | 0s | [Playing GTA 6 Until I Beat It Day 2 | GIVEAWAYS](https://youtu.be/fP8ZCuH-J6A) | Treyten |  |
+| 554,238 | 0.3 | 217s | [GTA 6 just went NUCLEAR..](https://youtu.be/12UeB1kuCw4) | Asmongold Clips |  |
+| 246,916 | 0.0 | 52s | [POV:TIENES NOVIA Y ACABA DE SALIR GTA 6 💀😭](https://youtu.be/zvAcsCAzlTg) | Alex Crashers |  |
+| 133,558 | 0.0 | 34s | [Cuando GTA 6 SALE a las 12 de la NOCHE 😂 #humor #comedia #gta6](https://youtu.be/xai9vdhNCmc) | MatWolf16 |  |
+| 91,080 | 0.0 | 0s | [🔴 LIVE! - GTA 6 on PS5 PRO with TYPICAL GAMER!](https://youtu.be/6RgkIVpvvsY) | Typical Gamer |  |
+| 78,703 | 0.0 | 0s | [GTA 6 - Full Ending Walkthrough (No Commentary) 100% 4K](https://youtu.be/snAEwxMgHUc) | Sirloin |  |
+| 77,491 | 0.0 | 1080s | [GTA 6 RELEASES AND IT'S PERFECT](https://youtu.be/8N2G8DukkKM) | HasanAbi |  |
+| 57,634 | 0.0 | 34s | [GTA 6 RUINED My Marriage!!?](https://youtu.be/May_EUJ3Mzo) | Meatlicious |  |
+| 55,878 | 0.0 | 41s | [Estoy flipando con GTA 6](https://youtu.be/pD0pE48fGgs) | DaniRep | +6 Vídeos Diarios De GTA 5 Online! |  |
+| 54,059 | 0.2 | 19s | [Jynxzi Reaches the Highest Point in GTA 6 and Discovers a Hidden Easter Egg! 😭🥚](https://youtu.be/az4bMENIh1s) | iboclips |  |
+| 50,250 | 0.0 | 15s | [CHESS IN GTA 6](https://youtu.be/uOIwXJVPXks) | GothamChess |  |
+| 45,820 | 0.0 | 0s | [EMPEZAMOS CON GTA 6 - NABI](https://youtu.be/flpEDvFA7Nk) | Soy Nabi |  |
+| 44,578 | 0.0 | 29s | [POV: Different People Ask To Hoop When GTA 6 Drops...](https://youtu.be/-SZ1g2NCg1I) | Unknown Smug |  |
+| 43,466 | 0.1 | 67s | [The game of the year nominees are... 💀 GTA 6, Zelda, and 007?](https://youtu.be/9u83--mDsP8) | Stormfall33 |  |
+| 41,870 | 0.2 | 21s | [Franklin is back in GTA 6?? #gta6 #gtavi](https://youtu.be/9Se682L4uB0) | Jubu Jay GTA |  |
+| 39,279 | 0.0 | 56s | [Robando un avión de pasajeros en GTA 6](https://youtu.be/MPjWoBaBhck) | DaniRep | +6 Vídeos Diarios De GTA 5 Online! |  |
+| 39,172 | 0.0 | 877s | [GTA 6 MELTDOWN! Asmongold TheBurntPeanut RAGE Over ABSURD Gameplay & NO REFUNDS](https://youtu.be/tXT5DS-zh24) | TheQuartering |  |
+| 37,514 | 0.0 | 1147s | [GTA 6 Has Exposed The Hypocrisy Of "Progressives" Using Its "Message" To Attack ](https://youtu.be/PqymR-rSZmU) | Rev says desu |  |
+| 35,597 | 0.0 | 29s | [IShowSpeed Hasn’t Slept Since The Release Of GTA 6…](https://youtu.be/QAKQj7_q5ZI) | Brandon Conner |  |
+| 33,505 | 0.0 | 941s | [Busting Myths in GTA 6](https://youtu.be/RiNTFXGRxsU) | SpeirsTheAmazingHD |  |
+| 28,620 | 0.0 | 14s | [I wonder what gta 6 will be like #gta6 #gta](https://youtu.be/FNqAKrAHdww) | Sven Johnson |  |
+| 27,367 | 0.0 | 64s | [GTA 6 - PS5 vs PS5 Pro](https://youtu.be/htSzlz1m_us) | Linus Tech Tips |  |
+| 27,020 | 0.0 | 59s | [🔥MEU FILHO JOGANDO GTA 6 PELA PRIMEIRA VEZ! #shorts](https://youtu.be/uwxrFRhQL-c) | Hariston |  |
+| 25,501 | 0.0 | 770s | [GTA 6 - Caçando um JACARÉ GIGANTE! (Pântano de Leonida)](https://youtu.be/awAYXyE_MtU) | LipaoGamer |  |
+| 24,600 | 0.1 | 0s | [GTA 6 Full Story Playthrough Part 4 (GRAND THEFT AUTO VI  PS5 Pro)](https://youtu.be/CQVzBQwJIoU) | MELOO |  |
+| 24,268 | 0.1 | 12s | [RESOLVERAM O MAIOR PROBLEMA DO GTA 6 😱😱😱](https://youtu.be/RNTTr6e_BHQ) | Davy Jones GTA 6 |  |
 
 ## Outliers (ratio > 3, at least 5,000 views)
 
 | Views | Subs | Ratio | Len | Title | Channel |
 |---:|---:|---:|---:|---|---|
 
-Shorts (≤180 s) in sample: 48, median views 47,157. Long (>180 s): 52.
+Shorts (≤180 s) in sample: 49, median views 12,542. Long (>180 s): 51.
 
 ## CC BY candidates (check permissions.md rules: own footage, no webcam/stream overlays)
 
-- 84,655 views · [¿Qué PASA si BEBES demasiada CERVEZA en GTA 6? 🍺 #gta6 #grandtheftauto #curiosid](https://youtu.be/8IyAE72VaXQ) · Vandal
-- 17,936 views · [J'AI VOLÉ UN AVION DE LIGNE SUR GTA 6 ! #Shorts](https://youtu.be/UMK-qh-v4rQ) · CHOWH1
+- 3,441 views · [GTA 6 - How To KEEP STOLEN CARS! (Change Plates & Register Vehicles)](https://youtu.be/--mU3IJVZ6I) · DPJ
