@@ -9,7 +9,7 @@ Writes page/clip-hunt.md (latest list) + a thumbnail contact sheet for the boss 
 /tmp/clip-hunt-thumbs.jpg. State of already-proposed ids: page/clip-hunt-state.json.
 Ranking: trusted own-gameplay channels first, then new channels; skips blocklisted channels and risky titles.
 """
-import argparse, datetime as dt, io, json, os, re, urllib.parse, urllib.request
+import argparse, datetime as dt, io, json, os, re, urllib.error, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 API = 'https://www.googleapis.com/youtube/v3/'
@@ -83,4 +83,9 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except urllib.error.HTTPError as e:
+        if e.code in (403, 429):
+            raise SystemExit('YouTube API quota used up for today (resets 08:00 UTC). No clip hunt this run.')
+        raise
