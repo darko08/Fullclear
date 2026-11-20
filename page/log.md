@@ -119,3 +119,6 @@
 - "How to Get RICH Early in GTA 6 (Legit, No Glitches)", voice Scout, 4:20, 61 lines; B-roll DPJ CC BY (Hamlet warehouse, tiger camp, Eclipse, revolver trunk) + LunarGaming + official shots (Vice_City_06/07 swapped out: sexualized). Thumbnail from DPJ frame.
 - YouTube 2026-11-21 18:05 UTC (cops Short moved to Nov 22 08:05). Shorts: warehouse (TT/IG Nov 21 14:00/14:10, YT Nov 22 22:05), tiger (TT/IG Nov 21 20:00/20:10, YT Nov 23 08:05).
 - Missing for 8+ min long videos: more permitted gameplay (DPJ hidden features, early weapons, stolen cars on order).
+
+## 2026-11-20 12:50 UTC · Newsroom run 16
+- Scouts A+C, B, E. No official news. News 13 (voice Dev): ~25M day-one ESTIMATE (VGC/Sensor Tower) → TikTok 13:40, IG 13:50 UTC. Ideas: real police vs outfit trick, survive 6 stars, choices explainer.

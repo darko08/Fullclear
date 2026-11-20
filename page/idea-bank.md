@@ -175,3 +175,10 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - **HOW TO "Where to hide cash before you have a bank"** (VGC) → Discord + Short.
 - **Story debate, no spoilers:** "Is GTA 6's story worse than 5? What reviewers actually said" (sources only).
 - Keys & Neon #3: Frost "Protect Our Game Act" (neutral), SW Florida landmarks, Anderson Cooper plays, Fort Stewart, KC dad, Kotaku couple.
+
+## From run 16 (2026-11-20 12:50 UTC)
+- **Short: "Real police answered GTA 6's outfit trick"** — Aurora PD's "a change of clothes won't lose the cops" + our cops/outfit short (VGC/Kotaku mechanic). Only-we angle: game mechanic vs real cops.
+- **"How long can you survive 6 stars?"** (route_video format, needs permitted footage) ending with real escape tips.
+- **"Do your choices matter? (no spoilers)"** explainer from reviews only.
+- **"Same stunt, 13 years apart: GTA 5 vs GTA 6"** needs permitted footage of both.
+- Keys & Neon #3 adds: Sensor Tower estimate (say estimate), Aurora PD post, "what changed in your life between V and VI?" crew prompt.
