@@ -46,3 +46,8 @@
 - Tyreek Hill says he voices/likeness "Maleek Rivers" (Vice City Manatees WR) — his claim. https://bleacherreport.com/articles/25535476
 - NBC's Chelsea Stahl played a whole workday with her boss's OK (drywall, boat theft, shark, impound). https://www.nbcnews.com/pop-culture/pop-culture-news/gta-6-play-by-play-work-first-three-hours-rcna610208
 - Kansas City dad Cameron Logan Cox took PTO, 3 screens, plays with his son; postal clerk booked leave in March. https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/
+
+## Run 14 (2026-11-20 04:50 UTC)
+- Kotaku's Imran Khan and his wife (new to GTA) play side by side; same evening, different game. https://kotaku.com/gta-6-is-even-better-when-you-play-it-side-by-side-with-your-wife-2000758581
+- Miami sells "real Vice City" tours (minibus, Slingshot); ecosystem worry for the Keys/Everglades. https://travel.yahoo.com/guides/articles/gta-6-today-miami-already-130015244.html (no operator promotion)
+- Kotaku "18 details": max-weight Jason, polar bear hunter, readable books, Tony the Bird cameo. https://kotaku.com/18-coolest-details-players-have-spotted-in-gta-6-so-far-2000758435

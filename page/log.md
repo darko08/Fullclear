@@ -90,3 +90,6 @@
 - Analysed 240 GTA 6 videos → page/CLICKBAIT.md (honest clickbait formulas, thumbnails, output mix). CLAUDE.md mandate updated.
 - 3 Shorts cut from long01: cops/outfit, never close without saving, free helicopter → TikTok/IG Nov 20 15:00/19:00/21:00 UTC; YouTube Nov 21 18:05, Nov 22 12:05 + 16:05.
 - Long-video clickbait queue in content/long/PLAN.md.
+
+## 2026-11-20 04:50 UTC · Newsroom run 14
+- Scouts A+C (merged), B (no YouTube quota), E. News 11 (Mei): "Playing GTA 6 on PC? Read this" (no PC version + infostealer PSA, Malwarebytes) → TikTok 10:30, IG 10:40 UTC. Discord #announcements PSA.

@@ -1,0 +1,15 @@
+{
+  "host": "Mei",
+  "headline": "PLAYING GTA 6 ON PC? READ THIS",
+  "image": "page/media/official/postcards/Vice_City_Postcard_landscape.jpg",
+  "image_credit": "© Rockstar Games",
+  "bullets": [
+    "GTA VI: PS5 + Xbox Series only",
+    "No PC version announced",
+    "Fake 'PC downloads' steal passwords",
+    "Ran one? Change passwords"
+  ],
+  "source": "Source: Rockstar, Malwarebytes",
+  "voiceover": "videos/news/news-11-mei.mp3",
+  "output": "videos/news/fullclear-news-11.mp4"
+}

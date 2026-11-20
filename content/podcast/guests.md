@@ -23,3 +23,4 @@
 - Typical Gamer (100% marathon): YouTube About business email.
 - Streams Charts (analytics): press contact.
 - Chelsea Stahl (NBC News, workday diary): NBC press contact (never contact without owner's OK).
+- Imran Khan (Kotaku): via Kotaku (never contact without owner's OK).

@@ -131,3 +131,9 @@ Checked = date we read the official page.
 - Album: Apple Music lists "GTA VI: The Album" (34 tracks, preview only) with release 2026-11-20 08:00 UTC; Spotify singles only. Rockstar Store now sells album vinyl/CD (no prices typed). Justice Original Score 50 tracks, Apple date 2026-12-11 (verify).
 - Press: Dylan Rourke + Manni L. Perez confirm Jason/Lucia roles (their Instagram, via ComicBook/NBC); Tyreek Hill says he is "Maleek Rivers" (his claim); NBC staffer workday diary; Kansas City dad + son PTO (CBS).
 - Not verified / avoid: VGTimes credits/easy mode/Eclipse/UFO trophy/Manifest symbols (single source), "Franklin is back" (spoiler/unverified), Online in December (leak), 209 GB Xbox build leak, region-trick 2.1M, ending walkthroughs, refund meltdown (commentary).
+
+## 2026-11-20 run 14 (04:50 UTC)
+- Official: nothing new (Scout A+C pending/none). VERIFIED (Malwarebytes, Aug 2026): fake GTA 6 sites deliver gta6_installer.exe infostealer (passwords, cookies, sessions; 2FA may not help); "Rockstar has not announced a PC version." → news 11 + Discord PSA.
+- Single source / unverified: Kaspersky ~27k fake "GTA 6 PC" detections (VGTimes); Jennie / Machel Montano on the album (check tracklist 08:10); India price ₹7,499 (Mint, not official); easy mode (verify); PS5 "almost bricked" (single report).
+- Press stories: Kotaku couple side by side; Miami "real Vice City" tours (operators' prices); Kotaku "18 details" (weight build, polar bear hunter, books, Tony the Bird cameo); no speedrun board yet.
+- Avoid: Cyberleek 209 GB build, late-game cameo article (spoiler), Cypress Cove leak reviews, unsourced 20M sales, region-trick counts, first-person glitch.

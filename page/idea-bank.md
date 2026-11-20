@@ -165,3 +165,6 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - **POV skit format** (winning on Shorts): crew character skit "POV: GTA 6 just came out and your boss said yes" (NBC diary angle), our own animation, no streamer footage.
 - **Keys & Neon #3**: Fort Stewart soldiers, KC dad + son, NBC workday diary, actors confirm Jason/Lucia, Tyreek Hill "Maleek Rivers" (his claim), Pocketpair.
 - **Leonida Daily #4 (tonight 19:20 CET):** Vercetti Estate sneak-in (LunarGaming TPF8W1_mk7I) → tiger ends it (Nippton -821VaDP-8w) → bonus: "the sky at the edge of the map shoots back" (Vandal c7YtkCjSiLw, last 5 s). Aliens (Soiscool) as a separate "secret" short with spoiler warning.
+
+## From run 14 (2026-11-20 04:50 UTC)
+- Short "We tested how HEAVY Jason can get" (needs permitted clip; Kotaku-reported mechanic) · Myth or Fact "There's a polar bear in GTA 6?" · "Help us decode the Manifest Canyon symbols" (community, no spoilers) · Real Florida: "Miami already sells real Vice City tours" (Mei, ecosystem angle).
