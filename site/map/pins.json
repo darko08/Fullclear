@@ -320,6 +320,17 @@
    "how": "Find it at the rear of the yard and take it (Randy's wish list).",
    "source": "Push Square",
    "verified": false
+  },
+  {
+   "id": "g-eclipse",
+   "category": "Vehicle",
+   "location": "Green 'Fast & Furious' sports car garage (Vice City, approximate)",
+   "x": 664,
+   "y": 485,
+   "description": "A double garage in central Vice City holds the green sports car with the 'I got you' style plate. Breaking in sets off an alarm, but it stops on its own.",
+   "how": "Only worth taking once you've met Moses (Chapter 2): register it with him (about $6,500+) or it's gone after a reload. Exact spot approximate: confirm on Discord!",
+   "source": "DPJ gameplay guide (CC BY)",
+   "verified": false
   }
  ]
 }

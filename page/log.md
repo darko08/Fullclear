@@ -93,3 +93,7 @@
 
 ## 2026-11-20 04:50 UTC · Newsroom run 14
 - Scouts A+C (merged), B (no YouTube quota), E. News 11 (Mei): "Playing GTA 6 on PC? Read this" (no PC version + infostealer PSA, Malwarebytes) → TikTok 10:30, IG 10:40 UTC. Discord #announcements PSA.
+
+## 2026-11-20 05:10 UTC · Discord guide editor
+- Used DPJ CC BY guides from Drive (transcribed with Whisper, no extra research agent): #vehicles-and-weapons "Fast & Furious" car (garage clip, register with Moses ~$6,500+) and Donnie's .38 revolver (clip, mission text blurred, steps in spoiler tags). content/discord/27–28, videos/discord/eclipse-garage.mp4, donnie-revolver.mp4.
+- Map: +1 pin g-eclipse (approximate, from DPJ's in-game map) → 30 pins, deployed.
