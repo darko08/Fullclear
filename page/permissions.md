@@ -91,3 +91,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - ⚠️ Soiscool EMKaAuAczBQ "aliens kidnap Jason" (3:00, vertical): own "SCM" watermark ok, a promo card at ~0:15 (cut it), very dark; UFO beam ~1:00 usable. Mute FR voice. "Secret ahead" warning.
 - ⚠️ Vandal c7YtkCjSiLw "edge of the map" (0:46, vertical): Spanish one-word captions burned in on every shot; usable only as short B-roll (plane shot down at the edge), credit Vandal.
 - ❌ Higor-BMX EXs-eq0xmRA "stopped the train": webcam overlay the whole video + mission objective text → rejected, channel blocked.
+
+### Clip hunt 2026-11-20 03:56 UTC: 2 passed
+- ✅ DPJ 6NuvCYycfJ8 "9 early game secrets" (9:39), Soiscool 0NHfzal89k4 "all collectible card locations" (9:41) → owner to Drive.
+- ❌ gta2k26, Hantar_FF_69, Cheezy, Adriel P. (webcam/RP stream), Tinted (MrBeast/Nolan reupload), PS5 GPT (unclear source) → blocked.
