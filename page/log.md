@@ -151,3 +151,6 @@
 - Verified official festival timetable → Discord #announcements with ET/UK/CET + rules + "no official stream" scam warning. Short planned for Nov 21 morning.
 - 12 more channels blocked in clip_hunter. Clip picks for owner: Soiscool lK6nhxV9zvg, A6ZOyBcRDB8, Khhx5a2iA_c; LunarGaming uEb1_rhWjmI; DPJ moYc23U6RWI.
 - Map: 8 pins still waiting on Netlify credits (owner).
+
+## 2026-11-20 21:00 UTC: Discord guide editor
+- 5 posts (material from map run #5 + scout B, no extra agent needed): #money-methods Exotic Animals Front cash; #how-to-guides earliest mask (Chuck's) + no mission replay/save safety; #easter-eggs The Vault radio (confirm via /submit); #collectibles Belpoint Strait + Bobcat treasure dives.
