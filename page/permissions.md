@@ -109,3 +109,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Daily wide sweep 2026-11-20 08:40 UTC (6 queries, 24 h)
 - Picks: DPJ UeP9-s_y-fE, --mU3IJVZ6I, y_HlexmUeDs; Vandal 8IyAE72VaXQ; Soiscool UMvU8gK0SnA.
 - Skipped: DPJ KiMdEoQJMAU (first-house money: story spoiler risk); "No Copyright Gameplay" channels (Fox rlluMwJXbqg = story/prison scenes; Ftug = unclear ownership; PressStartPlay/dannyavelas = full story parts); BornInGame (fake PC "DLSS 5/RTX 4090"), Mateo Roblox/Hebzuor (AI thumbnails), ChrisReloads (webcam), Just Ganesh, Knights of Gaming, Tchelox map compare (fan map), dog-on-jet-ski reposts (unclear owner). New channels blocked in clip_hunter.
+
+### Clip hunt 2026-11-20 09:56 UTC: 1 passed
+- ✅ LunarGaming APhhOVif-3o (safe/door code, unique jetski). ❌ Jervin (compilations/reuploads, webcams), Sagar Strike (webcam), PriAg (AI thumb, likely reupload), Trickmaster714, Fire wolf Gamer (reposts) → blocked.
