@@ -111,3 +111,6 @@
 
 ## 2026-11-20 08:50 UTC · Newsroom run 15
 - Scouts A+C, B, E (D = daily sweep 08:40). No official news. Nothing published (feed already full today); ideas logged (Bigfoot-quote short, tested-it shorts, cash-before-bank how-to).
+
+## 2026-11-20 09:00 UTC · Discord guide editor
+- #how-to-guides cash before bank + enterable buildings (VGC); #money-methods Hamlet loot warehouse (DPJ CC BY clip); #vehicles-and-weapons tiger sniper (DPJ CC BY clip); #easter-eggs why Bigfoot (Rob Nelson/Kotaku). content/discord/30–33. No extra research agent (newsroom + DPJ material on hand).
