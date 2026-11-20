@@ -56,3 +56,10 @@
 - Rep. Maxwell Frost "Protect Our Game Act" (keep games you paid for if servers shut) tied to VI being download-only; Tampa gaming-centre owner quoted. https://baynews9.com/fl/tampa/news/2026/11/20/gta-6-launch-renews-debate-over-who-owns-digital-games (neutral framing)
 - SW Florida landmarks in GTA 6 (Naples 5th Ave, Punta Gorda mud park, I-75). https://www.gulfcoastnewsnow.com/article/gta-vi-southwest-florida-landmarks-naples-punta-gorda/74483884
 - Rob Nelson on Bigfoot/UFOs in Rockstar worlds. https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423
+
+## Run 17 (2026-11-20 16:50 UTC)
+- DE-CIX download record 33.03 Tbps on launch eve (Kotaku). https://kotaku.com/gta-6-release-was-so-big-it-broke-internet-download-records-twice-in-one-week-2000758654
+- Reptile expert: Jason's snake enclosure too small (Kotaku live blog).
+- Japanese players love the "bad American Japanese restaurant" parody. https://kotaku.com/grand-theft-auto-vi-gta6-rockstar-japanese-restaurant-puns-2000758644
+- Port St. Lucie PD "no respawn" safety post. https://cbs12.com/news/local/florida-port-st-lucie-police-have-a-gta-vi-release-day-warning-port-st-lucie-is-not-vice-city-vice-city-november-19-leonida-rockstar-games-
+- NYT Magazine: America caught up with GTA's satire (paraphrase only).

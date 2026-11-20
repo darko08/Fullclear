@@ -25,3 +25,4 @@
 - Chelsea Stahl (NBC News, workday diary): NBC press contact (never contact without owner's OK).
 - Imran Khan (Kotaku): via Kotaku (never contact without owner's OK).
 - Scott Ertz (The Forge Social Gaming Center, Tampa): business's public channels (never contact without owner's OK).
+- Jake Weeks (Reptile Academy, Dorset): business contact (never contact without owner's OK).

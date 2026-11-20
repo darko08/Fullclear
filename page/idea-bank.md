@@ -182,3 +182,9 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - **"Do your choices matter? (no spoilers)"** explainer from reviews only.
 - **"Same stunt, 13 years apart: GTA 5 vs GTA 6"** needs permitted footage of both.
 - Keys & Neon #3 adds: Sensor Tower estimate (say estimate), Aurora PD post, "what changed in your life between V and VI?" crew prompt.
+
+## From run 17 (2026-11-20 16:50 UTC)
+- **Myth-buster Short: "Is there first person in GTA 6?"** (Rockstar's Rob Nelson: only while aiming some weapons) — verify primary interview first.
+- **"The one thing GTA 6 doesn't let you do: replay missions?"** — only after in-game confirmation (guides disagree).
+- **"The night GTA 6 broke the internet"** (DE-CIX 33 Tbps) for Keys & Neon.
+- **Real Florida vs Leonida cold open:** Port St. Lucie + Aurora police posts.

@@ -32,3 +32,4 @@
 - Run 15 (08:50 UTC Nov 20): nothing official; Extended Look (old); Rob Nelson Bigfoot quote; Frost bill; SW Florida landmarks; Anderson Cooper; cash-before-bank how-to; dark-blue buildings (2 sources); formats: tested-it shorts, story debate, treasure hunt; EdgarFtw 4TWktQ4eGT4 CC candidate; drops listed in facts.
 - Run 16 (12:50 UTC Nov 20): Sensor Tower 24.58M (→ news 13); Aurora PD post; Reddit life moments; GTA5 vs GTA6 comparisons, survive 6 stars, choices explainer formats; update 01.002.001 sizes; drops listed.
 - 15:24 UTC Nov 20: Newswire album post (festival Nov 21 Mana Wynwood, score Dec 11) → news 14 + Discord.
+- Run 17 (16:50 UTC Nov 20): nothing official; first-person myth; save/replay; DE-CIX record; snake enclosure; Japanese restaurant parody; Port St. Lucie PD; NYT essay; unofficial Miami side events; drops listed.
