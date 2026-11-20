@@ -125,3 +125,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-20 18:56 UTC: 0 passed
 - Rejected 8: webcam/streamer face (Apolloh, ShortieClippies, MatchUp1, Marsu4u), Spider-Man mod/fake (REAL SK GAMING), sexual innuendo (Livestream cams), AI-art thumbnails with unclear gameplay (iPlay GTA6; DEATHSHOT GAMING not blocked, 0 views). First 7 channels → BLOCK_CH.
+
+### Clip hunt 2026-11-20 21:55 UTC
+- Pass: LunarGaming uEb1_rhWjmI (CC BY, trusted). Also sent from scout D run 18: Soiscool lK6nhxV9zvg, A6ZOyBcRDB8, Khhx5a2iA_c; DPJ moYc23U6RWI (all CC BY via API).
+- Skip (not blocked): Chiefie r1nnJ_P2SMc (official art + sexualized thumbnail, content unknown), Bon -V-hTG9i_z4 (0 views, unclear).
