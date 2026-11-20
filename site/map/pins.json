@@ -485,6 +485,116 @@
    "how": "Play a round: mini golf counts toward 100%.",
    "source": "PowerPyx (unverified)",
    "verified": false
+  },
+  {
+   "id": "g-spy-vessel",
+   "category": "Weapon",
+   "location": "Derelict spy boat + silenced pistol (Permit Keys)",
+   "x": 382,
+   "y": 151,
+   "description": "A wrecked boat on the southern shore of the easternmost Permit Keys island. Also a WAiNK curiosity.",
+   "how": "Climb onto the wreck and open the hatch in the middle: free suppressed pistol (Assassin Nipper .38).",
+   "source": "Game Rant + TheGamer",
+   "verified": false
+  },
+  {
+   "id": "g-ufo",
+   "category": "Easter egg",
+   "location": "UFO encounter: 'The Truth Is Out There' trophy (approximate)",
+   "x": 306,
+   "y": 619,
+   "description": "A roadside car with its alarm and lights going, north-west of the Starlet Motel on the Port Gellhorn side, with a trail into the woods toward a blue glow.",
+   "how": "After Chapter 1, come at night after 2 AM and follow the blue light. Approximate spot: confirm on Discord!",
+   "source": "GameSpot + theclick.gg",
+   "verified": false
+  },
+  {
+   "id": "g-paragon",
+   "category": "Vehicle",
+   "location": "Ascot Paragon (Ocean Beach)",
+   "x": 852,
+   "y": 482,
+   "description": "Parked outside The Banana Hole bar on Shore Dr, Ocean Beach.",
+   "how": "Show up around 6 PM, clone the key, outrun the tracker to Randy.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-toros",
+   "category": "Vehicle",
+   "location": "Pegassi Toros (Bayside)",
+   "x": 719,
+   "y": 526,
+   "description": "Outside Pegassi Residences on Bayside Dr (Tequesta Retreat).",
+   "how": "Around 6:30 PM: slip past the guards, clone the key, drive it to Randy's lockup.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-futo",
+   "category": "Vehicle",
+   "location": "Karin Futo in the postal depot (Draper Island)",
+   "x": 249,
+   "y": 688,
+   "description": "Big postal building on the southern tip of Draper Island.",
+   "how": "Enter by the north-west door near the railway, start the car before raising the shutters, escape to Moses.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-nightblade",
+   "category": "Vehicle",
+   "location": "Western Nightblade at the biker clubhouse (Ambrosia)",
+   "x": 558,
+   "y": 641,
+   "description": "Motorcycle club compound on Birch St, Ambrosia.",
+   "how": "Go in over the roof, open the gate first, distract the guards and hotwire the bike for Moses.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-vamos",
+   "category": "Vehicle",
+   "location": "Declasse Vamos in a locked garage (east of Grayson)",
+   "x": 402,
+   "y": 778,
+   "description": "A house on Rockledge Rd, east of Grayson.",
+   "how": "Find the garage code inside the main house, then survive the chase back to Moses.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-bandito",
+   "category": "Vehicle",
+   "location": "BF Bandito trail chase (Buckskin Swamp)",
+   "x": 496,
+   "y": 536,
+   "description": "Dirt trails in the north-east of Buckskin Swamp.",
+   "how": "Chase the buggy on a dirt bike, tag it with WAiNK and take it. All 7 Moses drop-offs earn his Emperor Sultan.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-dino-golf",
+   "category": "Side activity",
+   "location": "Dino Golf Challenge (Frogswater)",
+   "x": 443,
+   "y": 652,
+   "description": "Dinosaur-themed mini golf in Frogswater.",
+   "how": "Play a round: 2 of the 3 mini golf courses count toward 100%.",
+   "source": "PowerPyx (unverified)",
+   "verified": false
+  },
+  {
+   "id": "g-frontier-golf",
+   "category": "Side activity",
+   "location": "Frontier Adventure Golf (Waning Sands)",
+   "x": 786,
+   "y": 667,
+   "description": "Western-themed mini golf in Waning Sands.",
+   "how": "Play a round for the mini golf checklist.",
+   "source": "PowerPyx (unverified)",
+   "verified": false
   }
  ]
 }

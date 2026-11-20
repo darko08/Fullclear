@@ -28,3 +28,12 @@ Updated 2026-11-19 19:10 UTC by map editor.
 - Worn Stone meditation — Emerald River bank at Camp Moonflower (PowerPyx, unverified)
 - Leads (PowerPyx only): Jutting Cliff meditation (Kalaga mine tower), Dino Golf (Frogswater), Frontier Adventure Golf (Waning Sands), Leaf Links golf, Imperial Spanish Ruins (Moreau), arcade outside Bargain World (Port Gellhorn); stunt jumps Saltrock Bridge W/E, Key Lento Bridge.
 - Tip: Index → Vehicles → Pay 'n' Spray lists found shops by distance; can't respray in view of police (GamesRadar).
+
+## Added 2026-11-20 13:20 UTC (map editor run #4)
+- South Point Airfield alien bunker — south of Hamlet, east of the Manatee Motel; keypad hint = count the painted lines (codes disagree between sites) (GameSpot snippet)
+- Piccia Furia — mansion garage, Palladia Ln, Peacock Estates (not on official map) (Push Square)
+- Pegassi Tempesta repo event — NE 3rd St, Vice City, ~1 PM (Push Square)
+- Imperial Spanish Ruins — south-west peak of Mount Kalaga NP above Moreau (The Big Lead, unverified)
+- Jutting Cliff meditation — ledge by a tower overlooking a mine, Mount Kalaga NP (PowerPyx)
+- Shops: Trader's Union (Port Gellhorn), Moses' shop (Orchard Ave)
+- Not found anywhere reputable: "Abandoned Research" jetski (LunarGaming video on order will show it)

@@ -125,3 +125,6 @@
 
 ## 2026-11-20 13:10 UTC · Discord guide editor
 - #how-to-guides: Ultimate Edition items (store tab, bike under the house, Coastal Auto Care build, weapon lockers) + 6 settings (DPJ picks), both with credited DPJ CC BY clips (content/discord/34–35). Source material transcribed from DPJ CC BY guides on Drive (no extra research agent).
+
+## 2026-11-20 13:20 UTC · Map editor run #4
+- +10 pins (54): spy-boat silenced pistol (Game Rant+TheGamer), UFO trophy (GameSpot+theclick, approximate), Randy Paragon/Toros, Moses Futo/Nightblade/Vamos/Bandito (Push Square), Dino + Frontier mini golf (PowerPyx). 7 to map-todo. Playwright OK; deployed; Discord #announcements.
