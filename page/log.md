@@ -128,3 +128,6 @@
 
 ## 2026-11-20 13:20 UTC · Map editor run #4
 - +10 pins (54): spy-boat silenced pistol (Game Rant+TheGamer), UFO trophy (GameSpot+theclick, approximate), Randy Paragon/Toros, Moses Futo/Nightblade/Vamos/Bandito (Push Square), Dino + Frontier mini golf (PowerPyx). 7 to map-todo. Playwright OK; deployed; Discord #announcements.
+
+## 2026-11-20 15:30 UTC · Rapid alert: Newswire album post
+- News 14 (voice Mei): festival tomorrow in Miami + score Dec 11 → TikTok 16:00, IG 16:10 UTC. Discord #announcements.

@@ -153,3 +153,8 @@ Checked = date we read the official page.
 - Official: nothing new. ESTIMATE (VGC citing Sensor Tower, Nov 20 09:42): ~24.58M copies day one, ~$2.36B, ~75% PS5 (~18.4M) vs ~6.15M Xbox; "Neither Rockstar nor Take-Two have officially confirmed". GTA V day one ~11.21M (Take-Two 2013). → news 13 ("estimate" on screen).
 - Press: Aurora PD (Colorado) post to "Vice City transplants" (no 6 stars, clothes won't lose the cops) via The Blast; Reddit life-moments (Cybernews, unverified); update 01.002.001 (602.5 MB PS5 / 1.59 GB Xbox, Beebom/RockstarINTEL, no notes); CNBC 125.5M hours watched (third-party).
 - Avoid: $1.5B/42M (unofficial), China approval (unverified), mission/hidden-package counts (SEO), Cyberleek build, endings/Mandy, anti-furry PSA (in-game TV + touchy), FandomWire delay joke, xQc reupload W7PmKFawMp4.
+
+## 2026-11-20 15:24 UTC: Rockstar Newswire "Grand Theft Auto VI: The Album Now Available" (VERIFIED)
+- Album with Atlantic Records "available everywhere now"; limited-edition vinyl and CD at gtavi-thealbum.com and select retailers; 34 original songs.
+- "Grand Theft Auto VI: The Festival on Saturday, November 21 at Mana Wynwood in Miami": Travis Scott, Cardi B, CA7RIEL & Paco Amoroso, Metro Boomin, Rauw Alejandro, Justice, Kodak Black, Fcukers.
+- "Original Score composed by Justice coming December 11" (now official).
