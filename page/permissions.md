@@ -84,3 +84,10 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - New guide sources: **DPJ** (1.1M subs, 6+ CC BY GTA VI guides, own gameplay), **Vandal** (Spanish games outlet, CC BY shorts; mute their VO). Use muted, credit on screen.
 - Rejected: ZeNoX Gaming (PUBG channel, "compilations", fake "DLSS 5" = not own/real), How to Everything ("play early / on PC" = scam topics), webcam channels CHOWH1, TbOne, Lambret77, Darius2L, Patife (some), WNK GTA VI (multi-hour streams), reviews/talk videos.
 - Official Rockstar downloads: only the 9 character clips zip (already have); trailers are YouTube-only (not downloadable).
+
+### Drive 2026-11-20 01:25 UTC: 5 new files (licence re-checked via API: all creativeCommon)
+- ✅ LunarGaming TPF8W1_mk7I "Vercetti Estate early" (1:44): clean own gameplay, no webcam → Leonida Daily #4 / long video.
+- ✅ Nippton -821VaDP-8w "Killed by a tiger" (0:28): clean, dark, ends in "wasted" → Leonida Daily #4 punchline.
+- ⚠️ Soiscool EMKaAuAczBQ "aliens kidnap Jason" (3:00, vertical): own "SCM" watermark ok, a promo card at ~0:15 (cut it), very dark; UFO beam ~1:00 usable. Mute FR voice. "Secret ahead" warning.
+- ⚠️ Vandal c7YtkCjSiLw "edge of the map" (0:46, vertical): Spanish one-word captions burned in on every shot; usable only as short B-roll (plane shot down at the edge), credit Vandal.
+- ❌ Higor-BMX EXs-eq0xmRA "stopped the train": webcam overlay the whole video + mission objective text → rejected, channel blocked.
