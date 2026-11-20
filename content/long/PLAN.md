@@ -21,7 +21,7 @@ Long (8–12 min):
 - "GTA 6: 12 Things the Game Never Tells You (No Spoilers)" (saves, outfits, trackers, bank, Pay 'n' Spray, RydeMe, meditation, WAiNK…)
 - "I Ranked Every 'What Happens If' in GTA 6" (747, cruise ship, Vercetti Estate, tiger, airboat, tank, edge of map)
 - "GTA 6's Map: Every Region Explained in 10 Minutes" (official shots + our pins)
-- "How to Get RICH Early in GTA 6 (Legit, No Glitches)" (derby, hunting, fences, DPJ footage when on Drive)
+- ✅ long02 "How to Get RICH Early in GTA 6 (Legit, No Glitches)" — Scout voice, 4:20, YouTube 2026-11-21 18:05 UTC + 2 Shorts (warehouse, tiger)
 Shorts:
 - "GTA 6 cops remember your OUTFIT 😳" ✅ · "NEVER close GTA 6 without doing THIS" ✅ · "FREE helicopter in your first hour" ✅ (scheduled Nov 20–22)
 - "This car only spawns at 3 AM in GTA 6" (Banshee, Capri) · "There's a Bigfoot in GTA 6 (here's where)" · "GTA 6 has meditation spots?!"

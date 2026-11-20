@@ -114,3 +114,8 @@
 
 ## 2026-11-20 09:00 UTC · Discord guide editor
 - #how-to-guides cash before bank + enterable buildings (VGC); #money-methods Hamlet loot warehouse (DPJ CC BY clip); #vehicles-and-weapons tiger sniper (DPJ CC BY clip); #easter-eggs why Bigfoot (Rob Nelson/Kotaku). content/discord/30–33. No extra research agent (newsroom + DPJ material on hand).
+
+## 2026-11-20 11:00 UTC · Daily long video (long02)
+- "How to Get RICH Early in GTA 6 (Legit, No Glitches)", voice Scout, 4:20, 61 lines; B-roll DPJ CC BY (Hamlet warehouse, tiger camp, Eclipse, revolver trunk) + LunarGaming + official shots (Vice_City_06/07 swapped out: sexualized). Thumbnail from DPJ frame.
+- YouTube 2026-11-21 18:05 UTC (cops Short moved to Nov 22 08:05). Shorts: warehouse (TT/IG Nov 21 14:00/14:10, YT Nov 22 22:05), tiger (TT/IG Nov 21 20:00/20:10, YT Nov 23 08:05).
+- Missing for 8+ min long videos: more permitted gameplay (DPJ hidden features, early weapons, stolen cars on order).
