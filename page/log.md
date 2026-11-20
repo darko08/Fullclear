@@ -134,3 +134,6 @@
 
 ## 2026-11-20 16:50 UTC · Newsroom run 17
 - Scouts A+C, B, E. No official news; nothing extra published (feed full). Ideas logged (first-person myth, DE-CIX record, police posts).
+
+## 2026-11-20 17:00 UTC · Discord guide editor
+- #vehicles-and-weapons spy-boat silenced pistol + Moses drop-offs; #easter-eggs UFO trophy (spoiler-tagged, no disputed code). From map run #4 research (no extra agent). content/discord/37–39.
