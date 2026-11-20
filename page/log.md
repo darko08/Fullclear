@@ -85,3 +85,8 @@
 - +15 pins (29 total; Push Square, PC Gamer, GamesRadar; own text, verified=false): Skunk Ape, paper mill, 3 meditation spots, periscope, Big Udder, citrus tower, Grayson Assembly, Badger tower, Tropic Dawn van, Infernus, Vitello, Banshee, Gauntlet Hellfire. 9 more → map-todo. Strip clubs skipped (brand). Playwright 29 markers, 0 errors; Netlify 6aff9ba9947fa58df50a9418 live.
 - Discord: #announcements map update, #easter-eggs Bigfoot, #vehicles-and-weapons Randy's cars, #collectibles meditation (content/discord/23–25). Guide editor used the map research (no second agent).
 - Clip hunter 00:56 skipped: YouTube search quota used up (resets 08:00 UTC). New daily wide sweep task 08:35 UTC (owner: be more independent).
+
+## 2026-11-20 01:45 UTC · Clickbait focus (owner's order)
+- Analysed 240 GTA 6 videos → page/CLICKBAIT.md (honest clickbait formulas, thumbnails, output mix). CLAUDE.md mandate updated.
+- 3 Shorts cut from long01: cops/outfit, never close without saving, free helicopter → TikTok/IG Nov 20 15:00/19:00/21:00 UTC; YouTube Nov 21 18:05, Nov 22 12:05 + 16:05.
+- Long-video clickbait queue in content/long/PLAN.md.

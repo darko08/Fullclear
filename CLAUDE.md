@@ -12,6 +12,7 @@ The owner (Darko) writes in Croatian/Serbian; **reply in Croatian**. Code, capti
 - Daily show **"Leonida Daily"**: funny moments and fails of players, told as a story by a host, from clips we are allowed to use.
 - **Be unique (owner's rule):** think differently from what any AI or GTA page would do by default. Before every post ask
   "could any other page post this exact thing today?" If yes, change the angle or drop it. Angles only we have: `page/GROWTH.md` → "Be unique".
+- **Clickbait focus (owner, 2026-11-20):** strong, specific titles/thumbnails (see `page/CLICKBAIT.md`) that the video honestly delivers, always teaching gamers something. Varied formats daily: max 1 long (8–12 min) + 2–3 Shorts on YouTube, 3–5 Shorts on TikTok/IG. Keep finding new channels/clips and ideas without being asked.
 - **Never only talking heads (owner, 2026-11-18):** every podcast/host video shows in-game material behind the talk
   (official Rockstar screenshots/clips unmodified + "© Rockstar Games", or permitted gameplay, credited), matched to what is being said. `tools/podcast.py` does this via `broll`.
 
