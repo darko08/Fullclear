@@ -101,3 +101,7 @@
 ## 2026-11-20 05:40 UTC · Voice-only hosts (owner: characters look fake)
 - tools/brand.py SHOW_HOSTS=False; news_short, howto_short, list_short, daily_story, podcast: no crew images/loops, "Voice: <host>" text, bigger B-roll panel in podcast.py. Long01 thumbnail remade without Dev (pink circle on the jet).
 - Re-rendered and replaced all 20 queued Full Clear video posts (LD1–3, news 09–11, SSD how-to, Keys & Neon #2 clip, long01 + 3 Shorts). Deleted 2 queued X posts (X suspended). Did not touch the non-Full-Clear IG posts.
+
+## 2026-11-20 07:15 UTC · Map editor run #3
+- +14 pins (44 total): 2 from DPJ CC BY guides (Hamlet loot warehouse, tiger sniper camp; read off DPJ's in-game map, approximate) + 12 from Push Square/PowerPyx (WAiNK sculptures/curiosities, orchard, Red Rocks meditation, King Gator golf). 3 + leads → map-todo. Playwright 44 markers, 0 errors; Netlify 6affef7479fb1b9bca0a9272. Discord #announcements posted.
+- Clip hunter 06:55 skipped (YouTube quota, resets 08:00 UTC).

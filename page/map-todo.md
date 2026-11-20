@@ -21,3 +21,10 @@ Updated 2026-11-19 19:10 UTC by map editor.
 - Seaside meditation (rocks east of Waning Sands), Waterfall meditation (East Lummox, east of Killtelligence Provisions) (Push Square)
 - Ultimate Edition shops: One-Eyed Willie's (Lake Leonida), Rideout Customs (Crosstown) (Shacknews)
 - Not found in reputable sources (don't pin): Eclipse "Paul Walker" car, tiger-guarded sniper, UFO.
+
+## Added 2026-11-20 07:10 UTC (map editor run #3)
+- Triangler fish monument — in the water off Corsair Key, Mariana County (name not on official map) (Push Square)
+- Big Entrance stairwell message — Dalton Island, stairs beside the golden sculpture (not on official map) (Push Square)
+- Worn Stone meditation — Emerald River bank at Camp Moonflower (PowerPyx, unverified)
+- Leads (PowerPyx only): Jutting Cliff meditation (Kalaga mine tower), Dino Golf (Frogswater), Frontier Adventure Golf (Waning Sands), Leaf Links golf, Imperial Spanish Ruins (Moreau), arcade outside Bargain World (Port Gellhorn); stunt jumps Saltrock Bridge W/E, Key Lento Bridge.
+- Tip: Index → Vehicles → Pay 'n' Spray lists found shops by distance; can't respray in view of police (GamesRadar).

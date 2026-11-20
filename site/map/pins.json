@@ -353,6 +353,138 @@
    "how": "Let the fight end, watch for men arriving by car, grab the sniper and store it in your own car's trunk (register the car) so you don't lose it. Police may show up: leave fast. Approximate spot.",
    "source": "DPJ gameplay guide (CC BY)",
    "verified": false
+  },
+  {
+   "id": "g-oil-sculpture",
+   "category": "Collectible",
+   "location": "\"Gimme All Your Oil\" sculpture (Vice City)",
+   "x": 731,
+   "y": 562,
+   "description": "Sculpture on Catalan Blvd, a little southeast of the Blanc & Giroux jewellery store. Position approximate.",
+   "how": "Scan it with WAiNK (sculptures collection).",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-fatal-plaque",
+   "category": "Collectible",
+   "location": "Fatal Incursion Plaque (Key Lento)",
+   "x": 507,
+   "y": 133,
+   "description": "Plaque at the southwest tip of Key Lento, just off the Sunbelt Hwy, west of the Barnacle Beauties salon.",
+   "how": "Scan it with WAiNK.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-large-lure",
+   "category": "Collectible",
+   "location": "Large Lure sculpture (Ocean Beach)",
+   "x": 859,
+   "y": 474,
+   "description": "A giant fishing lure in the park on Thompson Ave, straight south of Lucciano's restaurant.",
+   "how": "Scan it with WAiNK.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-neptune",
+   "category": "Collectible",
+   "location": "Neptune Rises sculpture (Washington Beach)",
+   "x": 863,
+   "y": 550,
+   "description": "Under the southern bridge to Flamingo Island, on Dominoe St.",
+   "how": "Walk under the bridge and scan the sea god.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-smiley-stack",
+   "category": "Collectible",
+   "location": "Smiley stack at the Vice Museum of Art",
+   "x": 865,
+   "y": 535,
+   "description": "A tower of smiley faces outside the museum in southern Washington Beach, visible from Atlantic Ave.",
+   "how": "Scan the artwork with WAiNK.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-pixel-fountain",
+   "category": "Collectible",
+   "location": "Pixel Fountain (Downtown Vice City)",
+   "x": 707,
+   "y": 469,
+   "description": "Pixel-art fountain on Catalan Blvd, just west of the Tequesta Retreat. Position approximate.",
+   "how": "Scan it with WAiNK.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-supremacy-monument",
+   "category": "Collectible",
+   "location": "Monument of Leonidan Supremacy (Manifest Canyon)",
+   "x": 373,
+   "y": 703,
+   "description": "In northern Manifest Canyon, a short way west of SR-73, north of Port Gellhorn.",
+   "how": "Leave the highway and scan the monument.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-christmas-house",
+   "category": "Easter egg",
+   "location": "The Christmas House (Key Lento)",
+   "x": 564,
+   "y": 173,
+   "description": "A house on Sunset Dr covered in Christmas lights, whatever the season.",
+   "how": "Scan it with WAiNK (curiosities).",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-plunge-mural",
+   "category": "Easter egg",
+   "location": "Plunge Masters dive shop mural (Key Lento)",
+   "x": 574,
+   "y": 170,
+   "description": "Mural on the back wall of the Plunge Masters dive centre, Sunset Dr.",
+   "how": "Walk behind the shop and scan it.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-scrumpy-orchard",
+   "category": "Collectible",
+   "location": "Father Scrumpy's Red Apple Orchard",
+   "x": 349,
+   "y": 708,
+   "description": "Orchard in Kelly County, north of the Rodgers Ranch shooting range.",
+   "how": "Scan the main building with WAiNK (landmarks).",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-red-rocks",
+   "category": "Side activity",
+   "location": "Red Rocks meditation spot (approximate)",
+   "x": 385,
+   "y": 696,
+   "description": "Manifest Canyon, near where the railway crosses the highway.",
+   "how": "Find the mat and candles; meditate with both Jason and Lucia (each counts).",
+   "source": "PowerPyx (unverified) + Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-king-gator-golf",
+   "category": "Side activity",
+   "location": "King Gator Adventure Golf (Buckskin Swamp)",
+   "x": 473,
+   "y": 524,
+   "description": "Gator-themed mini golf course at Buckskin Swamp.",
+   "how": "Play a round: mini golf counts toward 100%.",
+   "source": "PowerPyx (unverified)",
+   "verified": false
   }
  ]
 }
