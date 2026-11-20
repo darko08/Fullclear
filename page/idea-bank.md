@@ -157,3 +157,10 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - **Wallpapers carousel** linking Rockstar's official page (not re-hosted).
 - **B-roll:** download official "Out Now" video (GTAVI_Videos.zip) for next news shorts.
 - **Keys & Neon #3:** Fort Stewart soldiers re-enlist for a GTA weekend, Pocketpair "business trip", footballers at midnight, 125M hours watched (tracker), Weird Al.
+
+## From run 13 (2026-11-20 00:50 UTC)
+- **Album out (08:10 UTC check, scheduled):** news short + Discord with official cover art.
+- **Myth or Fact short/long:** "Is there online?" (Rockstar: single-player experience; GTA Online continues), "Too early" error, PS5 vs Pro (official specs only).
+- **HOW TO keep stolen cars** (Pay 'n' Spray registration, Push Square/Kotaku) + DPJ --mU3IJVZ6I clip once on Drive.
+- **POV skit format** (winning on Shorts): crew character skit "POV: GTA 6 just came out and your boss said yes" (NBC diary angle), our own animation, no streamer footage.
+- **Keys & Neon #3**: Fort Stewart soldiers, KC dad + son, NBC workday diary, actors confirm Jason/Lucia, Tyreek Hill "Maleek Rivers" (his claim), Pocketpair.

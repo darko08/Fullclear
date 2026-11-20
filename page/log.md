@@ -75,3 +75,8 @@
 - YouTube 2026-11-20 17:05 UTC; news 07's YouTube slot (stale) deleted to make room (4/day quota).
 - New tools/split_vo.py (1 voice call → sentence lines). podcast.py fixes: B-roll drift (short clips + frame rounding), per-episode cast/label, talking loop for crew in cast.
 - Reddit: blocks datacenter IPs (403 from Reddit itself); owner asked how to give access → official API app (client id/secret via secure form).
+
+## 2026-11-20 00:50 UTC · Newsroom run 13
+- Scouts A, B, C, E (D skipped: wide CC sweep 00:40). Official: nothing new from Rockstar. Verified on 2K's site: GTA+ → NBA 2K27 free Nov 27–Jan 15.
+- News 10 (Scout): GTA+ gets NBA 2K27 → TikTok 12:00, IG 12:30 UTC Nov 20 (YouTube full). Discord #announcements posted.
+- Album: Apple says 08:00 UTC → check scheduled 08:10 UTC (send_later).

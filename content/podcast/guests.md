@@ -22,3 +22,4 @@
 - Patty Nieberg (Task & Purpose): outlet contact page; soldiers via Fort Stewart public affairs only.
 - Typical Gamer (100% marathon): YouTube About business email.
 - Streams Charts (analytics): press contact.
+- Chelsea Stahl (NBC News, workday diary): NBC press contact (never contact without owner's OK).

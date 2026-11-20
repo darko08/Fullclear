@@ -40,3 +40,9 @@
 - Streams Charts final day 1: 125.47M hours, 7.91M peak, IShowSpeed most watched (tracker). https://streamscharts.com/news/gta-6-day1-recap
 - Accessibility: Laura Kate Dale confirms menu narration, cutscene audio description, high contrast; no colour customisation (Kotaku live blog).
 - Weird Al co-hosts Vice City FM (Kotaku, confirmed with Rockstar).
+
+## Run 13 (2026-11-20 00:50 UTC)
+- Dylan Rourke + Manni L. Perez confirm they are Jason/Lucia (joint IG, "See y'all in Leonida"). https://comicbook.com/gaming/news/gta-6-jason-and-lucia-actors-break-silence-celebrate-release/
+- Tyreek Hill says he voices/likeness "Maleek Rivers" (Vice City Manatees WR) — his claim. https://bleacherreport.com/articles/25535476
+- NBC's Chelsea Stahl played a whole workday with her boss's OK (drywall, boat theft, shark, impound). https://www.nbcnews.com/pop-culture/pop-culture-news/gta-6-play-by-play-work-first-three-hours-rcna610208
+- Kansas City dad Cameron Logan Cox took PTO, 3 screens, plays with his son; postal clerk booked leave in March. https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/
