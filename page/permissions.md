@@ -118,3 +118,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-20 15:56 UTC: 1 passed
 - ✅ LunarGaming k_fpkdNaH_0 (steal/keep any car, trackers). ❌ Bisma Punya, Tiny Tales, PSKShadowX (cropped reposts), Jawn__TV, Lazt, VICE CITY TV (webcams), Ftug (no-copyright channel, unclear owner), N-vincible (cropped, unclear) → blocked.
+
+### Drive 2026-11-20 17:24 UTC: 2 files (API: creativeCommon)
+- ✅ DPJ 6NuvCYycfJ8 "9 early game secrets" (9:39): clean own gameplay (DPJ logo), weapons/cash spots → long video "secret weapons & cash early" + map pins.
+- ✅ LunarGaming k_fpkdNaH_0 "steal or keep any car, remove trackers" (7:14): clean; contains Randy side-job objective text + LunarGaming's own caption at ~5:30 → blur objective text in clips. → HOW TO short "keep any car" + Discord.
