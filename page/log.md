@@ -97,3 +97,7 @@
 ## 2026-11-20 05:10 UTC · Discord guide editor
 - Used DPJ CC BY guides from Drive (transcribed with Whisper, no extra research agent): #vehicles-and-weapons "Fast & Furious" car (garage clip, register with Moses ~$6,500+) and Donnie's .38 revolver (clip, mission text blurred, steps in spoiler tags). content/discord/27–28, videos/discord/eclipse-garage.mp4, donnie-revolver.mp4.
 - Map: +1 pin g-eclipse (approximate, from DPJ's in-game map) → 30 pins, deployed.
+
+## 2026-11-20 05:40 UTC · Voice-only hosts (owner: characters look fake)
+- tools/brand.py SHOW_HOSTS=False; news_short, howto_short, list_short, daily_story, podcast: no crew images/loops, "Voice: <host>" text, bigger B-roll panel in podcast.py. Long01 thumbnail remade without Dev (pink circle on the jet).
+- Re-rendered and replaced all 20 queued Full Clear video posts (LD1–3, news 09–11, SSD how-to, Keys & Neon #2 clip, long01 + 3 Shorts). Deleted 2 queued X posts (X suspended). Did not touch the non-Full-Clear IG posts.
