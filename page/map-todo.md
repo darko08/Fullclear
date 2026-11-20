@@ -37,3 +37,16 @@ Updated 2026-11-19 19:10 UTC by map editor.
 - Jutting Cliff meditation — ledge by a tower overlooking a mine, Mount Kalaga NP (PowerPyx)
 - Shops: Trader's Union (Port Gellhorn), Moses' shop (Orchard Ave)
 - Not found anywhere reputable: "Abandoned Research" jetski (LunarGaming video on order will show it)
+
+## Added 2026-11-20 19:00 UTC (map editor run #5): 8 pins in pins.json, NOT LIVE (Netlify: "Account credit usage exceeded", deploy blocked → owner decision)
+Pinned: Exotic Animals Front (verified: GamesRadar + Shacknews), Backyard Wrestling (Hamlet), The Vault radio poster, Chuck's Tackle & Shot masks, Thicc Herbie blimp (Maroon Key), Key Lento scan cars, Belpoint Strait treasure dive, Permit Keys beach party.
+To place later (location too vague / conflicting):
+- Junkyard T-Rex sculpture — Sassafrass Rd, north of Kalaga Reservoir, east of Bret's hunting cabin (Push Square)
+- Gellhorn Fun Fair ferris wheel — Shore Dr, Port Gellhorn, north of Oyster Point Gas Stop (Push Square)
+- Hoffman Observatory — hill over Vice City, North Kelly County (sources conflict)
+- Southside medical centre roof helicopter (TheGamer + Push Square; district unknown); private planes in driveways above Bellville at night (TheGamer)
+- Bobcat Dive Site (6 Kenton's Treasures) + Bobcat Key Experimental Home — Bobcat Key position unclear (Push Square)
+- The Ratster card #19 — top of the big lookout tower, Buckskin Swamp (Push Square)
+- Dexter's apartment easter egg — Washington Island, Vice Beach (GamesRadar quoting fans; unverified)
+- Kingpin bowling safe 0300 (seems tied to mission progress, skip for now); No Flusher tags Shore Dr Ocean Beach; 11:59 magazine on lookout near Dawson Dam
+- Skipped on purpose: strip-club dancer cards, drug labs.

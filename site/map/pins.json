@@ -595,6 +595,94 @@
    "how": "Play a round for the mini golf checklist.",
    "source": "PowerPyx (unverified)",
    "verified": false
+  },
+  {
+   "id": "g-exotic-front",
+   "category": "Money method",
+   "location": "Exotic Animals Front, behind Three Sheets Liquor (Key Lento, approximate)",
+   "x": 556,
+   "y": 163,
+   "description": "A guarded walled yard where birds are smuggled. One of the parrots in a cage gives you a hint about hidden cash.",
+   "how": "Climb the fence, deal with or sneak past the guards, talk to the parrot, then look in the vent beside the generator for roughly $1.2k.",
+   "source": "GamesRadar + Shacknews",
+   "verified": true
+  },
+  {
+   "id": "g-backyard-wrestling",
+   "category": "Side activity",
+   "location": "Backyard Wrestling ring (Hamlet, approximate)",
+   "x": 589,
+   "y": 322,
+   "description": "A wrestling ring in someone's backyard. Your opponent goes by Gentrifier.",
+   "how": "Knock on the trailer door twice to start the fight. Win it and you can loot the trailer (Luchador Mask and cash), then look on the bleachers for a collectible card.",
+   "source": "Shacknews (house shown on their map only)",
+   "verified": false
+  },
+  {
+   "id": "g-vault-radio",
+   "category": "Easter egg",
+   "location": "The Vault nightclub, between Crosstown and Downtown (approximate)",
+   "x": 705,
+   "y": 492,
+   "description": "Scanning a poster inside this club unlocks a hidden EDM radio station.",
+   "how": "Head up the stairs inside. Next to the ATM is a poster of a gas mask covered in flowers: scan it with WAiNK.",
+   "source": "Shacknews (PowerPyx describes it differently)",
+   "verified": false
+  },
+  {
+   "id": "g-chucks-tackle",
+   "category": "Weapon",
+   "location": "Chuck's Tackle & Shot (Key Lento, near Jason's house, approximate)",
+   "x": 559,
+   "y": 167,
+   "description": "This gun and tackle shop sells neckwear masks, which make it harder for police to recognise you.",
+   "how": "Go in, then right and left. Masks are on the Neckwear shelf. Once bought, pick Wear Style 1 so the mask covers your face.",
+   "source": "PC Gamer",
+   "verified": false
+  },
+  {
+   "id": "g-thicc-blimp",
+   "category": "Hidden location",
+   "location": "Thicc Herbie blimp, moored on Maroon Key",
+   "x": 450,
+   "y": 140,
+   "description": "An advertising blimp tied down on a small island.",
+   "how": "Scan it with WAiNK. Push Square says the best angle is from the viewpoint at the north-west end of Abismo Key.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-lento-cars",
+   "category": "Vehicle",
+   "location": "One-off cars to scan in Key Lento (approximate)",
+   "x": 565,
+   "y": 176,
+   "description": "Key Lento has a few unusual parked cars you can scan with WAiNK and then take.",
+   "how": "Nagasaki Rudolph Tao: by the Christmas-lit corner of Sunset Dr and Laguna Dr. Vapid Shifter: outside Shrimp & Save. Declasse Akane: outside Cousin Carlo's.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-belpoint-strait",
+   "category": "Collectible",
+   "location": "Belpoint Strait treasure dive (approximate)",
+   "x": 208,
+   "y": 420,
+   "description": "A deep dive with no wreck, but 5 of Kenton's Treasures lie on the bottom and they sell well.",
+   "how": "Dive just off Belpoint's southern tip, on the Bobcat Bight side. These treasures don't count as Underwater Discoveries.",
+   "source": "Push Square",
+   "verified": false
+  },
+  {
+   "id": "g-beach-party",
+   "category": "Hidden location",
+   "location": "Beach party, Permit Keys (approximate)",
+   "x": 372,
+   "y": 172,
+   "description": "Partygoers hang out around a wooden hut on one of the Permit Keys.",
+   "how": "Find the island with the big green area at the top of the group, then scan the hut that has the orange Fizzazz sign.",
+   "source": "Push Square",
+   "verified": false
   }
  ]
 }

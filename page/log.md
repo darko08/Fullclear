@@ -142,3 +142,6 @@
 - "3 players who should NOT have done that": Vercetti Estate motorbike (LunarGaming), tiger (Nippton Games), fighter jets at map edge (Vandal); all CC BY, credited on screen. Voice only (no host image).
 - Scheduled: TikTok 23:15, IG 23:25 UTC today; YouTube Nov 23 12:05 UTC. No X.
 - daily_story.py: outro credits now one per line (long credit list was cut off).
+
+## 2026-11-20 19:00 UTC: map editor run #5
+- +8 pins (62 total), Playwright: markers render, 0 errors. Deploy FAILED: Netlify 403 "Account credit usage exceeded - new deploys are blocked until credits are added". Needs owner (money). Discord announcement held until the pins are live.
