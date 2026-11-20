@@ -115,3 +115,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-20 12:56 UTC: 0 passed
 - MrBeast/Nolan stream reuploads (Anjaan clipper, GowthMode), SPEED6ix (reupload of LunarGaming Vercetti video), Gods of Garena (webcam), LIGHTNING SHORTS/MutatedWorm/Tomatolist (cropped reposts, unclear owner) → blocked; titles with mrbeast/nolan blocked.
+
+### Clip hunt 2026-11-20 15:56 UTC: 1 passed
+- ✅ LunarGaming k_fpkdNaH_0 (steal/keep any car, trackers). ❌ Bisma Punya, Tiny Tales, PSKShadowX (cropped reposts), Jawn__TV, Lazt, VICE CITY TV (webcams), Ftug (no-copyright channel, unclear owner), N-vincible (cropped, unclear) → blocked.
