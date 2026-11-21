@@ -141,3 +141,9 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Clip hunt 2026-11-21 03:55 UTC
 - Pass: LunarGaming 4nT4phngbkU (Infernus for Randy, no police).
 - Reject + block: Circle Of Chaos (sexualized thumbnail), d1minish (meme, not gameplay), Death gaming (not GTA), GTA 6 | Конкурс (webcam). Skip tirilongame (unclear).
+
+### 2026-11-21 05:15 UTC: new CC BY source JayWayyGaming (UC2u04hrt9sUTwaHUWlVPdKA)
+- 109k subs, channel since 2011; all uploads since Nov 16 CC BY (API), clean own gameplay, no webcam (thumbnail + preview frames). Added to TRUSTED. Re-check licence per video; credit "JayWayyGaming (CC BY)".
+- Sent: T8FzQ5cW-94, CH1uuheSan8, u5h2l6SKsCc, 7yu3-BSOA9A.
+- Not sent: Vandal 5oy7Euknn-4 (first-person workaround → our first-person drop rule), Gator Logic Bjd-SdHFgpM (new 5-sub channel, ownership unproven).
+- Blocked: Road Rage, NDX GAMING HINDI, T-J-W, ikmieLife, GreedZz, KING INDY, AlimSangat, NextUpTayy, SKizzle.
