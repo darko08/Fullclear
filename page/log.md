@@ -181,3 +181,10 @@
 
 ## 2026-11-21 09:00 UTC: Discord guide editor
 - #vehicles-and-weapons: container hot rod (Caliente Picador; LunarGaming CC BY clip). Skipped: fishing/BBQ clips (story-mission dialogue), Swamp Blaster + Infernus clips (no narration, location unclear). Newsroom run 21 already posted leaker plea.
+
+## 2026-11-21 10:45 UTC: daily long video (long03)
+- "11 Secret Weapons & Cars You Can Get EARLY in GTA 6 (No Spoilers)", host Mei (Lara), 3:50, 54 lines, B-roll DPJ + LunarGaming CC BY + official shots, chapters + credits in description, thumbnail from LunarGaming CC BY frame (container hot rod).
+- YouTube Nov 22 16:05 UTC (heli short moved to Nov 23 20:05). Shorts: hot rod (TT 22:30 / IG 23:15 today), bunker (Nov 22 10:00/10:10), Donnie revolver (Nov 22 19:00/19:10). No X.
+- Shorter than 8 min target: material supports ~4 min honestly; next long video needs more Drive guides (JayWayy, Stedz beginner guide, HadesPlays 8 secrets).
+- split_vo.py now merges sentences whose boundary can't be aligned instead of failing. .wav/.mask.png render files git-ignored.
+- Fact: Caliente Picador = '72 Declasse Picador, "found at an old trainyard in North Mariana County" (in-game vehicle card, LunarGaming footage).
