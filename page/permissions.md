@@ -129,3 +129,8 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Clip hunt 2026-11-20 21:55 UTC
 - Pass: LunarGaming uEb1_rhWjmI (CC BY, trusted). Also sent from scout D run 18: Soiscool lK6nhxV9zvg, A6ZOyBcRDB8, Khhx5a2iA_c; DPJ moYc23U6RWI (all CC BY via API).
 - Skip (not blocked): Chiefie r1nnJ_P2SMc (official art + sexualized thumbnail, content unknown), Bon -V-hTG9i_z4 (0 views, unclear).
+
+### Drive 2026-11-21 00:24 UTC: 5 new files, all USABLE (CC BY re-checked via API, frames clean, no webcam)
+- Soiscool Mec lK6nhxV9zvg (flip car by hand), A6ZOyBcRDB8 (AFK autopilot), Khhx5a2iA_c (secret egg + tower; FR subtitles burned in, NPC phone UI): SCM watermark, cut the "FULL VIDEO" end card, mute FR voice. Credit "Soiscool Mec (CC BY)".
+- DPJ moYc23U6RWI (new best settings): B-roll for settings how-to. Credit "DPJ (CC BY)".
+- LunarGaming uEb1_rhWjmI (Wyman's 5 classic cars, map UI + driving): long03 / map pins / #vehicles-and-weapons. Credit "LunarGaming (CC BY)". Check Wyman spoiler status before use.

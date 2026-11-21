@@ -196,3 +196,4 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - HOW TO: save like this (manual slots before every mission, no replay menu reported by several outlets; verify), cash on death → stash/bank (update existing cash how-to).
 - Route series: GamingBible drove Key Lento → Bonanza in ~10 min (cite as time to beat; race our own route with permitted footage).
 - Long03 add: LunarGaming uEb1_rhWjmI Wyman's 5 classic cars + parts (check spoiler status of Wyman).
+- Plan (Nov 21): Leonida Daily #5 "lazy player" story: autopilot (A6ZOyBcRDB8) + flipping a car by hand (lK6nhxV9zvg) + tower climb (Khhx5a2iA_c). Short how-to "flip your car without help". long03 adds Wyman cars (uEb1_rhWjmI).
