@@ -34,3 +34,4 @@
 - Ocala Speedway owner (track website contact); Bobby Pierce (X @BobbyPierce32).
 - TBT reporters Max Chesnes, Jack Prator (tampabay.com newsroom contact).
 - Run 19: Dave Shealy (Skunk Ape HQ, public business contact); The Clevelander / Jermaine Jordan (venue contact); Rebekah Valentine (Kotaku author page). Never contact without owner's OK.
+- Run 22: Victor Dima (blind gaming journalist; victordima.net contact page, Bluesky @victordimanet.bsky.social). Rupa Biswas only via verified management. Never contact without owner's OK.

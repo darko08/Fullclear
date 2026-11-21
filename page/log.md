@@ -191,3 +191,6 @@
 
 ## 2026-11-21 12:55 UTC: map editor run #8 (paused)
 - Netlify still 403 (credits). No research; 8 pins waiting.
+
+## 2026-11-21 13:00 UTC: newsroom run 22
+- No official news. Discord #announcements: safe official wallpapers/screenshots post. New clip sent: LunarGaming bNqea0o7q5Q (Cold War bunker codes).

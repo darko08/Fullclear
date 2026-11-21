@@ -92,3 +92,9 @@
 - Photo mode as "cinematography simulator" (TechRadar, filmmaker Patrick Tomasso) → DOP guest idea; identity/handles unverified; never use his images without permission.
 - UK school minibus for absent pupils (Dexerto citing ITV; check ITV). No names/faces of minors.
 - GTA contracts + weddings this weekend (Pedestrian, Yahoo): trend only, private couples anonymous.
+
+## Run 22 (Nov 21)
+- Rupa Biswas' 1982 Bengali disco track "Aaj Shanibar" rediscovered via GTA VI (Eastern Eye, India TV) — verify on in-game Worldwide FM; never play the audio.
+- "Cool Dog" on a jet ski vs Fort Lauderdale's Loosy (Axios, GameSpot) — "fans think", no viral clip without permission.
+- Biggest launch streams weren't English: Windah Basudara, HoneyMad (Streams Charts; numbers conflict — check source, say "peak concurrent").
+- Can a blind player finish GTA VI alone? (Double Tap; Victor Dima; Rockstar's Ben Baylis quote via The Outer Haven).
