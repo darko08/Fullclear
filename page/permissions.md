@@ -147,3 +147,8 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - Sent: T8FzQ5cW-94, CH1uuheSan8, u5h2l6SKsCc, 7yu3-BSOA9A.
 - Not sent: Vandal 5oy7Euknn-4 (first-person workaround → our first-person drop rule), Gator Logic Bjd-SdHFgpM (new 5-sub channel, ownership unproven).
 - Blocked: Road Rage, NDX GAMING HINDI, T-J-W, ikmieLife, GreedZz, KING INDY, AlimSangat, NextUpTayy, SKizzle.
+
+### Drive 2026-11-21 05:24 UTC: 6 new files, all USABLE (CC BY re-checked, frames clean, no webcam)
+- LunarGaming 4nT4phngbkU (Infernus for Randy, no police), lH41IxkBYNc (container secret → Caliente Picador hot rod; bulldozer).
+- Nippton Games FD7cXj-Ku8k (blocking highway traffic: pile-ups), 9UdN8AJmi0Q (custom Swamp Blaster), TPbh5aHLe5g (Welldone BBQ burgers), uoXsBoG2G6E (fishing how-to).
+- Plan: Leonida Daily "traffic jam" story (FD7cXj); Discord: container hot rod + Swamp Blaster (#vehicles), fishing (#how-to), BBQ ("things nobody tells you").

@@ -169,3 +169,6 @@
 
 ## 2026-11-21 05:00 UTC: Discord guide editor
 - #vehicles-and-weapons: Wyman classic cars (LunarGaming CC BY clip, facts from his narration, Special/Ultimate content, no story detail). Newsroom run 20 already posted Kodak station; no research agent (sources just covered).
+
+## 2026-11-21 05:25 UTC: rapid alert
+- No official change. Drive: 6 new CC BY clips logged as usable (see permissions.md).
