@@ -152,3 +152,8 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - LunarGaming 4nT4phngbkU (Infernus for Randy, no police), lH41IxkBYNc (container secret → Caliente Picador hot rod; bulldozer).
 - Nippton Games FD7cXj-Ku8k (blocking highway traffic: pile-ups), 9UdN8AJmi0Q (custom Swamp Blaster), TPbh5aHLe5g (Welldone BBQ burgers), uoXsBoG2G6E (fishing how-to).
 - Plan: Leonida Daily "traffic jam" story (FD7cXj); Discord: container hot rod + Swamp Blaster (#vehicles), fishing (#how-to), BBQ ("things nobody tells you").
+
+### Daily sweep 2026-11-21 08:40 UTC
+- Sent 10 (CC BY via API in sweep): neBUklC35G0, 8esgkpxpJbU, dEtRIciPVU8, ie5CQKJY1uE, kXvhUYkkTRQ, BS06tBxHdfo, b7pul5iok8k, pEVP01uBBV8, qRer4qUiPI8, YYPz0axzH_A. Frames to check on Drive.
+- Blocked: BambiSelect, VICE CITY SHORTS, Max Vianna (webcam), Redline Pulse (AI thumb), Hermano Gamer (money glitch), Canadian Stunt Actor stream.
+- Note: cc_sweep ran twice by mistake (~12 searches) — run once only.
