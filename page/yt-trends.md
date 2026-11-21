@@ -1,4 +1,4 @@
-# YouTube trends: "GTA 6", last 4 h (generated 2026-11-21 08:48 UTC)
+# YouTube trends: "GTA 6", last 4 h (generated 2026-11-21 12:49 UTC)
 
 Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative Commons licence (candidate for our clips, check for overlays).
 
@@ -6,42 +6,39 @@ Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative C
 
 | Views | Ratio | Len | Title | Channel | CC |
 |---:|---:|---:|---|---|---|
-| 526,118 | 0.1 | 153s | [Can My Brother Enter the GTA 6 Military Base ? 😱](https://youtu.be/MNC72z0cPak) | Scalpo |  |
-| 133,077 | 0.1 | 117s | [I Tried To Destroy Tallest Building of GTA 6 & GTA 5!](https://youtu.be/qrdGfejfPPk) | FANTIZ GAMING |  |
-| 107,619 | 0.0 | 998s | [[GTA 6] บูมซ่าตาลีบันกลับมาแล้ว  1#](https://youtu.be/IOWmYKdbSsU) | OPZ TV |  |
-| 89,048 | 0.4 | 808s | [I Busted 20 Myths In GTA 6..](https://youtu.be/lKUWrfgq0PY) | FoltynGaming |  |
-| 75,410 | 0.0 | 0s | [Long Stream Chill And Explore ! - Grand Theft Auto VI Part 4](https://youtu.be/6Vri7DuyVW4) | Afif Yulistian |  |
-| 72,924 | 0.0 | 36s | [Otros 5 DETALLES ALUCINANTES de GTA 6 🔥 #gta6 #detallesalucinantes](https://youtu.be/Lz0Zhfr74yg) | Vandal | CC |
-| 66,890 | 0.0 | 0s | [This little GTA6 game is kinda neat](https://youtu.be/MX78Ebu-3ag) | Maximilian Dood |  |
-| 38,271 | 0.0 | 586s | [MI NOVIA ME REGALÓ EL NUEVO GTA 6 ](https://youtu.be/Hnz8SDy41Ls) | eldhebor |  |
-| 37,814 | 0.0 | 699s | [FINALLY  AFTER 4 YEARS PS5 STARTS | PLAYING GTA 6](https://youtu.be/NZ1VRULSy9c) | Mumbiker Nikhil |  |
-| 32,049 | 0.0 | 0s | [GTA 6 MARATHON DAY 3](https://youtu.be/6MvZUbYzLEI) | Lacy  |  |
-| 27,053 | 0.0 | 0s | [🚘 DAY 3 GTA VI MARATHON 🚔 GIVING AWAY GAME CODES EVERY HOUR 🚔 !RedBull !AT&T !Al](https://youtu.be/ILaMI9V5zlw) | Ludwig |  |
-| 25,512 | 0.1 | 0s | [Live! UNTIL FINISHING GTA 6](https://youtu.be/FdokGC3lNW4) | GrooT R6 |  |
-| 21,747 | 0.0 | 30s | [GTA 6 on PS5 Pro vs Xbox Series S](https://youtu.be/YM1f69J8MYM) | Linus Tech Tips |  |
-| 21,406 | 0.0 | 119s | [I Am the Best Jet Pilot in GTA 6](https://youtu.be/RRcsAACH8Rs) | Typical Gamer |  |
-| 19,590 | 0.0 | 1056s | [Megszegtem Minden Törvényt a GTA 6-ban!](https://youtu.be/8bl3GAYf-Eo) | Alex Csigér |  |
-| 18,588 | 0.0 | 1049s | [The FUNNIEST GTA 6 Memes](https://youtu.be/p_59R4ia-a8) | Socks Live  |  |
-| 16,924 | 0.1 | 875s | [《GTA 6》評價兩極化！自由度竟然還不如前作？【Asmongold中文】](https://youtu.be/aY_wPrNLBEc) | 喵耳電波 |  |
-| 16,827 | 0.1 | 34s | [I show speed Heartbreaking Ending GTA 6.😭💔 #speed #gta6](https://youtu.be/8vxnVMTvs0s) | Football Whispers |  |
-| 15,839 | 0.1 | 756s | [현장감 미쳤습니다... GTA 6 강도질 수준 ㄷㄷ](https://youtu.be/cR6xeyCONrI) | 시온 |  |
-| 14,892 | 1.3 | 16s | [Jason & Lucia Reunited ❤️ | GTA 6](https://youtu.be/szsO053tH1I) | EpicPortal5 |  |
-| 13,937 | 0.0 | 54s | [Let’s Sneak into the Control Tower (GTA 6)](https://youtu.be/T_lGERNz8u4) | Typical Gamer |  |
-| 13,845 | 0.1 | 16s | ["GTA 6 is a story game" 😭🙏 #lospollostv #fyp #foryou #foryoupage #streamer #clip](https://youtu.be/_B7qexy4sos) | LosPollosTv |  |
-| 13,441 | 6.8 | 14s | [IShowSpeed Finds Himself In GTA 6! 😭](https://youtu.be/mp1yWpLO6jQ) | Vessl |  |
-| 12,788 | 0.0 | 76s | [How UFC CHANGED From GTA 5 to GTA 6 #shorts](https://youtu.be/Rm9J4JQ72lE) | MMA DOST |  |
-| 12,524 | 0.0 | 1177s | [Попали в GTA6 в Реальной Жизни !](https://youtu.be/Wj-Pnoia_XQ) | Морковь PRO |  |
+| 192,850 | 0.0 | 1069s | [The GTA 6 backlash is getting out of hand..](https://youtu.be/4RqYHJmmmuw) | Asmongold TV   |  |
+| 158,467 | 0.0 | 0s | [GTA VI MENUJU 100% KATANYA ADA UFO.... Grand Theft Auto VI GAMEPLAY #5](https://youtu.be/lF_QYSm2T-Q) | Windah Basudara |  |
+| 112,023 | 0.2 | 59s | [帮她选吗？#GTA #GTA6 #shorts](https://youtu.be/cygclVNh43Y) | GTA6 |  |
+| 88,389 | 0.1 | 1147s | [こいつに遭遇したら、すぐ逃げろ！　(ヤバいNPC７選)　【GTA6】](https://youtu.be/AU1i447E4ik) | ブラックナイト山田 |  |
+| 73,117 | 0.3 | 23s | [GTA 6 oynarken oyunda kendi evinin olduğunu fark eden adam 🤑](https://youtu.be/ePYT6toUNCo) | Gündem Oldu |  |
+| 68,775 | 0.2 | 0s | [🔴LIVE - EPISODE 4 : GTA 6 !](https://youtu.be/a5KxGDlKb90) | Feekz  |  |
+| 54,625 | 0.0 | 860s | [감스트 GTA6 오픈런!! 웃긴 장면 모음 ㅋㅋㅋ](https://youtu.be/utP5cFNvBs4) | 감스트GAMST |  |
+| 43,483 | 0.1 | 1054s | [Cyberleek is BACK with GTA 6 Build 💀, Full Map Revealed, FAKE HATE, Actors Confi](https://youtu.be/0tu3-dgWAmE) | The GTA Assassin |  |
+| 37,708 | 0.0 | 0s | [Getting Extremely Rich Today - GTA 6 - Day 4](https://youtu.be/inM3lTRM2Zs) | Casetoo is Live |  |
+| 32,387 | 0.0 | 35s | [Conducir es dificil en GTA 6](https://youtu.be/PyX_An5cw2E) | DaniRep | +6 Vídeos Diarios De GTA 5 Online! |  |
+| 32,353 | 0.0 | 40s | [Wer braucht schon Schlaf bei GTA 6? 😴 #gta6 #gamingmemes](https://youtu.be/ARwPnlAEQD8) | Lukas 712 |  |
+| 27,681 | 0.1 | 44s | [GTA 6 First Time കളിച്ചപ്പോൾ ഞാൻ ഞെട്ടിപ്പോയി! 🤯🔥 | #shorts #gta6 #funny #games ](https://youtu.be/xTXcCmvlwXI) | Atom Guy |  |
+| 26,125 | 0.0 | 0s | [ULTIMA MISIUNE DIN GTA VI + GIVEAWAY MASINA - ZIUA 4](https://youtu.be/Q4P627CGOrg) | Zbir |  |
+| 26,038 | 0.0 | 650s | [GTA 6 hat versteckte Gameplay-Mechaniken - Wir zeigen sie euch!](https://youtu.be/EEKSOfjFmcM) | GameStar |  |
+| 25,353 | 0.0 | 663s | [MILITÄR PANZER KLAUEN mit 6 STERNEN😱🤣 | GTA 6 - TEIL 5 | SpontanaBlack](https://youtu.be/duZPmClBT8U) | SpontanaBlack |  |
+| 21,129 | 0.2 | 37s | [GTA 6 في ماين كرافت](https://youtu.be/D4Ztt8fOM7Q) | Z3bob - زعبوب |  |
+| 18,675 | 0.0 | 968s | [Robbing EVERY Store Using My Rare SPORTSCAR sa GTA 6](https://youtu.be/FzV7ZzYgmCQ) | WAYNE PH |  |
+| 16,940 | 0.0 | 19s | [ОДИН ДЕНЬ В GTA 6](https://youtu.be/w7sKXQyAwkw) | ГЛЕНТ |  |
+| 16,572 | 0.0 | 939s | [Ο ΑΧΙΛΛΕΑΣ ΚΑΙ ΤΟ ΑΠΑΓΟΡΕΥΜΕΝΟ GTA 6 | ΑΔΕΛΦΙΚΗ ΑΓΑΠΗ 7](https://youtu.be/iW-piGjW7i0) | TsoulfasP |  |
+| 15,302 | 0.0 | 727s | [ЕСЛИ УВИДИШЬ БИГФУТА В GTA 6, СРОЧНО БЕГИ](https://youtu.be/XZHkYIe_80I) | OVER SHOW |  |
+| 14,165 | 0.0 | 0s | [【阿航直播】GTA6 開始逃亡生活!  Grand Theft Auto VI | PS5 Pro | Day4](https://youtu.be/cXfef6QfMMk) | RHung阿航 |  |
+| 13,211 | 0.2 | 40s | [GTA 6: 5 Countries Where You Can't Play This Game! #factshorts #gta #gta6 #viral](https://youtu.be/mspLS2YD8vE) | AH GRID |  |
+| 12,505 | 0.0 | 54s | [GTA 5 dönemi Fenerbahçe futbolcuları vs GTA 6 dönemi Fenerbahçe](https://youtu.be/Vn7BvC9pHII) | Arden Papazyan |  |
+| 12,040 | 0.0 | 0s | [TEST MÁY MỚI CHƠI GTA VI](https://youtu.be/8wDGjLVMHnI) | Nhism |  |
+| 11,306 | 0.0 | 717s | [I Broke into the MILITARY BASE in GTA 6..](https://youtu.be/WfxPeNwtN-Q) | Caylus   |  |
 
 ## Outliers (ratio > 3, at least 5,000 views)
 
 | Views | Subs | Ratio | Len | Title | Channel |
 |---:|---:|---:|---:|---|---|
-| 13,441 | 1,980 | 6.8 | 14s | [IShowSpeed Finds Himself In GTA 6! 😭](https://youtu.be/mp1yWpLO6jQ) | Vessl |
+| 5,963 | 1,800 | 3.3 | 40s | [聊天室說 GTA 6 是預錄，Speed 回「我撐了 49 小時」  #ishowspeed #speed #gta6](https://youtu.be/wb8SNHM-3FM) | MEE INN |
 
-Shorts (≤180 s) in sample: 46, median views 7,843. Long (>180 s): 54.
+Shorts (≤180 s) in sample: 49, median views 6,786. Long (>180 s): 51.
 
 ## CC BY candidates (check permissions.md rules: own footage, no webcam/stream overlays)
 
-- 72,924 views · [Otros 5 DETALLES ALUCINANTES de GTA 6 🔥 #gta6 #detallesalucinantes](https://youtu.be/Lz0Zhfr74yg) · Vandal
-- 6,530 views · [Duurste Auto’s In GTA 6 Stelen](https://youtu.be/MJwQI5yplTQ) · Jessy
-- 2,479 views · [I Cheated On Lucia In GTA 6...😥](https://youtu.be/l2QgE7vIiDs) · ItzAruGod
