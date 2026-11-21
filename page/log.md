@@ -215,3 +215,6 @@
 
 ## 2026-11-21 18:55 UTC: map editor run #9 (paused)
 - Netlify still 403 (credits). 8 pins waiting.
+
+## 2026-11-21 21:10 UTC: newsroom run 24
+- No official news. Discord #announcements: PSA, no official fix date (fake Nov 25 claim). New clips: Vandal p2yOHOelJtw (6 stars), Soiscool XXCSNMLzO9U (free legendary weapons), LunarGaming MYu6GAIhD98 (pink Growler), JayWayy nLVR_6MqCB8.

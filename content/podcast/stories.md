@@ -105,3 +105,9 @@
 - Dezer Development says its Porsche Design Tower inspired Pegassi Residences (The Real Deal); other building matches are the paper's guesses.
 - "Florida Joker" reportedly in official credits ("The Local Population") — check credits; mention only, no personal history, not a guest.
 - PS5 fire during a paused stream (JoJoJosiah) — ventilation PSA only; no link to the game.
+
+## Run 24 (Nov 21)
+- Benny the Bull played GTA VI during Wizards' intros (Bleacher Report, official Bulls post) — describe only.
+- Rusty Anchor (Key Lento) vs Key Largo's Caribbean Club (CNN resemblance; fans make the exact match); bar reportedly shows GTA screenshots (single source).
+- Rockstar's Florida research road trips (Garbut in LOVE mag via press; Humphries) — keep strip-club/gang parts out of titles.
+- Festival proceeds to Miami charities (Complex citing Rockstar X) — verify X post.

@@ -36,3 +36,4 @@
 - Run 19: Dave Shealy (Skunk Ape HQ, public business contact); The Clevelander / Jermaine Jordan (venue contact); Rebekah Valentine (Kotaku author page). Never contact without owner's OK.
 - Run 22: Victor Dima (blind gaming journalist; victordima.net contact page, Bluesky @victordimanet.bsky.social). Rupa Biswas only via verified management. Never contact without owner's OK.
 - Run 23: Kaiji Tang (X @KaijiTang; long shot). Patrick Tomasso possibly X @imPatrickT (identity unconfirmed). Never contact without owner's OK.
+- Run 24: Zack Zwiezen (Kotaku author page; walked the map) · Mike Drucker (comedy writer, Coral Springs; verify handle). Never contact without owner's OK.
