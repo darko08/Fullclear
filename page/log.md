@@ -160,3 +160,6 @@
 
 ## 2026-11-21 00:55 UTC: map editor run #6 (paused)
 - Netlify still 403 "Account credit usage exceeded". 8 pins from run #5 still not live; no new research this run (would only pile up undeployed pins). Discord /submit finds: 0. Resume when owner adds credits or picks another host.
+
+## 2026-11-21 01:00 UTC: Discord guide editor
+- 3 posts in #how-to-guides: flip car by hand (Soiscool Mec CC BY clip, muted, credited), auto-drive how-to (same, transcribed with whisper FR), PSA boxed code missing/used (Dexerto). No research agent: newsroom run 19 had just covered sources.
