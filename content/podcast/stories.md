@@ -80,3 +80,8 @@
 - Parents with a toddler split play in timed shifts (Newsweek).
 - Myth or Fact: night-vision arena hunt (@FrazJ), hotel-room "monster" (Reddit): unverified, check for mission spoilers.
 - speedrun.com GTA VI board: no categories/runs yet → "no verified record exists".
+
+## Run 20 (Nov 21)
+- Jerry Fort ("Void Only"), waited 13 years, died late October; fans dedicate their first drive to him (ThePrint, Beebom). Respectful, no clickbait, don't approach family, don't claim an in-game tribute.
+- India: Blinkit delivered GTA VI codes in minutes, boAt gave staff an optional day off (ThePrint; check NDTV/Gadgets360 originals). Skip all partisan items from that article.
+- NYC youth game jam "Get There Already" during launch week (Aftermath, Destructoid, nyc.gov). No politics.

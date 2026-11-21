@@ -163,3 +163,6 @@
 
 ## 2026-11-21 01:00 UTC: Discord guide editor
 - 3 posts in #how-to-guides: flip car by hand (Soiscool Mec CC BY clip, muted, credited), auto-drive how-to (same, transcribed with whisper FR), PSA boxed code missing/used (Dexerto). No research agent: newsroom run 19 had just covered sources.
+
+## 2026-11-21 05:20 UTC: newsroom run 20
+- No official news. Discord #easter-eggs: Kodak Black station (Vice, /submit). #mod-chat: 4 new JayWayyGaming CC BY clips (new trusted source). 9 channels blocked. Leaker sentencing on hold pending CPS/BBC.
