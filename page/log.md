@@ -188,3 +188,6 @@
 - Shorter than 8 min target: material supports ~4 min honestly; next long video needs more Drive guides (JayWayy, Stedz beginner guide, HadesPlays 8 secrets).
 - split_vo.py now merges sentences whose boundary can't be aligned instead of failing. .wav/.mask.png render files git-ignored.
 - Fact: Caliente Picador = '72 Declasse Picador, "found at an old trainyard in North Mariana County" (in-game vehicle card, LunarGaming footage).
+
+## 2026-11-21 12:55 UTC: map editor run #8 (paused)
+- Netlify still 403 (credits). No research; 8 pins waiting.
