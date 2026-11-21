@@ -45,6 +45,8 @@ function rssTitles(xml) { return [...xml.matchAll(/<title>(?:<!\[CDATA\[)?(.*?)(
       next[s.id] = items;
       const added = items.filter((i) => !old.includes(i));
       const removed = old.filter((i) => !items.includes(i));
+      // /VI hero banner sometimes renders without its 'OUT NOW / Buy Now' lines: a pure removal there is a partial render, not news
+      if (s.id === 'gta6-home' && !added.length && removed.length) { errors.push(`${s.id}: partial render, ignored`); next[s.id] = old; continue; }
       if (prev[s.id] && (added.length || removed.length)) changes.push({ source: s.id, url: s.url, added, removed });
     } catch (e) {
       errors.push(`${s.id}: ${e.message.slice(0, 80)}`);
