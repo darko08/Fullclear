@@ -1,4 +1,4 @@
-# YouTube trends: "GTA 6", last 4 h (generated 2026-11-20 20:49 UTC)
+# YouTube trends: "GTA 6", last 4 h (generated 2026-11-21 00:49 UTC)
 
 Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative Commons licence (candidate for our clips, check for overlays).
 
@@ -6,43 +6,41 @@ Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative C
 
 | Views | Ratio | Len | Title | Channel | CC |
 |---:|---:|---:|---|---|---|
-| 250,158 | 0.0 | 0s | [🚔GTA🚔VI🚔TERCER🚔CAPITULO🚔#3🚔INCREIBLE🚔DIRECTO🚔](https://youtu.be/58JQc7TxpDk) | ElAbrahaham |  |
-| 238,762 | 0.1 | 0s | [HOJE EU ZERO O GTA 6! DIA 03 | BISTECONE AO VIVO 🔴](https://youtu.be/qT3gC0KZOEs) | Bistecone |  |
-| 117,574 | 0.0 | 439s | [This Is Why You Hate GTA 6 (rant)](https://youtu.be/paML_p4sbCo) | DanTDM |  |
-| 104,277 | 0.0 | 0s | [The Vanoss Crew Plays GTA 6 LIVE from Miami!](https://youtu.be/EMEa9Hz6HaY) | WILDCAT |  |
-| 101,396 | 0.2 | 1171s | [GTA 6 WTF and Funny Moments! #3](https://youtu.be/GMZzFJsf844) | Zynxize |  |
-| 94,283 | 0.1 | 61s | [لعبت بلايستيشن داخل قراند 6!!](https://youtu.be/UW-K4aZb-BE) | Abdullah Reviews |  |
-| 88,328 | 0.2 | 1100s | [GTA 6 свела всех С УМА](https://youtu.be/Yx4co6X0MUg) | DeadP47 |  |
-| 86,699 | 0.0 | 1017s | [Je Traverse TOUTE la MAP de GTA 6 !](https://youtu.be/XzYSliD5xlo) | Unchained Gaming |  |
-| 76,022 | 0.2 | 342s | [GTA 6 - ALL Endings: Bad, Good and Secret & Cutscenes](https://youtu.be/G1FfS733ySU) | GTA6Videos |  |
-| 72,031 | 0.5 | 0s | [GTA 6 on débarque enfin à VICE CITY ! (je me suis levé a 16h je suis décalé à l'](https://youtu.be/c4ByzcrFrgE) | MichouGaming |  |
-| 69,654 | 0.0 | 1195s | [GTA 6 - Encontrei o ECLIPSE do BRIAN no GTA 6!](https://youtu.be/R_V_cfdCx3o) | LipaoGamer |  |
-| 69,633 | 1.9 | 0s | [Gta v Panther live #shorts  #gtav #shortsfeed #gta6](https://youtu.be/kQzqF2Z5l_s) | Asad Danger Brand |  |
-| 66,224 | 0.0 | 8s | [eavesdropping on the GTA 6 NPCs #gta](https://youtu.be/SBDcep_re5o) | Nirami |  |
-| 66,144 | 0.2 | 1044s | [Why GTA 6 is bad.](https://youtu.be/IQZ7nDLWfWc) | AndyPants Gaming |  |
-| 57,251 | 0.0 | 731s | [Jugando GTA 6 sin ROMPER las LEYES! 🚔🚨 (Grand Theft Auto VI)](https://youtu.be/6IW8JyY1Hhk) | E-MasterSensei |  |
-| 55,923 | 0.1 | 267s | [People Aren’t Happy About GTA 6](https://youtu.be/cDVrSn2lm_A) | SAMTIME |  |
-| 45,478 | 0.0 | 59s | [POV: Toute la famille sèche pour jouer à GTA 6 (Partie 2)](https://youtu.be/vokny3zSWZ8) | Adrian_cqrt |  |
-| 40,297 | 0.0 | 23s | [Jugué GTA 6 en la Vida Real 🚨🚔 #InvitedByYouTube](https://youtu.be/_3PPMSkvaTA) | E-MasterSensei |  |
-| 37,089 | 0.0 | 763s | [GTA 6 - Matia Begs Jason for Mercy After Betraying Him Scene - Grand Theft Auto ](https://youtu.be/uX3QVZlW7V4) | BabyZone |  |
-| 32,977 | 0.0 | 517s | [iShowSpeed Reacts To GTA 6's SAD ENDING 💔 (CRIES)](https://youtu.be/Cz3AaDWQ_Fs) | Speedy Boykins |  |
-| 31,532 | 0.0 | 0s | [GTA 6 ( للكبار فقط )🚨😱](https://youtu.be/02YrGHiq2kc) | Bilal Fadili |  |
-| 26,588 | 0.8 | 37s | [Alan foi parar na CNN por causa do GTA 6 #gta6 #alanzoka #shorts](https://youtu.be/ySJ27jiZUG0) | Shorts from Brazuka |  |
-| 23,601 | 0.1 | 23s | [FARFADOX LA FOTO QUE TODOS QUIEREN GTA 6](https://youtu.be/yVm69c015s0) | Mati Clips |  |
-| 23,578 | 0.0 | 560s | [GTA 6: Extreme Hospital Rampage - Heavily Armed Jason](https://youtu.be/fFXsjtzdskw) | Madd Trevor |  |
-| 22,669 | 0.0 | 1163s | [I annoyed GTA 6 NPCs until they had enough](https://youtu.be/c-v5mYRU4-A) | JEV |  |
+| 224,003 | 0.0 | 0s | [VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]](https://youtu.be/YqLOX86cdzk) | Renato Garcia |  |
+| 160,679 | 0.0 | 955s | [GTA 6 - Boarding the Massive Cruise Ship in Vice City](https://youtu.be/_P_qMAVJZ68) | TmarTn2 |  |
+| 154,754 | 0.0 | 53s | [the weirdest gta 6 experience 🫪](https://youtu.be/p36qu2ldSh4) | Bundun |  |
+| 103,028 | 0.0 | 16s | [NO DATENGAS el TREN de GTA 6 ☠️🚂 #mrrelevante #videojuegos](https://youtu.be/iQSJecpJJ1Y) | Soy RELEVANTE |  |
+| 84,148 | 0.1 | 50s | [Why Lucia unloaded her gun before robbing in GTA 6](https://youtu.be/yHTq1uj-5HQ) | Tony Statovci |  |
+| 83,873 | 0.0 | 0s | [🔴 ¡EL FINAL de GTA 6 EN DIRECTO!  (AHORA 99%)](https://youtu.be/rRneENimokc) | CREATIVE |  |
+| 79,588 | 0.0 | 855s | [This FNAF Looks More Real Than GTA 6..](https://youtu.be/hZqIFuV-3uQ) | Aimin |  |
+| 76,934 | 0.1 | 22s | [Guys 20 minutes into GTA 6](https://youtu.be/8t-L23GjN-w) | Senpapi Gabe |  |
+| 75,677 | 0.1 | 0s | [Playing GTA 6 for the First Time | GTA 6 Marathon Launch Stream](https://youtu.be/JtqKkDDEI_s) | Ducky Reloaded |  |
+| 70,111 | 0.2 | 33s | [Las malas criticas del GTA 6 😯😯🎮🎮#videojuegos #memes #playstation #xbox #nintend](https://youtu.be/kWYyuhiGrEA) | El Stan18 |  |
+| 64,338 | 0.2 | 0s | [GTA 6 True Ending Grind & Post Game (GRAND THEFT AUTO VI  PS5 Pro)](https://youtu.be/aANuSsQcOgk) | MELOO |  |
+| 59,436 | 0.0 | 36s | [POV: Reacting To GTA 6 Dropping Based On Age...](https://youtu.be/A5k9I8PyxBw) | Unknown Smug |  |
+| 53,282 | 0.1 | 655s | [People Are ABSOLUTELY FURIOUS Over This… ](https://youtu.be/jMktu-LICk4) | Valhalla VFT |  |
+| 45,626 | 0.0 | 916s | [GTA 6 - Jason Escapes From Prison Scene - Grand Theft Auto VI 4k 2026](https://youtu.be/IM5m-RLCbe4) | BabyZone |  |
+| 41,457 | 0.0 | 982s | [GTA 6 - Tentando PARAR O TREM do JOGO!](https://youtu.be/nN_O2opPiKc) | LipaoGamer |  |
+| 40,385 | 0.0 | 0s | [GTA 6 OFFICIAL FULL GAME GAMEPLAY WALKTHROUGH FREE ROAM STORY - Part 4 (PS5 Pro)](https://youtu.be/MPjMwTNYYHo) | NoahJ456 |  |
+| 37,651 | 0.2 | 924s | [Robamos Un CAZA en la BASE MILITAR en GTA 6!](https://youtu.be/iIVSZBav9EU) | AwitaVTuber |  |
+| 33,290 | 0.2 | 51s | [宇宙人の救い方　#gta #gta6 #グラセフ](https://youtu.be/jLOz467GkcQ) | ピンシー　 |  |
+| 31,799 | 0.0 | 32s | [GTA 6 no cabe en tu CONSOLA 💾](https://youtu.be/BuHVQYngEg8) | Tonyfrancog |  |
+| 29,129 | 0.0 | 22s | [A Dónde Van Los Npcs en GTA 6 #gta6](https://youtu.be/Um9_I1ZAVVs) | FAZZGTA |  |
+| 29,013 | 0.0 | 58s | [Novatos x VETERANO NO GTA 6](https://youtu.be/EW8AAvKQsA8) | EoSenna |  |
+| 27,529 | 0.1 | 31s | [IILOJUAN CONSIGUE 6 ESTRELLAS EN GTA 6](https://youtu.be/M0uJ8NQatlw) | Mati Clips |  |
+| 26,228 | 0.0 | 804s | [Encontre Los Mejores Bugs Y Momentos Divertidos en GTA 6 / Grand Theft Auto VI W](https://youtu.be/JzQhVWBSVdQ) | Omenasote |  |
+| 23,721 | 0.0 | 629s | [Jealous Sister DELETES Brothers GTA 6 From His PS5!](https://youtu.be/DUJdXz7KIeQ) | LeeXO Films |  |
+| 23,028 | 0.0 | 1162s | [AGORA TEMOS UM GTA 6 NO ROBLOX](https://youtu.be/vTx6lXaP_WU) | Amy Scarletona |  |
 
 ## Outliers (ratio > 3, at least 5,000 views)
 
 | Views | Subs | Ratio | Len | Title | Channel |
 |---:|---:|---:|---:|---|---|
-| 11,758 | 224 | 52.5 | 44s | [IShowSpeed's Heart DROPPED At The GTA 6 Ending! 😭🚨 #ishowspeed #gta6](https://youtu.be/SNJuysXyRTs) | ElusiveRepublic |
-| 5,115 | 25 | 51.1 | 78s | [GTA 6 Ending Choice: Lucia and Jason Both Die 😭 (SPOILER)](https://youtu.be/IDqn-sBZuCg) | wHx |
-| 18,101 | 881 | 20.5 | 21s | [Ishowspeed cries after how bad gta 6 ending was 🤯😭 #fyp #ishowspeed #gta #gta6 #](https://youtu.be/KOyB8QL_35Q) | tx32gg |
-| 8,441 | 852 | 9.9 | 30s | [AURON harto de RECOGER a LUCÍA en GTA 6: «SIMULADOR de PEREIRA este juego» 😂 #au](https://youtu.be/wUzEj7UZJzs) | Clips del Calvo |
-| 11,388 | 1,640 | 6.9 | 27s | [Rohat hat schon 62% nach2 Tagen in GTA 6 ⁉️🤕 #rohat #gta6](https://youtu.be/s79T6zOstV4) | meme.hopecore |
+| 9,500 | 25 | 95.0 | 15s | [N3on Got Found In GTA 6 😭 #GTA6 #GTA](https://youtu.be/YxpCBh06MQw) | N3ONNIGHTS | N3on Fan Clips |
+| 9,002 | 35 | 90.0 | 21s | [Niko Bellic Is BACK in GTA 6!](https://youtu.be/kNzYBkndYuw) | GTA Radar |
+| 6,719 | 566 | 11.9 | 41s | [First Person GTA 6 Gameplay](https://youtu.be/1FplMteOnA4) | Obverse |
 
-Shorts (≤180 s) in sample: 49, median views 8,678. Long (>180 s): 51.
+Shorts (≤180 s) in sample: 48, median views 11,718. Long (>180 s): 52.
 
 ## CC BY candidates (check permissions.md rules: own footage, no webcam/stream overlays)
 
