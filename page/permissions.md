@@ -176,3 +176,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Clip hunt 2026-11-21 18:55 UTC
 - Pass: GTA 6 Vanilla zUnHAORuDBQ, GRAVE GAMING 49fPAzRDy-8 (new channel).
 - Block: Ardi_Two, UNICXOLI (webcam), Wasted Gaming (MrBeast/AI clickbait), Blayz Phoenix (vtuber), GTA 6 Insider (other creator watermark).
+
+### Clip hunt 2026-11-21 21:55 UTC
+- Pass: Howto Tech cYIAmK5efxk (trackers how-to; check frames).
+- Block: Mikerock, No Curtains, shxwski (webcam/face), cliiipsgta (GTA V/compilation thumbnail), Syth (others prank clips).
