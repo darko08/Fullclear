@@ -175,3 +175,6 @@
 
 ## 2026-11-21 06:55 UTC: map editor run #7 (paused)
 - Netlify still 403 (credits). No research; 8 pins waiting.
+
+## 2026-11-21 09:00 UTC: newsroom run 21
+- CPS verified → news 16 (Dev): TikTok 11:30, IG 11:40 UTC; Discord #announcements. Sentencing check scheduled Nov 23 17:30 UTC. Vandal Lz0Zhfr74yg new clip (to owner in report).

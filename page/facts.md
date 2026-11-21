@@ -173,3 +173,6 @@ Checked = date we read the official page.
 - "Disc version coming" (Support email): disputed by VGC/GamesRadar sources; only "no disc announced" is safe.
 - Weapon carry limit 4 (single guide); red/white doors meaning (single guide); Chiliad NPC chatter (2 Reddit users); Niko cameo (no source, drop).
 - Tenebrae Lux: in-game JoyStation puzzle game (Kotaku review, Nov 20). Upgraded from single-source hold.
+
+## CPS 2026-11-16 (verified cps.gov.uk)
+- Arion Kurtaj, 21, pleaded guilty (hacks incl. Rockstar Games; leaked 90 GTA VI clips). Sentencing at Woolwich Crown Court on 23 November 2026. Older "sentenced" headlines refer to the 2023 hospital order.

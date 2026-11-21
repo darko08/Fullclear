@@ -85,3 +85,10 @@
 - Jerry Fort ("Void Only"), waited 13 years, died late October; fans dedicate their first drive to him (ThePrint, Beebom). Respectful, no clickbait, don't approach family, don't claim an in-game tribute.
 - India: Blinkit delivered GTA VI codes in minutes, boAt gave staff an optional day off (ThePrint; check NDTV/Gadgets360 originals). Skip all partisan items from that article.
 - NYC youth game jam "Get There Already" during launch week (Aftermath, Destructoid, nyc.gov). No politics.
+
+## Run 21 (Nov 21)
+- Port Gellhorn: locals in Port Charlotte think it's them (Charlotte Sun); fans say Panama City. "Who owns Port Gellhorn?" Rockstar unconfirmed.
+- Guinness: "most critically acclaimed game" + "most pre-ordered" pending (official Guinness page). Say "pending".
+- Photo mode as "cinematography simulator" (TechRadar, filmmaker Patrick Tomasso) → DOP guest idea; identity/handles unverified; never use his images without permission.
+- UK school minibus for absent pupils (Dexerto citing ITV; check ITV). No names/faces of minors.
+- GTA contracts + weddings this weekend (Pedestrian, Yahoo): trend only, private couples anonymous.

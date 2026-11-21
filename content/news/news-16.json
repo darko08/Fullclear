@@ -1,0 +1,15 @@
+{
+  "host": "Dev",
+  "headline": "GTA 6 LEAK HACKER PLEADS GUILTY",
+  "image": "page/media/official/postcards/Grassrivers_16x9.jpg",
+  "image_credit": "© Rockstar Games",
+  "bullets": [
+    "Admitted 2022 Rockstar hack",
+    "Leaked 90 clips of GTA VI",
+    "Sentencing: Mon Nov 23",
+    "Woolwich Crown Court, UK"
+  ],
+  "source": "Source: Crown Prosecution Service (CPS), Nov 16",
+  "voiceover": "videos/news/news-16-dev.mp3",
+  "output": "videos/news/fullclear-news-16.mp4"
+}
