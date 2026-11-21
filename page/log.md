@@ -154,3 +154,6 @@
 
 ## 2026-11-20 21:00 UTC: Discord guide editor
 - 5 posts (material from map run #5 + scout B, no extra agent needed): #money-methods Exotic Animals Front cash; #how-to-guides earliest mask (Chuck's) + no mission replay/save safety; #easter-eggs The Vault radio (confirm via /submit); #collectibles Belpoint Strait + Bobcat treasure dives.
+
+## 2026-11-21 01:05 UTC: newsroom run 19
+- No official news. Discord: #announcements PS Share "Gathered" photo prompt (verified on PS Blog), #easter-eggs Tenebrae Lux (Kotaku). #mod-chat: 5 new unsent clip links (dedupe via clip_hunter --filter). 18 channels blocked.

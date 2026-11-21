@@ -168,3 +168,8 @@ Checked = date we read the official page.
 - "Grand Theft Auto VI day one retail sales* reached $3.79 billion, setting a new record for entertainment across any medium, and becoming the biggest entertainment launch in history." *company estimates through end of day Nov 19 worldwide.
 - "Grand Theft Auto VI sold 32.5 million units pre-release, a new record across all platforms." Metacritic 99 cited.
 - Supersedes the Sensor Tower estimate (24.58M) for official claims.
+
+## Not verified (run 19, Nov 21)
+- "Disc version coming" (Support email): disputed by VGC/GamesRadar sources; only "no disc announced" is safe.
+- Weapon carry limit 4 (single guide); red/white doors meaning (single guide); Chiliad NPC chatter (2 Reddit users); Niko cameo (no source, drop).
+- Tenebrae Lux: in-game JoyStation puzzle game (Kotaku review, Nov 20). Upgraded from single-source hold.

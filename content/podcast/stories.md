@@ -72,3 +72,11 @@
 - JasonTheWeen lost 10–12 h (PS5 off during save) → manual-save lesson; cause unconfirmed, don't amplify swatting.
 - Tampa Bay Times reporters birdwatching in Leonida (Mei segment) + TBT op-ed "feels like home".
 - Central Florida historic flooding (WKMG): only a respectful "stay safe, Florida" note, no jokes.
+
+## Run 19 (Nov 21)
+- Skunk Ape: Florida's real swamp legend + real Skunk Ape Research HQ (Ochopee, Dave Shealy) vs the game's skunk ape side quest. Don't imply Shealy is linked to the game.
+- The Clevelander (Ocean Drive) threw a launch party for its own in-game twin (WSVN); "Ocean View Hotel" link is fans' claim.
+- Tenebrae Lux: a fake auteur puzzle game inside GTA 6 (Kotaku). No story context, no secret ending.
+- Parents with a toddler split play in timed shifts (Newsweek).
+- Myth or Fact: night-vision arena hunt (@FrazJ), hotel-room "monster" (Reddit): unverified, check for mission spoilers.
+- speedrun.com GTA VI board: no categories/runs yet → "no verified record exists".
