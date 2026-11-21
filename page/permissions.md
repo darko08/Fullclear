@@ -172,3 +172,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Drive 2026-11-21 16:25 UTC: 2 new files, USABLE (CC BY re-checked, frames clean, no webcam)
 - LunarGaming bNqea0o7q5Q (Cold War bunker codes, Russo pistol + Cold War rifle): Discord how-to after spoiler check.
 - Stedz YYPz0axzH_A (32-min beginner guide): source + B-roll for long04 (beginner guide); check narration for story spoilers before use.
+
+### Clip hunt 2026-11-21 18:55 UTC
+- Pass: GTA 6 Vanilla zUnHAORuDBQ, GRAVE GAMING 49fPAzRDy-8 (new channel).
+- Block: Ardi_Two, UNICXOLI (webcam), Wasted Gaming (MrBeast/AI clickbait), Blayz Phoenix (vtuber), GTA 6 Insider (other creator watermark).
