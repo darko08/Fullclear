@@ -218,3 +218,6 @@
 
 ## 2026-11-21 21:10 UTC: newsroom run 24
 - No official news. Discord #announcements: PSA, no official fix date (fake Nov 25 claim). New clips: Vandal p2yOHOelJtw (6 stars), Soiscool XXCSNMLzO9U (free legendary weapons), LunarGaming MYu6GAIhD98 (pink Growler), JayWayy nLVR_6MqCB8.
+
+## 2026-11-21 21:00 UTC: Discord guide editor
+- #how-to-guides: map crossing times (Kotaku, verified on page; plane time not posted, not checked). Newsroom run 24 just covered sources.
