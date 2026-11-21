@@ -172,3 +172,6 @@
 
 ## 2026-11-21 05:25 UTC: rapid alert
 - No official change. Drive: 6 new CC BY clips logged as usable (see permissions.md).
+
+## 2026-11-21 06:55 UTC: map editor run #7 (paused)
+- Netlify still 403 (credits). No research; 8 pins waiting.
