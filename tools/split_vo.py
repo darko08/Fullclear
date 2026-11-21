@@ -44,11 +44,15 @@ def main():
             last_end[i] = max(last_end.get(i, 0), w.end)
             first_start[i] = min(first_start.get(i, 1e9), w.start)
     total = float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', mp3]))
-    cuts = [0.0]
+    # cut only at boundaries that aligned cleanly; otherwise merge the sentence into the next one
+    cuts, groups, cur = [0.0], [], [sents[0]]
     for i in range(len(sents) - 1):
         e = last_end.get(i); s2 = first_start.get(i + 1)
-        if e is None or s2 is None or s2 < e: raise SystemExit(f'alignment failed near sentence {i + 1}: {sents[i]!r}')
-        cuts.append((e + s2) / 2)
+        if e is None or s2 is None or s2 < e:
+            print(f'note: merged sentence {i + 1} into the next (alignment unclear)', file=sys.stderr)
+            cur.append(sents[i + 1]); continue
+        cuts.append((e + s2) / 2); groups.append(' '.join(cur)); cur = [sents[i + 1]]
+    groups.append(' '.join(cur)); sents = groups
     cuts.append(total)
     lines = []
     for i, s in enumerate(sents):

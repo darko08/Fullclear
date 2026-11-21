@@ -15,3 +15,4 @@ page/media/raw/
 videos/long/*.mp4
 videos/long/*.m4a
 videos/long/*/part*.mp3
+videos/long/*.wav
