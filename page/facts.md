@@ -176,3 +176,6 @@ Checked = date we read the official page.
 
 ## CPS 2026-11-16 (verified cps.gov.uk)
 - Arion Kurtaj, 21, pleaded guilty (hacks incl. Rockstar Games; leaked 90 GTA VI clips). Sentencing at Woolwich Crown Court on 23 November 2026. Older "sentenced" headlines refer to the 2023 hospital order.
+
+## Reported, not verified (run 23, Nov 21)
+- Rockstar North's Aaron Garbut (NYT): a team focused only on NPCs; 600,000+ NPC animations (TechRadar headline: "twice as many as RDR2"); writers just for pedestrian chatter. Read the NYT/primary quote before any post.

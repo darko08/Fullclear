@@ -98,3 +98,10 @@
 - "Cool Dog" on a jet ski vs Fort Lauderdale's Loosy (Axios, GameSpot) — "fans think", no viral clip without permission.
 - Biggest launch streams weren't English: Windah Basudara, HoneyMad (Streams Charts; numbers conflict — check source, say "peak concurrent").
 - Can a blind player finish GTA VI alone? (Double Tap; Victor Dima; Rockstar's Ben Baylis quote via The Outer Haven).
+
+## Run 23 (Nov 21)
+- French retirement home (Domitys Serris) residents aged 75–86 trying GTA VI (Dexerto citing ICI Paris IdF) — verify original video; talk only.
+- Kaiji Tang (Gojo's English voice) recorded lines for the in-game cartoon "The Johnsons" without knowing it was GTA (his X posts) — check credits; no TV clips.
+- Dezer Development says its Porsche Design Tower inspired Pegassi Residences (The Real Deal); other building matches are the paper's guesses.
+- "Florida Joker" reportedly in official credits ("The Local Population") — check credits; mention only, no personal history, not a guest.
+- PS5 fire during a paused stream (JoJoJosiah) — ventilation PSA only; no link to the game.

@@ -200,3 +200,6 @@
 
 ## 2026-11-21 16:25 UTC: rapid alert
 - /VI banner flicker again (not news). Drive: 2 new CC BY files logged (LunarGaming bunker codes, Stedz beginner guide → long04).
+
+## 2026-11-21 17:10 UTC: newsroom run 23
+- No official news; nothing published. New clip for owner: Soiscool fHhQbd-uFXo (early helicopters). NPC-animations claim held for primary source.
