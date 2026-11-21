@@ -164,3 +164,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-21 12:55 UTC: 0 passed
 - Technology Platform -RIah4DmJ38 is GTA V footage (Hindi captions) → blocked.
+
+### Clip hunt 2026-11-21 15:55 UTC
+- Pass: DPJ pLmjhrv1VVw, PlayV mY8p9B9n2Ts (new channel, check frames).
+- Block: StreamCuts (streamer webcam), Slaydra (fake PC 240 FPS guide), sala6 (face thumbnail). Skip Serveur Privé (unclear).
