@@ -161,3 +161,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Clip hunt 2026-11-21 09:55 UTC
 - Pass: LunarGaming z7ORZ1xC35s, GTA 6 Vanilla sPFen7VWZBs.
 - Skip: Korean 얼린초밥 Dd-2qFEzoeE (ownership unclear). Block: Ride & Bite (webcam), Lullilo Toons (AI art).
+
+### Clip hunt 2026-11-21 12:55 UTC: 0 passed
+- Technology Platform -RIah4DmJ38 is GTA V footage (Hindi captions) → blocked.
