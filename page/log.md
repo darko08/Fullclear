@@ -166,3 +166,6 @@
 
 ## 2026-11-21 05:20 UTC: newsroom run 20
 - No official news. Discord #easter-eggs: Kodak Black station (Vice, /submit). #mod-chat: 4 new JayWayyGaming CC BY clips (new trusted source). 9 channels blocked. Leaker sentencing on hold pending CPS/BBC.
+
+## 2026-11-21 05:00 UTC: Discord guide editor
+- #vehicles-and-weapons: Wyman classic cars (LunarGaming CC BY clip, facts from his narration, Special/Ultimate content, no story detail). Newsroom run 20 already posted Kodak station; no research agent (sources just covered).
