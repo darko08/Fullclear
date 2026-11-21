@@ -194,3 +194,6 @@
 
 ## 2026-11-21 13:00 UTC: newsroom run 22
 - No official news. Discord #announcements: safe official wallpapers/screenshots post. New clip sent: LunarGaming bNqea0o7q5Q (Cold War bunker codes).
+
+## 2026-11-21 13:00 UTC: Discord guide editor
+- #how-to-guides: outfits in the car trunk (VGC, verified on the page). Light run: newsroom run 22 already covered sources.
