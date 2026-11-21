@@ -206,3 +206,7 @@
 
 ## 2026-11-21 17:15 UTC: Discord guide editor
 - #vehicles-and-weapons: Cold War bunkers (Russo 1922 pistol on Sharktooth Island, Cold War rifle in Mariana County; LunarGaming CC BY clip). Codes left to the source video.
+
+## 2026-11-21 18:35 UTC: Leonida Daily #5 (Scout)
+- "Laziest day in Leonida": auto-drive + car flip + tower (Soiscool Mec), highway truck (Nippton Games), all CC BY, credited, clip audio muted.
+- TikTok 21:15, IG 21:30 UTC today; YouTube Nov 24 12:05. No X.

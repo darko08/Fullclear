@@ -1,0 +1,52 @@
+{
+  "host": "Scout",
+  "title": "LEONIDA DAILY #5",
+  "hook": "The laziest day in Leonida.",
+  "clips": [
+    {
+      "file": "page/media/raw/drive/Astuce_GTA_6_Voyage_AFK_avec_la_conduite_automatique_[A6ZOyBcRDB8].mp4",
+      "start": 0.0,
+      "end": 4.0,
+      "credit": "Soiscool Mec (CC BY)",
+      "line": "The laziest day in Leonida"
+    },
+    {
+      "file": "page/media/raw/drive/Astuce_GTA_6_Voyage_AFK_avec_la_conduite_automatique_[A6ZOyBcRDB8].mp4",
+      "start": 16.0,
+      "end": 21.0,
+      "credit": "Soiscool Mec (CC BY)",
+      "line": "#1: let the game drive"
+    },
+    {
+      "file": "page/media/raw/drive/Astuce_GTA_6_pour_retourner_ta_voiture_MAINS_NUES_[lK6nhxV9zvg].mp4",
+      "start": 4.0,
+      "end": 10.0,
+      "credit": "Soiscool Mec (CC BY)",
+      "line": "#2: flip it back by hand"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_BLOCKING_HIGHWAY_TRAFFIC_[FD7cXj-Ku8k].mp4",
+      "start": 25.0,
+      "end": 29.7,
+      "credit": "Nippton Games (CC BY)",
+      "line": "#3: slow truck, fast highway"
+    },
+    {
+      "file": "page/media/raw/drive/Le_SECRET_de_l_UF_DE_P_QUES_dans_GTA_6_[Khhx5a2iA_c].mp4",
+      "start": 80.0,
+      "end": 83.7,
+      "credit": "Soiscool Mec (CC BY)",
+      "line": "#4: the tallest tower"
+    },
+    {
+      "file": "page/media/raw/drive/Le_SECRET_de_l_UF_DE_P_QUES_dans_GTA_6_[Khhx5a2iA_c].mp4",
+      "start": 157.0,
+      "end": 163.5,
+      "credit": "Soiscool Mec (CC BY)",
+      "line": "Someone got there first"
+    }
+  ],
+  "voiceover": "videos/daily/leonida-daily-05-scout.mp3",
+  "clip_volume": 0.0,
+  "output": "videos/daily/leonida-daily-05.mp4"
+}
