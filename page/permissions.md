@@ -168,3 +168,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Clip hunt 2026-11-21 15:55 UTC
 - Pass: DPJ pLmjhrv1VVw, PlayV mY8p9B9n2Ts (new channel, check frames).
 - Block: StreamCuts (streamer webcam), Slaydra (fake PC 240 FPS guide), sala6 (face thumbnail). Skip Serveur Privé (unclear).
+
+### Drive 2026-11-21 16:25 UTC: 2 new files, USABLE (CC BY re-checked, frames clean, no webcam)
+- LunarGaming bNqea0o7q5Q (Cold War bunker codes, Russo pistol + Cold War rifle): Discord how-to after spoiler check.
+- Stedz YYPz0axzH_A (32-min beginner guide): source + B-roll for long04 (beginner guide); check narration for story spoilers before use.

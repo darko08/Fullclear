@@ -197,3 +197,6 @@
 
 ## 2026-11-21 13:00 UTC: Discord guide editor
 - #how-to-guides: outfits in the car trunk (VGC, verified on the page). Light run: newsroom run 22 already covered sources.
+
+## 2026-11-21 16:25 UTC: rapid alert
+- /VI banner flicker again (not news). Drive: 2 new CC BY files logged (LunarGaming bunker codes, Stedz beginner guide → long04).
