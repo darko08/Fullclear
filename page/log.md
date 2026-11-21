@@ -203,3 +203,6 @@
 
 ## 2026-11-21 17:10 UTC: newsroom run 23
 - No official news; nothing published. New clip for owner: Soiscool fHhQbd-uFXo (early helicopters). NPC-animations claim held for primary source.
+
+## 2026-11-21 17:15 UTC: Discord guide editor
+- #vehicles-and-weapons: Cold War bunkers (Russo 1922 pistol on Sharktooth Island, Cold War rifle in Mariana County; LunarGaming CC BY clip). Codes left to the source video.
