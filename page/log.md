@@ -157,3 +157,6 @@
 
 ## 2026-11-21 01:05 UTC: newsroom run 19
 - No official news. Discord: #announcements PS Share "Gathered" photo prompt (verified on PS Blog), #easter-eggs Tenebrae Lux (Kotaku). #mod-chat: 5 new unsent clip links (dedupe via clip_hunter --filter). 18 channels blocked.
+
+## 2026-11-21 00:55 UTC: map editor run #6 (paused)
+- Netlify still 403 "Account credit usage exceeded". 8 pins from run #5 still not live; no new research this run (would only pile up undeployed pins). Discord /submit finds: 0. Resume when owner adds credits or picks another host.
