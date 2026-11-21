@@ -134,3 +134,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - Soiscool Mec lK6nhxV9zvg (flip car by hand), A6ZOyBcRDB8 (AFK autopilot), Khhx5a2iA_c (secret egg + tower; FR subtitles burned in, NPC phone UI): SCM watermark, cut the "FULL VIDEO" end card, mute FR voice. Credit "Soiscool Mec (CC BY)".
 - DPJ moYc23U6RWI (new best settings): B-roll for settings how-to. Credit "DPJ (CC BY)".
 - LunarGaming uEb1_rhWjmI (Wyman's 5 classic cars, map UI + driving): long03 / map pins / #vehicles-and-weapons. Credit "LunarGaming (CC BY)". Check Wyman spoiler status before use.
+
+### Clip hunt 2026-11-21 00:55 UTC: 0 passed
+- Skip TrelXP ljpJZq9XaB0 (0 views, 13-min "funny moments", likely compilation, ownership unclear).
