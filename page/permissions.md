@@ -137,3 +137,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-21 00:55 UTC: 0 passed
 - Skip TrelXP ljpJZq9XaB0 (0 views, 13-min "funny moments", likely compilation, ownership unclear).
+
+### Clip hunt 2026-11-21 03:55 UTC
+- Pass: LunarGaming 4nT4phngbkU (Infernus for Randy, no police).
+- Reject + block: Circle Of Chaos (sexualized thumbnail), d1minish (meme, not gameplay), Death gaming (not GTA), GTA 6 | Конкурс (webcam). Skip tirilongame (unclear).
