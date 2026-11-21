@@ -157,3 +157,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - Sent 10 (CC BY via API in sweep): neBUklC35G0, 8esgkpxpJbU, dEtRIciPVU8, ie5CQKJY1uE, kXvhUYkkTRQ, BS06tBxHdfo, b7pul5iok8k, pEVP01uBBV8, qRer4qUiPI8, YYPz0axzH_A. Frames to check on Drive.
 - Blocked: BambiSelect, VICE CITY SHORTS, Max Vianna (webcam), Redline Pulse (AI thumb), Hermano Gamer (money glitch), Canadian Stunt Actor stream.
 - Note: cc_sweep ran twice by mistake (~12 searches) — run once only.
+
+### Clip hunt 2026-11-21 09:55 UTC
+- Pass: LunarGaming z7ORZ1xC35s, GTA 6 Vanilla sPFen7VWZBs.
+- Skip: Korean 얼린초밥 Dd-2qFEzoeE (ownership unclear). Block: Ride & Bite (webcam), Lullilo Toons (AI art).
