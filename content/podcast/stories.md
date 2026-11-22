@@ -122,3 +122,8 @@
 - Rockstar dev reportedly hid a memorial to his late mother "Bev" north of Hamlet (Dexerto citing his Instagram) — verify credits + spot; respectful, no clickbait, never contact family.
 - Why Rockstar keeps it weird: Rob Nelson on the Red Hulk side quest (Kotaku) — say "a farmer's side quest", don't explain the transformation.
 - "Race and Chase 7": in-game social feed mocks the "we got X before GTA 6" meme (Kotaku via BuzzFeed; check original).
+
+## Run 27 (Nov 22)
+- NBC launch profiles: 89-year-old Didier Figueroa playing with his granddaughter (don't name/show her), UK fans renting an ex-RAF control tower, a bedroom turned into Lucia's pink apartment, 9 days of military leave.
+- Janelle James says she developed and wrote her own in-game radio show with Zainab Johnson and Liza Treyger (TODAY citing her IG) — check credits; talk only, no radio clips.
+- "Is Leonida's wildlife accurate?" Rockstar: 170+ species incl. invasives (Game Informer) — no expert review yet → our gap.

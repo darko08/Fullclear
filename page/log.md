@@ -242,3 +242,6 @@
 
 ## 2026-11-22 06:55 UTC: map editor run #11 (paused)
 - Netlify still 403 (credits). 8 pins waiting.
+
+## 2026-11-22 09:05 UTC: newsroom run 27
+- No official news, no festival press recap. Discord #how-to-guides: download time by internet speed (own maths, 212 GB fact). Clip sent: JayWayy GfQsQCW0rlk.
