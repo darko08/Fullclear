@@ -52,3 +52,6 @@
 
 ## 2026-11-20: never resend clip links (owner)
 I sent the same YouTube links twice (scout D list in the newsroom report, then again merged into the clip-hunt list). Fix: every link list goes through `tools/clip_hunter.py --filter <ids>` (skips already-sent + already-on-Drive, then marks them). clip_hunter also skips ids already on Drive.
+
+## 2026-11-22: 4 sample frames aren't enough to catch facecams
+HadesPlays looked clean at 4 frames but cuts to a webcam between gameplay. New channels: sample every ~3 s (or ≥12 frames) before calling footage usable.

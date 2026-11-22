@@ -236,3 +236,6 @@
 
 ## 2026-11-22 05:10 UTC: newsroom run 26
 - No official news, no official festival recap yet; nothing published. 0 new clips (2 Soiscool money-glitch videos marked). Festival recap re-check at 08–12 UTC.
+
+## 2026-11-22 05:05 UTC: Discord guide editor
+- #easter-eggs: Bigfoot questline start + swamp crab lab (text only, single creator source). HadesPlays footage rejected (webcam found on closer check), channel blocked.

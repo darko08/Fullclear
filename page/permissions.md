@@ -187,3 +187,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-22 00:55 UTC: 0 passed
 - Block: TheBestBits (KreekCraft streamer clips), CAMI (webcam/OpusClip), DJUMA (AI thumbnails, earlier stream). Skip: Roy Lone, GTA VI moments (unknown, 0–20 views).
+
+### CORRECTION 2026-11-22 05:00 UTC: HadesPlays kXvhUYkkTRQ = REJECT (webcam)
+- A closer frame check (every 3 s) shows facecam segments between gameplay; the 4-frame check on 00:25 missed them. Don't use any footage from it. HadesPlays added to BLOCK_CH.
+- Lesson: for any new channel, check frames every ~3 s (or at least 12 evenly spaced) before marking USABLE.
