@@ -276,3 +276,6 @@
 
 ## 2026-11-22 18:55 UTC: map editor run #13 (paused)
 - Netlify still 403 (credits). 8 pins waiting.
+
+## 2026-11-22 21:10 UTC: newsroom run 30
+- No official news, no new verified recap; nothing published. 12 streamer/reupload channels blocked. Trends + stories logged.

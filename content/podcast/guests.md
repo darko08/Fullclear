@@ -42,3 +42,4 @@
 - MrMcg92 (TikTok @mrmcg92): real tower climber reviewing in-game towers; "real job vs the game" segment. Owner's OK before contact.
 - Florida Geological Survey geologist (FGS / Florida DEP public contact): "Leonida's mountains vs real karst". Owner's OK before contact.
 - Cedar Key Historical Society Museum (public website/phone): Watson Bay vs Cedar Key segment. Owner's OK before contact.
+- Zaakirah Muhammad (Substack @illuminousone): deafblind Fort Lauderdale writer, accessibility angle. Owner's OK before contact.

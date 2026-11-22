@@ -213,3 +213,4 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - Festival "what we know / what's unconfirmed" Short only if no recap by Nov 23.
 - Format to test: "secret location + reward" under 60 s (tranquilizer rifle via Sasquatch side quest, no story beats).
 - Run 29: Short "Don't pass this point without…" (missables, spoiler-free, verified); 32.5M day-one vs N64 lifetime 32.93M (company figures, say apples/oranges); Watson Bay vs Cedar Key (fans think).
+- Run 30: "Is GTA 6 actually ruined? We checked" (Metacritic 99 vs complaints: pacing, 30 fps; neutral, sourced). "Fat to fit" stat-training story Short (needs permitted clip). Justice score Dec 11 countdown.
