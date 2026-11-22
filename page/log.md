@@ -248,3 +248,7 @@
 
 ## 2026-11-22 09:10 UTC: Discord guide editor
 - Light run: newsroom 27 (minutes earlier) already posted the download-time guide and covered sources; nothing new and verified to add. No duplicate posts.
+
+## 2026-11-22 10:35 UTC: daily long video (long04)
+- "20 Things GTA 6 Doesn't Tell You (Beginner Guide, No Spoilers)": Nia, 3:22, B-roll Stedz/Soiscool/Vanilla (CC BY) + official map. Thumbnail: Stedz floor-stash frame. YouTube Nov 24 16:05 UTC (post cmwrp3m530hnnrv084scfrp8p).
+- Shorts TikTok+IG: cash stash (Nov 23 11:30/11:40), focus mode (Nov 23 21:30/21:40), police/outfits (Nov 24 11:30/11:40).
