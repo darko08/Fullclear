@@ -184,3 +184,6 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Drive 2026-11-22 00:25 UTC: 5 new files (CC BY re-checked)
 - USABLE: HadesPlays kXvhUYkkTRQ (8 secrets; PT voice/UI, mute), DPJ pLmjhrv1VVw (supercars + key cloner; mid-story progression → no mission details), GTA 6 Vanilla zUnHAORuDBQ (register cars; own title cards), GRAVE GAMING 49fPAzRDy-8 (Lucia's '82 Ruiner location).
 - HOLD: PlayV mY8p9B9n2Ts (Vice City at night): small "SAMEY" text top-left on frames — possible other creator's watermark; don't use until ownership is clear.
+
+### Clip hunt 2026-11-22 00:55 UTC: 0 passed
+- Block: TheBestBits (KreekCraft streamer clips), CAMI (webcam/OpusClip), DJUMA (AI thumbnails, earlier stream). Skip: Roy Lone, GTA VI moments (unknown, 0–20 views).
