@@ -267,3 +267,6 @@
 
 ## 2026-11-22 17:20 UTC: newsroom run 29
 - First festival recap (Miami New Times, verified) → news 17 (Mei) TikTok 18:00 / IG 18:10 UTC + Discord #announcements. No official news. Clip sent 78xiphoqpmY. YouTube skipped for news 17 (morning slots full, afternoon fails).
+
+## 2026-11-22 17:00 UTC: Discord guide editor
+- Light run: newsroom 29 (minutes earlier) posted the festival recap; no new verified player help beyond what is already in content/discord (cash, police, focus, photo mode). No duplicate posts.
