@@ -111,3 +111,9 @@
 - Rusty Anchor (Key Lento) vs Key Largo's Caribbean Club (CNN resemblance; fans make the exact match); bar reportedly shows GTA screenshots (single source).
 - Rockstar's Florida research road trips (Garbut in LOVE mag via press; Humphries) — keep strip-club/gang parts out of titles.
 - Festival proceeds to Miami charities (Complex citing Rockstar X) — verify X post.
+
+## Run 25 (Nov 22)
+- Unreleased D'Angelo song "Kamikazi" reportedly on Worldwide FM (Consequence via Pigeons & Planes; no Rockstar/estate comment) — respectful, talk only.
+- The Weeknd reportedly found his Coral Gables mansion in Vice City (secondary sources; verify IG; never the address).
+- Miami's split feelings about being "Vice City" (NBC Miami, CBS Miami) — local life only, keep politics out.
+- Rockstar North staff celebrating in Edinburgh (single source; find original).

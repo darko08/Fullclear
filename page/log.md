@@ -224,3 +224,6 @@
 
 ## 2026-11-22 00:25 UTC: rapid alert
 - No official change. Drive: 5 new files (4 usable, PlayV on hold: possible foreign watermark).
+
+## 2026-11-22 01:20 UTC: newsroom run 25
+- No official news, no festival recaps yet. Discord #how-to-guides: CE-108255-1 PSA (Sony page verified). New clips: LunarGaming hmWLirRHM48, DPJ ZecQsUmM5jU.
