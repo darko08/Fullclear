@@ -258,3 +258,6 @@
 
 ## 2026-11-22 12:55 UTC: map editor run #12 (paused)
 - Netlify still 403 (credits). 8 pins waiting; no new research until deploys work.
+
+## 2026-11-22 13:00 UTC: Discord guide editor
+- #how-to-guides: Focus mode colours + our long04 clip (Stedz CC BY). Newsroom 28 (minutes earlier) covered sources; no new research needed.
