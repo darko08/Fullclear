@@ -194,3 +194,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-22 06:55 UTC: 0 passed
 - Block: Replay Ka Scene (reuploads with a LunarGaming banner). Skip: Your-Slayer (unclear, edited thumbnail).
+
+### Daily sweep 2026-11-22 08:40 UTC (ran once)
+- Sent: 6PYXRQqHdjw, ASANBgkd80o, 1vf3hzzKQQk, _eE4C75oVW4, j3wkb0YSChc, NeNq1SsboUI (all CC BY via sweep API). New channels → frame check every 3 s on Drive.
+- Block: RafaPlayBR (face), Jason_wanted (webcam), Yovini Gaming (streamer clip), Kiru Shorts (AI art), WILIscredia (AI thumb). Skip: LukeTuke ghost ship (AI-looking), story walkthroughs (dannyavelas, serial killer), Rk Gaming (mid-story).
