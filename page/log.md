@@ -279,3 +279,6 @@
 
 ## 2026-11-22 21:10 UTC: newsroom run 30
 - No official news, no new verified recap; nothing published. 12 streamer/reupload channels blocked. Trends + stories logged.
+
+## 2026-11-22 21:10 UTC: Discord guide editor
+- #how-to-guides: workouts/stat decay (Push Square + Kotaku), difficulty assists (VGC), no mission replay (VGC + Push Square). All checked on the pages; Forbes fishing-Focus claim not posted (page 403).
