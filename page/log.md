@@ -230,3 +230,6 @@
 
 ## 2026-11-22 01:25 UTC: map editor run #10 (paused)
 - Netlify still 403 (credits).
+
+## 2026-11-22 01:05 UTC: Discord guide editor
+- #how-to-guides: keep stolen cars system (GTA 6 Vanilla CC BY clip). #vehicles-and-weapons: Ruiner next to Jason house (GRAVE GAMING CC BY clip).
