@@ -233,3 +233,6 @@
 
 ## 2026-11-22 01:05 UTC: Discord guide editor
 - #how-to-guides: keep stolen cars system (GTA 6 Vanilla CC BY clip). #vehicles-and-weapons: Ruiner next to Jason house (GRAVE GAMING CC BY clip).
+
+## 2026-11-22 05:10 UTC: newsroom run 26
+- No official news, no official festival recap yet; nothing published. 0 new clips (2 Soiscool money-glitch videos marked). Festival recap re-check at 08–12 UTC.

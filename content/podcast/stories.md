@@ -117,3 +117,8 @@
 - The Weeknd reportedly found his Coral Gables mansion in Vice City (secondary sources; verify IG; never the address).
 - Miami's split feelings about being "Vice City" (NBC Miami, CBS Miami) — local life only, keep politics out.
 - Rockstar North staff celebrating in Edinburgh (single source; find original).
+
+## Run 26 (Nov 22)
+- Rockstar dev reportedly hid a memorial to his late mother "Bev" north of Hamlet (Dexerto citing his Instagram) — verify credits + spot; respectful, no clickbait, never contact family.
+- Why Rockstar keeps it weird: Rob Nelson on the Red Hulk side quest (Kotaku) — say "a farmer's side quest", don't explain the transformation.
+- "Race and Chase 7": in-game social feed mocks the "we got X before GTA 6" meme (Kotaku via BuzzFeed; check original).
