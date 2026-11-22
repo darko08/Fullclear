@@ -55,3 +55,7 @@ I sent the same YouTube links twice (scout D list in the newsroom report, then a
 
 ## 2026-11-22: 4 sample frames aren't enough to catch facecams
 HadesPlays looked clean at 4 frames but cuts to a webcam between gameplay. New channels: sample every ~3 s (or ≥12 frames) before calling footage usable.
+
+## 2026-11-22: YouTube uploads after ~13:00 UTC fail (Postiz shared quota)
+- long01, long02 and news15 never went out (ERROR "daily upload quota is exhausted"). Only 08:05/12:05 uploads succeeded on Nov 21–22.
+- Rule: YouTube slots 08:05 / 10:05 / 12:05 UTC only, long video at 08:05. Check posts:list for ERROR every day and recreate.

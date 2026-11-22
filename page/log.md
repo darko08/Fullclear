@@ -261,3 +261,6 @@
 
 ## 2026-11-22 13:00 UTC: Discord guide editor
 - #how-to-guides: Focus mode colours + our long04 clip (Stedz CC BY). Newsroom 28 (minutes earlier) covered sources; no new research needed.
+
+## 2026-11-22 13:35 UTC: YouTube reschedule
+- Found 3 failed uploads (long01, long02, news15: quota). New YouTube plan: Nov 23 08:05 long03, 10:05 tiger, 12:05 LD4; Nov 24 08:05 long02, 10:05 warehouse, 12:05 LD5; Nov 25 08:05 long04, 10:05 heli; Nov 26 08:05 long01. Dropped stale news15 + Weird Al.
