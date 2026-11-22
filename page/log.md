@@ -282,3 +282,6 @@
 
 ## 2026-11-22 21:10 UTC: Discord guide editor
 - #how-to-guides: workouts/stat decay (Push Square + Kotaku), difficulty assists (VGC), no mission replay (VGC + Push Square). All checked on the pages; Forbes fishing-Focus claim not posted (page 403).
+
+## 2026-11-22 21:08 UTC: ALL Full Clear scheduled tasks PAUSED (owner order)
+- Disabled: rapid alert, clip hunter, newsroom, Discord guide editor, map editor, daily clip sweep, daily long video, Leonida Daily, leaker-sentence check. Resume only when the owner says so (re-enable same trigger ids). Already-scheduled Postiz posts and the Discord bot (Railway) untouched.
