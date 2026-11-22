@@ -227,3 +227,6 @@
 
 ## 2026-11-22 01:20 UTC: newsroom run 25
 - No official news, no festival recaps yet. Discord #how-to-guides: CE-108255-1 PSA (Sony page verified). New clips: LunarGaming hmWLirRHM48, DPJ ZecQsUmM5jU.
+
+## 2026-11-22 01:25 UTC: map editor run #10 (paused)
+- Netlify still 403 (credits).
