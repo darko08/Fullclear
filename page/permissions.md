@@ -180,3 +180,7 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 ### Clip hunt 2026-11-21 21:55 UTC
 - Pass: Howto Tech cYIAmK5efxk (trackers how-to; check frames).
 - Block: Mikerock, No Curtains, shxwski (webcam/face), cliiipsgta (GTA V/compilation thumbnail), Syth (others prank clips).
+
+### Drive 2026-11-22 00:25 UTC: 5 new files (CC BY re-checked)
+- USABLE: HadesPlays kXvhUYkkTRQ (8 secrets; PT voice/UI, mute), DPJ pLmjhrv1VVw (supercars + key cloner; mid-story progression → no mission details), GTA 6 Vanilla zUnHAORuDBQ (register cars; own title cards), GRAVE GAMING 49fPAzRDy-8 (Lucia's '82 Ruiner location).
+- HOLD: PlayV mY8p9B9n2Ts (Vice City at night): small "SAMEY" text top-left on frames — possible other creator's watermark; don't use until ownership is clear.

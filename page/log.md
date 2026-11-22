@@ -221,3 +221,6 @@
 
 ## 2026-11-21 21:00 UTC: Discord guide editor
 - #how-to-guides: map crossing times (Kotaku, verified on page; plane time not posted, not checked). Newsroom run 24 just covered sources.
+
+## 2026-11-22 00:25 UTC: rapid alert
+- No official change. Drive: 5 new files (4 usable, PlayV on hold: possible foreign watermark).
