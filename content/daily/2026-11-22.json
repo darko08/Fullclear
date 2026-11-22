@@ -1,0 +1,52 @@
+{
+  "host": "Dev",
+  "title": "LEONIDA DAILY #6",
+  "hook": "The most normal day in Leonida.",
+  "clips": [
+    {
+      "file": "page/media/raw/drive/GTA_6_WELLDONE_BBQ_HOW_TO_MAKE_BURGERS_[TPbh5aHLe5g].mp4",
+      "start": 20,
+      "end": 24.5,
+      "credit": "Nippton Games (CC BY)",
+      "line": "A normal morning"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_HOW_TO_CATCH_A_FISH_[uoXsBoG2G6E].mp4",
+      "start": 75,
+      "end": 79.5,
+      "credit": "Nippton Games (CC BY)",
+      "line": "An actual fish"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_RAIDING_A_MASSIVE_WEED_FARM_IN_GTA_6_POLICE_INTERVENTION_[LgP7xl-HCaM].mp4",
+      "start": 141,
+      "end": 146,
+      "credit": "Nippton Games (CC BY)",
+      "line": "Next stop: weed farm"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_RAIDING_A_MASSIVE_WEED_FARM_IN_GTA_6_POLICE_INTERVENTION_[LgP7xl-HCaM].mp4",
+      "start": 396,
+      "end": 402.5,
+      "credit": "Nippton Games (CC BY)",
+      "line": "As expected"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_BIGFOOT_CHASE_I_GOT_LOST_IN_THE_WILDERNESS_[xvBohODgezc].mp4",
+      "start": 81,
+      "end": 86,
+      "credit": "Nippton Games (CC BY)",
+      "line": "Bigfoot hunt"
+    },
+    {
+      "file": "page/media/raw/drive/GTA_6_BIGFOOT_CHASE_I_GOT_LOST_IN_THE_WILDERNESS_[xvBohODgezc].mp4",
+      "start": 181,
+      "end": 186.5,
+      "credit": "Nippton Games (CC BY)",
+      "line": "No Bigfoot. Just sand."
+    }
+  ],
+  "voiceover": "videos/daily/leonida-daily-06-dev.mp3",
+  "clip_volume": 0.0,
+  "output": "videos/daily/leonida-daily-06.mp4"
+}
