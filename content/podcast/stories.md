@@ -133,3 +133,4 @@
 - Florida has no mountains: where Leonida's come from (ZME Science, Nov 20: Britton Hill 345 ft, karst, springs, Everglades slope). Skip the 2013 fatal sinkhole.
 - Naples on the map: Tin City → "Rusty Town", Pinchers → "Suckers", Marco Island dome homes (WINK News, fans spotted).
 - Binding of Isaac V1CE BSMT mode pulled AI music after review-bombing (Kotaku). Frame as "disclose AI", no mockery.
+- Run 29: Heat's Myron Gardner crashed a plane at the in-game arena, Spoelstra "classic Myron" (Yardbarker/HITC citing fan X clip; frame gently, no "plane into building" title). Watson Bay vs Cedar Key + Edgar J. Watson legend (fan wiki, check history). #VPinLeonida virtual photographers (TechRadar).

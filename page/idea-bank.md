@@ -212,3 +212,4 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - Short "Leonida has mountains. Florida doesn't" (ZME Science geology, Britton Hill 345 ft) → Real Florida vs Leonida.
 - Festival "what we know / what's unconfirmed" Short only if no recap by Nov 23.
 - Format to test: "secret location + reward" under 60 s (tranquilizer rifle via Sasquatch side quest, no story beats).
+- Run 29: Short "Don't pass this point without…" (missables, spoiler-free, verified); 32.5M day-one vs N64 lifetime 32.93M (company figures, say apples/oranges); Watson Bay vs Cedar Key (fans think).

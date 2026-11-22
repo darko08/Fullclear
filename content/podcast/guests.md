@@ -41,3 +41,4 @@
 - Run 27: Janelle James (via representation; verify) · Florida wildlife ecologist via UF/IFAS Wildlife Ecology & Conservation public contact (pick a named expert). Never contact without owner's OK.
 - MrMcg92 (TikTok @mrmcg92): real tower climber reviewing in-game towers; "real job vs the game" segment. Owner's OK before contact.
 - Florida Geological Survey geologist (FGS / Florida DEP public contact): "Leonida's mountains vs real karst". Owner's OK before contact.
+- Cedar Key Historical Society Museum (public website/phone): Watson Bay vs Cedar Key segment. Owner's OK before contact.

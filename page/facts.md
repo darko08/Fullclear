@@ -186,3 +186,4 @@ Checked = date we read the official page.
 - Laird 350 rifle in motel south of Hamlet (NoobFeed, single source).
 - Cactus Jack festival set 00:40–02:00 local (inmusicblog, unofficial).
 - Verified (TechRadar, Nov 19): Photo Studio has lighting layers (position, size, intensity, beam angle), DoF, exposure, film grain, aspect ratio, 17 filters, vignette.
+- Verified (Miami New Times, Nov 22, "GTA VI Festival: best performances and highlights"): real Cluckin' Bell/Taco Bomb/Burger Shot food, cars from the game, vinyl & merch; lineup Ca7riel & Paco Amoroso, The Dare, Rauw Alejandro, Cardi B, Prospa, Metro Boomin, Travis Scott + Cactus Jack; local outlets denied press credentials; Miami-Dade residents had free Wynwood Walls entry. Cardi B "promised" 10 copies (fulfilment unknown). Not verified: Cardi "Don't Chart"/"Magnet" (Geo.tv only).
