@@ -201,3 +201,4 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 
 ### Clip hunt 2026-11-22 09:55 UTC: 0 passed
 - Block: Serbann (webcam), The Comical Universe (sexualized framing), JoyBoySaga (GTA V / real-video comparisons).
+- 2026-11-22 12:55 clip hunter: LunarGaming 66_pjLjTsyI (trusted, CC BY) sent; Sor uJmwO7coWTY skipped (Russian card short, low value); Tom gaming blocked (reuploads).
