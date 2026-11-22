@@ -255,3 +255,6 @@
 
 ## 2026-11-22 13:05 UTC: newsroom run 28
 - No official news, no festival recap (re-check 16–20 UTC). Discord #how-to-guides: Photo Studio settings (TechRadar). Clips sent: B_QCMfGGp-c, a-DTjF87izg, dWEEWdIzeA4 (cut only scooter/UFO bits).
+
+## 2026-11-22 12:55 UTC: map editor run #12 (paused)
+- Netlify still 403 (credits). 8 pins waiting; no new research until deploys work.
