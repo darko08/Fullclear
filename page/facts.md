@@ -179,3 +179,10 @@ Checked = date we read the official page.
 
 ## Reported, not verified (run 23, Nov 21)
 - Rockstar North's Aaron Garbut (NYT): a team focused only on NPCs; 600,000+ NPC animations (TechRadar headline: "twice as many as RDR2"); writers just for pedestrian chatter. Read the NYT/primary quote before any post.
+
+### Not verified (run 28, Nov 22)
+- Sensor Tower $1.84B / 17M copies: third-party ESTIMATE (Fox5, GGRecon), not official.
+- Garages bought via "Real Estate app" ($4k–$40k, Mobalytics) vs "can't buy houses": conflicting guides.
+- Laird 350 rifle in motel south of Hamlet (NoobFeed, single source).
+- Cactus Jack festival set 00:40–02:00 local (inmusicblog, unofficial).
+- Verified (TechRadar, Nov 19): Photo Studio has lighting layers (position, size, intensity, beam angle), DoF, exposure, film grain, aspect ratio, 17 filters, vignette.

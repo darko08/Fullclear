@@ -39,3 +39,5 @@
 - Run 24: Zack Zwiezen (Kotaku author page; walked the map) · Mike Drucker (comedy writer, Coral Springs; verify handle). Never contact without owner's OK.
 - Run 25: FIU Caplin News student reporter (via Caplin News newsroom; identity unchecked). Never contact without owner's OK.
 - Run 27: Janelle James (via representation; verify) · Florida wildlife ecologist via UF/IFAS Wildlife Ecology & Conservation public contact (pick a named expert). Never contact without owner's OK.
+- MrMcg92 (TikTok @mrmcg92): real tower climber reviewing in-game towers; "real job vs the game" segment. Owner's OK before contact.
+- Florida Geological Survey geologist (FGS / Florida DEP public contact): "Leonida's mountains vs real karst". Owner's OK before contact.

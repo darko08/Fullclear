@@ -127,3 +127,9 @@
 - NBC launch profiles: 89-year-old Didier Figueroa playing with his granddaughter (don't name/show her), UK fans renting an ex-RAF control tower, a bedroom turned into Lucia's pink apartment, 9 days of military leave.
 - Janelle James says she developed and wrote her own in-game radio show with Zainab Johnson and Liza Treyger (TODAY citing her IG) — check credits; talk only, no radio clips.
 - "Is Leonida's wildlife accurate?" Rockstar: 170+ species incl. invasives (Game Informer) — no expert review yet → our gap.
+
+## Run 28 (Nov 22)
+- Tower climber MrMcg92 grades GTA 6 radio towers ("earthed tower legs with saddles"), Kotaku Nov 21, job self-reported. No spoilers.
+- Florida has no mountains: where Leonida's come from (ZME Science, Nov 20: Britton Hill 345 ft, karst, springs, Everglades slope). Skip the 2013 fatal sinkhole.
+- Naples on the map: Tin City → "Rusty Town", Pinchers → "Suckers", Marco Island dome homes (WINK News, fans spotted).
+- Binding of Isaac V1CE BSMT mode pulled AI music after review-bombing (Kotaku). Frame as "disclose AI", no mockery.

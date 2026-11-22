@@ -206,3 +206,9 @@ Story "The airport, the airboat and a very bad plan": LunarGaming szeK8uyMrpA (s
 - Run 25: "Best starter car" pick + map pin (LunarGaming Purple Drank Emerus hmWLirRHM48 after download); "Rockstar says stop using guides — the one thing not to skip" (Kotaku quote, honest hook); gym/stats explainer (verify in game; Mei); "Is the crash physics broken?" myth-test Short.
 - Run 26: "5 things to do before you leave the Keys" checklist Short (only verified facts, no mission names); "Can you revive an NPC?" myth test (needs permitted footage); fast-travel cost explainer (verify in game); Discord "screenshot of the week" via /submit (Photo Studio shots, credited).
 - Run 27: "How does X actually work?" 30 s explainers (tracker, wanted decay) + map pin; "Can you do X with zero stars?" challenge; download-time calculator card for Shorts (our own maths, 212 GB); HDR: "use the console's HDR calibration, not magic numbers" how-to.
+
+## Run 28 (Nov 22)
+- Short "5 Photo Studio settings nobody uses" (needs our own captures or CC BY photo-mode footage).
+- Short "Leonida has mountains. Florida doesn't" (ZME Science geology, Britton Hill 345 ft) → Real Florida vs Leonida.
+- Festival "what we know / what's unconfirmed" Short only if no recap by Nov 23.
+- Format to test: "secret location + reward" under 60 s (tranquilizer rifle via Sasquatch side quest, no story beats).
