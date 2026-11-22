@@ -245,3 +245,6 @@
 
 ## 2026-11-22 09:05 UTC: newsroom run 27
 - No official news, no festival press recap. Discord #how-to-guides: download time by internet speed (own maths, 212 GB fact). Clip sent: JayWayy GfQsQCW0rlk.
+
+## 2026-11-22 09:10 UTC: Discord guide editor
+- Light run: newsroom 27 (minutes earlier) already posted the download-time guide and covered sources; nothing new and verified to add. No duplicate posts.
