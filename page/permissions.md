@@ -203,3 +203,4 @@ NEEDS PERMISSION, not usable as-is: X posts carry no reuse licence. Ask each cre
 - Block: Serbann (webcam), The Comical Universe (sexualized framing), JoyBoySaga (GTA V / real-video comparisons).
 - 2026-11-22 12:55 clip hunter: LunarGaming 66_pjLjTsyI (trusted, CC BY) sent; Sor uJmwO7coWTY skipped (Russian card short, low value); Tom gaming blocked (reuploads).
 - 2026-11-22 15:55 clip hunter: sent Vanilla dMf1RqghNR4, LunarGaming _bM4rxLlmp8; blocked ProxFNX (webcam), Rahul_exe (compilation/vidIQ), gta 6 joy (live-reaction facecam).
+- 2026-11-22 18:55 clip hunter: sent DPJ mMRxTcvckls; blocked GZ (meme reupload), VikingValg (GTA 5 tags, AI thumbnails).
