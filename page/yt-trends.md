@@ -1,4 +1,4 @@
-# YouTube trends: "GTA 6", last 4 h (generated 2026-11-22 04:49 UTC)
+# YouTube trends: "GTA 6", last 4 h (generated 2026-11-22 08:48 UTC)
 
 Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative Commons licence (candidate for our clips, check for overlays).
 
@@ -6,42 +6,42 @@ Views/subs ratio > 3 = outlier (the topic won, not the channel). CC = Creative C
 
 | Views | Ratio | Len | Title | Channel | CC |
 |---:|---:|---:|---|---|---|
-| 770,682 | 0.0 | 756s | [Finally Playing GTA 6 😍 First Time ](https://youtu.be/PPWTwGU-cqQ) | Sourav Joshi Vlogs |  |
-| 123,826 | 0.0 | 57s | [Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret #shorts](https://youtu.be/viFodrsnoYQ) | FactTechz |  |
-| 115,889 | 0.0 | 9s | [PERROS en GTA 6 ☠️🗿 #mrrelevante #videojuegos](https://youtu.be/YD4UTBe056Q) | Soy RELEVANTE |  |
-| 68,881 | 0.1 | 0s | [GTA 6 LIVE PS5 PRO (DIA 4)](https://youtu.be/_46R56gQndc) | Lives do Olka |  |
-| 55,432 | 0.0 | 18s | [How To Get GTA 6 For FREE! #shorts](https://youtu.be/8oGhb2zTgWY) | Shooteo |  |
-| 54,002 | 0.0 | 64s | [GTA 6 একাই ভেঙে দিল গেমিং দুনিয়ার সব রেকর্ড | GTA 6 Broke All Gaming Records](https://youtu.be/YIJdIGHqwiI) | Islamic Sijan |  |
-| 47,717 | 0.1 | 11s | [Bro's playing GTA 6 in REAL LIFE](https://youtu.be/nsLu1azTkaA) | BloxKing |  |
-| 41,720 | 0.0 | 1121s | [KAREN ME DA un BESO POR CADA MISIÓN en GTA 6 !!](https://youtu.be/AmZ09oZ5F6c) | YOLO AVENTURAS |  |
-| 41,016 | 0.0 | 22s | [GTA 6 Hate Is Unjustified #gta6 #gtavi #gtaonline](https://youtu.be/xuPIIJT0Htg) | DarkViperAU |  |
-| 27,527 | 0.5 | 35s | [Joe Bart Finds GTA 6 HULK!  ✋😮🤚](https://youtu.be/uaQYxmtJWFg) | JOE CLIPPER |  |
-| 26,656 | 0.1 | 867s | [Encontramos al BIGFOOT en GTA 6…](https://youtu.be/SU7MblSNx_c) | AwitaVTuber |  |
-| 26,046 | 0.0 | 63s | [É possível REVIVER um NPC no hospital do GTA 6?](https://youtu.be/iKN-S3mVyps) | VINNIXP |  |
-| 24,693 | 0.1 | 407s | [我下載了 GTA 6...](https://youtu.be/ZEbcILW9vUU) | SlingshotBwai 彈弓男孩 |  |
-| 21,160 | 0.0 | 35s | [IShowSpeed ने GTA 6 खत्म कर दिया! 😱](https://youtu.be/yQYBCSOmBUo) | Info Infinity |  |
-| 20,704 | 59.3 | 46s | [5 GTA 6 Tips EVERYONE Must Know! #shorts](https://youtu.be/gBTjiIavF5I) | Tarell |  |
-| 19,974 | 0.0 | 767s | [I WENT TO THE "N" POINT IN GTA 6 (END OF MAP) 😱](https://youtu.be/p_AYQOlCS34) | Scalpo |  |
-| 19,865 | 0.0 | 101s | [Charlie's Can't Stop Crashing His ATV In GTA 6 | MoistCr1TiKaL](https://youtu.be/5B2_i1l8ybw) | Moist Charlie Clips |  |
-| 19,859 | 0.0 | 120s | [GTA 5 Is Better Than GTA 6?](https://youtu.be/uT2ZUUSpeI0) | Asmongold Shorts |  |
-| 18,812 | 2.6 | 63s | ["5 Things You MUST Do Before Chapter 2 in GTA 6!" #gta6](https://youtu.be/qgPhwANXRIw) | D_Los1 |  |
-| 18,537 | 0.1 | 23s | [パトカーの上に乗る　比較　#gta #gta6 #グラセフ](https://youtu.be/k_fMMfUQgRc) | ピンシー　 |  |
-| 17,789 | 0.3 | 1153s | [I Stole a DRACO so I BACKDOORED the WEED Plug In GTA 6..](https://youtu.be/7b6sST7vTVc) | Zoom |  |
-| 15,603 | 0.0 | 129s | [😱 GTA 6-ல் HITACHI JCB இவ்வளவு REALISTIC-ஆ?](https://youtu.be/pB5ws0JDOk4) | SRM PLAYZ |  |
-| 15,012 | 0.0 | 940s | [Reacting To Yn Thinks He's Playing GTA 6!](https://youtu.be/FkLd8rVsDsk) | NotYourAverageFlight |  |
-| 14,505 | 0.7 | 969s | [GTA 6 Proves You Can Never Please Games Journalists](https://youtu.be/l2LF8T0_4XU) | Toasty Gaming |  |
-| 14,320 | 0.1 | 749s | [Incels & Grifters Can't Stop Crying Over GTA 6](https://youtu.be/N46aj29FKyo) | Antonio Talks |  |
+| 670,805 | 0.0 | 0s | [JASON DAN LUCIA MAU CARI UANG TAPI KOK.... Grand Theft Auto VI GAMEPLAY #6](https://youtu.be/u_Lb6sh9N0M) | Windah Basudara |  |
+| 217,975 | 0.1 | 133s | [Never Go To "N Point" Of GTA 6!](https://youtu.be/jk18rRBfZM4) | FANTIZ GAMING |  |
+| 206,903 | 0.0 | 107s | [He Chose Homework 📚 Over GTA 6 🎮](https://youtu.be/_-Grsj5MxeE) | His Story |  |
+| 206,194 | 0.0 | 0s | [🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! (PS5 PRO)](https://youtu.be/Vkbdv10eFcI) | Typical Gamer |  |
+| 75,942 | 0.1 | 0s | [Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps)| Epi 05 | Manguni Gamer](https://youtu.be/MfxixNLzZSY) | Manguni Gamer |  |
+| 66,357 | 0.0 | 0s | [GTA6 is good game, end of Chapter 1](https://youtu.be/39ROrSOsQi8) | Maximilian Dood |  |
+| 59,222 | 0.1 | 63s | [Ternyata Banyak Detail Keren Yang Ada di GTA 6 #3](https://youtu.be/cEV_bPB8Fjk) | Darsa Gaming |  |
+| 54,608 | 0.1 | 0s | [(80% Done)Non stop 24 hour stream done of GTA 6 - Day 5](https://youtu.be/ze4SNGhLtCw) | Casetoo is Live |  |
+| 40,723 | 0.0 | 620s | [Kai Cenat Plays GTA 6 In Real Life!](https://youtu.be/ETWvry6twFA) | Kai Cenat Live |  |
+| 22,797 | 0.1 | 904s | [I Tried to Steal a Police Car on My First Day in GTA 6 😂🚔!](https://youtu.be/rOUgWpY8uXs) | JENI GAMING 2.0 |  |
+| 20,057 | 0.2 | 838s | [《GTA 6》玩家評價跌到5.6分，跨性別角色引發爭議？【Asmongold中文】](https://youtu.be/XBUn-_QBhsc) | 喵耳電波 |  |
+| 19,598 | 0.3 | 18s | [GTA 6😂‼️#shorts #shortvideo #trending #gta #gta6 #funny #youtubeshorts #officalv](https://youtu.be/gztv_eHk00c) | Aakash Yadav |  |
+| 19,212 | 0.0 | 862s | [Stealing CELEBRITY SPORTS CAR in GTA 6](https://youtu.be/WQXiTewPibk) | ArgoniX Gaming |  |
+| 19,115 | 0.4 | 26s | [GTA 6 Is Being Called a Girlfriend Simulator 💀](https://youtu.be/JtLM5CGtVZU) | MoreCritical |  |
+| 18,554 | 2.2 | 914s | [Идеальное ограбление без смертей, арестов и переодеваний в GTA 6](https://youtu.be/_QRWYUpY_7s) | Voice Of Vice |  |
+| 18,540 | 0.7 | 1133s | [😱ЕШҚАШАН GTA 6 - да 6 ЖҰЛДЫЗ АЛМА!😱](https://youtu.be/cLg8M-TOlWc) | PERDEBEK Gaming! |  |
+| 16,015 | 0.1 | 33s | [GTA 6 KASI PAHAM GUA😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #g](https://youtu.be/TiBxwsO48lk) | Crazy Games Ind |  |
+| 15,423 | 0.1 | 0s | [Live! UNTIL FINISHING GTA 6 | ENDING](https://youtu.be/FsWuuP2QATI) | GrooT R6 |  |
+| 14,253 | 0.0 | 0s | [AKHIRNYA AKU TINGGAL DI VICE CITY, RAMPOK, MISI, EXPLORE !! GTA VI #5](https://youtu.be/JNdITZpt2zs) | KeizerZ |  |
+| 13,530 | 0.3 | 36s | [Michael In GTA 6 💀 | Techno Gamerz 🔥 | #shorts #technogamerz #ujjwalgamer](https://youtu.be/BaWtGQoDcAM) | NotRexx Editz |  |
+| 13,367 | 0.1 | 61s | [5 Things I Didn't Know In GTA 6](https://youtu.be/GfQsQCW0rlk) | JayWayyGaming | CC |
+| 13,038 | 0.1 | 29s | [Everyone’s House Is In GTA 6…](https://youtu.be/HqNxwuzUceY) | Mark Beshae |  |
+| 12,721 | 0.4 | 72s | [các chi tiết trong GTA 6](https://youtu.be/N3YADcJYBlo) | Gamevn.197 |  |
+| 12,646 | 1.5 | 9s | [Revolver Reload | GTA 6 Vs RDR2](https://youtu.be/ugZCAHpkZWU) | SHABAM |  |
+| 12,325 | 0.0 | 909s | [GTA 6 HAS A SECRET BIGFOOT?! 👀](https://youtu.be/qh-Y5WNhFXI) | shreeman legend live |  |
 
 ## Outliers (ratio > 3, at least 5,000 views)
 
 | Views | Subs | Ratio | Len | Title | Channel |
 |---:|---:|---:|---:|---|---|
-| 11,482 | 29 | 114.8 | 16s | [DDG Has Been Playing GTA 6 For So Long He Started To Act Like A NPC! 😭 #ddg #gta](https://youtu.be/EZEYDXVETbg) | CAMBRIDGE |
-| 20,704 | 349 | 59.3 | 46s | [5 GTA 6 Tips EVERYONE Must Know! #shorts](https://youtu.be/gBTjiIavF5I) | Tarell |
-| 9,058 | 258 | 35.1 | 47s | [Where to Find the Gold AK in GTA 6](https://youtu.be/gJS7CnsmeEk) | Rizzy RP |
-| 7,772 | 1,060 | 7.3 | 51s | [IShowSpeed GTA 6 khatam karne wala pehla insaan NAHI tha 😳](https://youtu.be/xn1E7UtB_fA) | abhimanthan |
+| 5,092 | 1,080 | 4.7 | 30s | [How Lucia gets past her ankle monitor in GTA 6](https://youtu.be/O8Usr6KufcE) | CertifyedNPC |
 
-Shorts (≤180 s) in sample: 50, median views 8,652. Long (>180 s): 50.
+Shorts (≤180 s) in sample: 49, median views 8,967. Long (>180 s): 51.
 
 ## CC BY candidates (check permissions.md rules: own footage, no webcam/stream overlays)
 
+- 13,367 views · [5 Things I Didn't Know In GTA 6](https://youtu.be/GfQsQCW0rlk) · JayWayyGaming
+- 5,197 views · [Elke Dood Wordt Mijn Auto Sneller In GTA 6](https://youtu.be/SGUEd_OR2_Q) · Jessy
+- 3,394 views · [ScoutOP Playing GTA 6 In Bigg Boss House....!?](https://youtu.be/JByiKU0PSQ0) · ItzAruGod
